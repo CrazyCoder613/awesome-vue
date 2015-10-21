@@ -64,7 +64,6 @@
 - [Getting Started with Vue.js](http://www.sitepoint.com/getting-started-with-vue-js/) on Sitepoint <sup>0.12</sup>
 - [Vue.js Tutorial](http://vegibit.com/vue-js-tutorial/) on Vegibit <sup>0.12</sup>
 - [Vue.js video series in portuguese](http://forum.vuejs.org/topic/49/vue-js-video-series-in-portuguese) <sup>0.12</sup>
-- [Vue.js video series in russian](http://ausite.ru/category/js/vue-js) on Ausite <sup>0.12</sup>
 - [A Quick Introduction to Vue.js](http://mattsparks.com/a-quick-introduction-to-vue-js/) by Matt Sparks <sup>0.12</sup>
 - [Getting Started with Vue.js + vue-router](https://www.youtube.com/watch?v=QN7l3ydXvx0) by Michael Calkins <sup>0.12</sup>
 - [Getting Started with Vue.js - AngularJS perspective](http://fadeit.dk/blog/post/getting-started-with-vuejs-angularjs-perspective) by Dan Mindru <sup>0.11</sup>
@@ -151,6 +150,7 @@
   - [vue-titlecase](https://github.com/Haixing-Hu/vue-titlecase): A plugin providing a global filter and an instance method used to titlecase (different from capitalize) strings. By @Haixing-Hu
   - [vue-format](https://github.com/Haixing-Hu/vue-format): A plugin providing a global filter and an instance method used to format messages with arguments.  By @Haixing-Hu
   application.  By @Haixing-Hu
+  - [vue-clickaway](https://github.com/simplesmiler/vue-clickaway): Assign a method to be called whenever user clicks away from the element. By @simplesmiler
 
 ### Projects Using Vue.js
 
