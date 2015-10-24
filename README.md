@@ -68,7 +68,6 @@
 - [A Quick Introduction to Vue.js](http://mattsparks.com/a-quick-introduction-to-vue-js/) by Matt Sparks <sup>0.12</sup>
 - [Getting Started with Vue.js + vue-router](https://www.youtube.com/watch?v=QN7l3ydXvx0) by Michael Calkins <sup>0.12</sup>
 - [Getting Started with Vue.js - AngularJS perspective](http://fadeit.dk/blog/post/getting-started-with-vuejs-angularjs-perspective) by Dan Mindru <sup>0.11</sup>
-- [Many JS Frameworks but Vue.js Is Different](http://taha-sh.com/blog/many-js-frameworks-but-vuejs-is-different) by Taha Shashtari <sup>0.12</sup>
 
 ### Tools
 
@@ -99,6 +98,7 @@
 
   - [vue-validator](https://github.com/vuejs/vue-validator) - Form validation plugin maintained by @kazupon <sup>0.12</sup>
   - [Vue validator](https://github.com/xrado/vue-validator) by @xrado
+  - [vue-form](https://github.com/fergaldoyle/vue-form) by @fergaldoyle <sup>1.0 compatible</sup>
 
 - #### UI Components
 
