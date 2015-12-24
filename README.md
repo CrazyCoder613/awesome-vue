@@ -15,7 +15,8 @@
 - [Podcasts](#podcasts)
 - [Official Examples](#official-examples)
 - [Tutorials](#tutorials)
-- [Tools](#tools)
+- [Development Tools](#development-tools)
+- [Syntax Hihglighting](#syntax-highlighting)
 - [Libraries & Plugins](#libraries--plugins)
   - [Routing](#routing)
   - [Ajax/Data](#ajaxdata)
@@ -67,7 +68,6 @@
 
 #### 1.0
 
-- [What's New in Vue.js 1.0](http://www.sitepoint.com/whats-new-in-vue-js-1-0/) on Sitepoint <sup>1.0</sup>
 - [Vue.js screencasts](https://laracasts.com/series/learning-vue-step-by-step) on Laracasts <sup>1.0</sup>
 - [Build an App with Vue.js: From Authentication to Calling an API](https://auth0.com/blog/2015/11/13/build-an-app-with-vuejs/) on Auth0 blog <sup>1.0</sup>
 - [Create a GitHub File Explorer Using Vue.js](https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js) on Scotch.io <sup>1.0</sup>
@@ -85,15 +85,20 @@
 - [Many JS Frameworks but Vue.js Is Different](http://taha-sh.com/blog/many-js-frameworks-but-vuejs-is-different) by Taha Shashtari <sup>0.12</sup>
 - [Getting Started with Vue.js - AngularJS perspective](http://fadeit.dk/blog/post/getting-started-with-vuejs-angularjs-perspective) by Dan Mindru <sup>0.11</sup>
 
-### Tools
+### Development Tools
 
 - [vue-loader](https://github.com/vuejs/vue-loader) - Vue component loader for Webpack.
   - [vue-loader-example](https://github.com/vuejs/vue-loader-example)
 - [vueify](https://github.com/vuejs/vueify) - Vue component transform for Browserify.
   - [vueify-example](https://github.com/vuejs/vueify-example)
 - [vue-devtools](https://github.com/vuejs/vue-devtools) - Chrome devtools extension for debugging Vue applications.
+
+### Syntax Highlighting
+
 - [Vue Syntax Highlighting for Sublime Text](https://github.com/vuejs/vue-syntax-highlight)
 - [Vue Syntax Highlighting for Atom](https://atom.io/packages/language-vue-component) by @CYBAI
+- [Vue Syntax Highlighting for Vim](https://github.com/posva/vim-vue) by @darthmall and @posva
+- [Vue Syntax Highlighting for Visual Studio Code](https://marketplace.visualstudio.com/items/liuji-jim.vue) by Jim Liu
 
 ### Libraries & Plugins
 
@@ -104,7 +109,6 @@
   - [Vue page](https://github.com/AlexToudic/vue-page), a routing system based on pagejs by @AlexToudic
   - [Vue Lanes](https://github.com/bpierre/vue-lanes), an event-based routing system for Vue by @bpierre
   - [Vue route](https://github.com/ayamflow/vue-route), ng-view inspired routes for Vue by @ayamflow
-  - [voie](https://github.com/inca/voie) — simple router / layout manager inspired by FSMs and ui-router by [Boris Okunskiy](https://github.com/inca)<sup>1.0</sup>
 
 - #### Ajax/Data
 
@@ -138,7 +142,6 @@
   - [vue-country-select](https://github.com/Haixing-Hu/vue-country-select): A Vue.js component implementing the select control used to select countries. It depends on [vue-select](https://github.com/Haixing-Hu/vue-select) and [vue-i18n](https://github.com/Haixing-Hu/vue-i18n). By @Haixing-Hu
   - [Form generation from JSON Schema](https://github.com/dgerber/vue-formidable) by @dgerber
   - [vue-panel](https://github.com/ericmcdaniel/vue-panel): A suite of Vue.js components for building Flexbox layouts by @ericmcdaniel
-  - [vue-google-maps](https://github.com/GuillaumeLeclerc/vue-google-maps/): A suite of Vue.js components to build reactive Google Maps Applications by @GuillaumeLeclerc 
 
 - #### i18n
 
@@ -152,7 +155,6 @@
   - [Vue Samples](https://github.com/superlloyd/VueSamples) by @superlloyd
   - [HackerNews clone with vue.js + vue-router](https://github.com/kazupon/vue-router-hackernews) by @kazupon
   - [Electron + Vue example](https://github.com/bradstewart/electron-boilerplate-vue) by @bradstewart
-  - [Single page application example (Vue + Voie)](https://github.com/inca/voie-example) by [Boris Okunskiy](https://github.com/inca)
 
 - #### Boilerplates
   - [Boilerplate for Vue.js plugin ](https://github.com/kazupon/vue-plugin-boilerplate) by @kazupon
@@ -163,7 +165,6 @@
   - [VENM stack yeoman generator](https://github.com/jfelsinger/generator-venm) by @jfelsinger
   - [Grail Yeoman Generator](https://github.com/mustardamus/generator-grail): a advanced yeoman generator for a modern modular one page web app, extendable with Vue.js alongside other nice tools
   - [VuePack](https://github.com/egoist/vuepack): A modern starter for Vue and Webpack by @egoist
-  - [VueWebgulp](https://github.com/rodzzlessa24/vue-webgulp): A skeleton app using Vuejs, Gulp, and Webpack by @rodzzlessa24
 
 - #### Integrations
 
@@ -183,7 +184,6 @@
   - [vue-format](https://github.com/Haixing-Hu/vue-format): A plugin providing a global filter and an instance method used to format messages with arguments.  By @Haixing-Hu
   application.  By @Haixing-Hu
   - [vue-clickaway](https://github.com/simplesmiler/vue-clickaway): Assign a method to be called whenever user clicks away from the element. By @simplesmiler
-  - [vue-focus](https://github.com/simplesmiler/vue-focus): Manage input focus in the MVVM-friendly way. By @simplesmiler
 
 ### Projects Using Vue.js
 
@@ -198,7 +198,6 @@
   - [Dashboard framework](https://github.com/thelinuxlich/vue-dashing-js) by @thelinuxlich
   - [a simple notepad](https://github.com/sapjax/fewords)
   - [FilterBlend](https://github.com/ilyashubin/FilterBlend): CSS blend modes and filters playground by @ilyashubin
-  - [Koel](http://koel.phanan.net): Music streaming server
 
 - #### Apps/Websites
 
