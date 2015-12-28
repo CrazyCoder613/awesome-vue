@@ -73,7 +73,6 @@
 - [Build an App with Vue.js: From Authentication to Calling an API](https://auth0.com/blog/2015/11/13/build-an-app-with-vuejs/) on Auth0 blog <sup>1.0</sup>
 - [Create a GitHub File Explorer Using Vue.js](https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js) on Scotch.io <sup>1.0</sup>
 - [Vue.js Tutorial](http://vegibit.com/vue-js-tutorial/) on Vegibit <sup>1.0</sup>
-- [Vue.js build set-up from scratch with webpack, vue-loader and hot reload](http://skyronic.com/2015/12/28/vue-project-scratch/)
 
 #### 0.12 and earlier
 
@@ -148,6 +147,7 @@
   - [Form generation from JSON Schema](https://github.com/dgerber/vue-formidable) by @dgerber
   - [vue-panel](https://github.com/ericmcdaniel/vue-panel): A suite of Vue.js components for building Flexbox layouts by @ericmcdaniel
   - [vue-google-maps](https://github.com/GuillaumeLeclerc/vue-google-maps/): A suite of Vue.js components to build reactive Google Maps Applications by @GuillaumeLeclerc 
+  - [vue-transition](https://github.com/Twiknight/vue-transition): A component to trigger a CSS transition at any time by @Twiknight
 
 - #### i18n
 
