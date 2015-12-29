@@ -73,6 +73,7 @@
 - [Build an App with Vue.js: From Authentication to Calling an API](https://auth0.com/blog/2015/11/13/build-an-app-with-vuejs/) on Auth0 blog <sup>1.0</sup>
 - [Create a GitHub File Explorer Using Vue.js](https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js) on Scotch.io <sup>1.0</sup>
 - [Vue.js Tutorial](http://vegibit.com/vue-js-tutorial/) on Vegibit <sup>1.0</sup>
+- [Vue.js build set-up from scratch with webpack, vue-loader and hot reload](http://skyronic.com/2015/12/28/vue-project-scratch/)
 
 #### 0.12 and earlier
 
@@ -132,7 +133,10 @@
   - [vue-form](https://github.com/fergaldoyle/vue-form) by @fergaldoyle <sup>1.0 compatible</sup>
 
 - #### UI Components
-
+  
+  - [SVG icons](http://kzima.github.io/vuestrap-icons/#/icons), SVG sprites in form of a simple `<icon>` component, by @kzima <sup>1.0</sup>
+  - [Extra Vuestrap components](http://gritcode.github.io/gritcode-components/#/toast), more components built with just B4 and Vue.js, by @kzima <sup>1.0</sup>
+  - [VueStrap Base Components](http://kzima.github.io/vuestrap-base-components/#/accordion), A complete set of Bootstrap 4 web components built with pure Vue.js, by @kzima <sup>1.0</sup>
   - [VueStrap](http://yuche.github.io/vue-strap/), Bootstrap components built with pure Vue.js by @yuche <sup>1.0</sup>
   - [VueBoot](http://morgul.github.io/vueboot/), Bootstrap v4 components by @Morgul <sup>1.0</sup>
   - [vue-mdl](https://github.com/posva/vue-mdl): Reusable Vue.js components using Material Design Lite. By [@posva](https://github.com/posva)
