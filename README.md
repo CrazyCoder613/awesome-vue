@@ -16,7 +16,7 @@
 - [Official Examples](#official-examples)
 - [Tutorials](#tutorials)
 - [Development Tools](#development-tools)
-- [Syntax Highlighting](#syntax-highlighting)
+- [Syntax Hihglighting](#syntax-highlighting)
 - [Libraries & Plugins](#libraries--plugins)
   - [Routing](#routing)
   - [Ajax/Data](#ajaxdata)
@@ -169,7 +169,6 @@
 
 - #### Boilerplates
   - [Boilerplate for Vue.js plugin ](https://github.com/kazupon/vue-plugin-boilerplate) by @kazupon
-  - [Boilerplate for Vue.js & Atom Electron ](https://github.com/rodzzlessa24/vue-electron) by @rodzzlessa24
 
 - #### Scaffolding
   
@@ -185,7 +184,6 @@
   - [Vue for Meteor](https://github.com/zhouzhuojie/meteor-vue) by @zhouzhuojie
   - [ScalaJS bindings for Vue.js](https://github.com/fancellu/scalajs-vue) by @fancellu
   - [Socketize Backend](https://github.com/Socketize/vue.js-plugin): Sync your model data to Socketize backend automatically. By [@Socketize](https://github.com/Socketize)
-  - [Vue-Meteor-Data](https://github.com/Grottolabs/vue-meteor-data) Two-way-reactivity mixin for Vue and Meteor by @JakobRosenberg
 
 - #### General Plugins/Directives
 
@@ -216,6 +214,7 @@
   - [a simple notepad](https://github.com/sapjax/fewords)
   - [FilterBlend](https://github.com/ilyashubin/FilterBlend): CSS blend modes and filters playground by @ilyashubin
   - [Koel](http://koel.phanan.net): Music streaming server
+  - [Selection Translator](https://chrome.google.com/webstore/detail/ikhdkkncnoglghljlkmcimlnlhkeamad) <sup>[[Source]](https://github.com/lmk123/crx-selection-translate)</sup> A Chrome Extension let browse any language websites has never been easier.
 
 - #### Apps/Websites
 
