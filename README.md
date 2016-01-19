@@ -156,7 +156,7 @@
   - [Extra Vuestrap components](http://gritcode.github.io/gritcode-components/#/toast), more components built with just B4 and Vue.js, by @kzima <sup>1.0</sup>
   - [VueStrap Base Components](http://kzima.github.io/vuestrap-base-components/#/accordion), A complete set of Bootstrap 4 web components built with pure Vue.js, by @kzima <sup>1.0</sup>
   - [Vue YouTube Embed](https://github.com/kaorun343/vue-youtube-embed): a directive for Vue.js and YouTube by @kaorun343
-
+  - [Vue datepicker](https://github.com/hilongjw/vue-datepicker): calendar and datepicker component with material design for Vue.js  by @hilongjw
 - #### i18n
 
   - [vue-i18n](https://github.com/kazupon/vue-i18n): Internationalization plugin.
@@ -207,6 +207,7 @@
   - [vue-clickaway](https://github.com/simplesmiler/vue-clickaway): Assign a method to be called whenever user clicks away from the element. By @simplesmiler
   - [vue-focus](https://github.com/simplesmiler/vue-focus): Manage input focus in the MVVM-friendly way. By @simplesmiler
   - [vue-transfer-dom](https://github.com/rhyzx/vue-transfer-dom): Transfer DOM to another location. by @rhyzx
+  - [vue-lazyload](https://github.com/hilongjw/vue-lazyload): lazyloading images. by @hilongjw
 
 ### Projects Using Vue.js
 
