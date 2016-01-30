@@ -162,6 +162,7 @@
   - [vue-date-picker](https://github.com/Bubblings/vue-date-picker): A simple datepicker component for Vue.js by @Bubblings
   - [vue-spinner](https://github.com/greyby/vue-spinner): A collection of loading spinners with Vue.js.
   - [vue-image-loader](https://github.com/eduardostuart/vue-image-loader): Async image loader for Vue.js by @eduardostuart
+  - [Vue-progressbar](https://github.com/hilongjw/vue-progressbar): A lightweight progress bar for Vue.js  by @hilongjw
 
 - #### i18n
 
@@ -248,6 +249,7 @@
   - [Compare Prices by Currys & PCWorld](https://play.google.com/store/apps/details?id=uk.co.dixons.compareprices&hl=en)
   - [Grammarly](https://grammarly.com/) mistake-free writing service
   - [Laravist](https://laravist.com/)
+  - [Atiiv](https://www.atiiv.com) An app aimed for personal trainers and their clients.
 
 - #### Interactive Experiences
 
