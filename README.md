@@ -51,6 +51,7 @@
 - [Twitter](https://twitter.com/vuejs)
 - [Gitter Chat Room](https://gitter.im/vuejs/vue)
 - [Official Forum](http://forum.vuejs.org/)
+- [vue-requests](https://github.com/simplesmiler/vue-requests) - Request a Vue.js module you wish existed or get ideas for modules
 
 ### Podcasts
 
@@ -253,6 +254,7 @@
   - [Laravist](https://laravist.com/)
   - [Atiiv](https://atiiv.com) An app aimed for personal trainers and their clients.
   - [Statamic](http://v2.statamic.com)
+  - [Embalses!](http://embalses.azurewebsites.net/) A tool to report water dam level using the U.S. Geological Survey database.
 
 - #### Interactive Experiences
 
