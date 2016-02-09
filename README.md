@@ -182,7 +182,6 @@
   - [HackerNews clone with vue.js + vue-router](https://github.com/kazupon/vue-router-hackernews) by @kazupon
   - [Electron + Vue example](https://github.com/bradstewart/electron-boilerplate-vue) by @bradstewart
   - [Single page application example (Vue + Voie)](https://github.com/inca/voie-example) by [Boris Okunskiy](https://github.com/inca)
-  - [Begin - Task Manager SPA written in Vue + Lumen](https://github.com/rajabishek/begin) by [Raj Abishek](https://github.com/rajabishek)
 
 - #### Boilerplates
   - [Boilerplate for Vue.js plugin ](https://github.com/kazupon/vue-plugin-boilerplate) by @kazupon
@@ -260,6 +259,7 @@
   - [Atiiv](https://atiiv.com) An app aimed for personal trainers and their clients.
   - [Statamic](http://v2.statamic.com)
   - [Embalses!](http://embalses.azurewebsites.net/) A tool to report water dam level using the U.S. Geological Survey database.
+  - [TravelMap](http://clem.travelmap.fr) A simple way for travellers to create a blog based on a Map
 
 - #### Interactive Experiences
 
