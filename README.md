@@ -100,9 +100,8 @@
   - [vueify-example](https://github.com/vuejs/vueify-example)
 - [vue-devtools](https://github.com/vuejs/vue-devtools) - Chrome devtools extension for debugging Vue applications.
 - [grunt-vueify](https://github.com/SkewedAspect/grunt-vueify) - Translate `.vue` files to pure JavaScript, without using Browserify. (Useful for Electron apps)
-- [vue-compiler](https://github.com/paulpflug/vue-compiler) - A simple CLI wrapper around vueify
+- [vue-compiler](https://github.com/paulpflug/vue-compiler) A simple CLI wrapper around vueify
 - [vue-autocompile](https://atom.io/packages/vue-autocompile) - Atom.io package to compile `.vue` files on save.
-- [vue-dev-server](https://github.com/paulpflug/vue-dev-server) - A small webpack-based development server for building standalone `vue` components
 
 ### Syntax Highlighting
 
@@ -223,6 +222,7 @@
   - [vue-lazyload](https://github.com/hilongjw/vue-lazyload): lazyloading images. by @hilongjw
   - [v-touch](https://github.com/didierfranc/v-touch): The easiest way to use Hammer.js with Vue.js and use touch gestures. by [@didierfranc](https://github.com/didierfranc) <sup>Vue.js 1.x</sup>
   - [vue-mixins](https://github.com/paulpflug/vue-mixins) A collection of mixins aimed to replace some jQuery functionality
+  - [vue-filters](https://github.com/paulpflug/vue-filters) A collection of filters
 
 ### Projects Using Vue.js
 
