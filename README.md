@@ -100,8 +100,9 @@
   - [vueify-example](https://github.com/vuejs/vueify-example)
 - [vue-devtools](https://github.com/vuejs/vue-devtools) - Chrome devtools extension for debugging Vue applications.
 - [grunt-vueify](https://github.com/SkewedAspect/grunt-vueify) - Translate `.vue` files to pure JavaScript, without using Browserify. (Useful for Electron apps)
-- [vue-compiler](https://github.com/paulpflug/vue-compiler) A simple CLI wrapper around vueify
+- [vue-compiler](https://github.com/paulpflug/vue-compiler) - A simple CLI wrapper around vueify
 - [vue-autocompile](https://atom.io/packages/vue-autocompile) - Atom.io package to compile `.vue` files on save.
+- [vue-dev-server](https://github.com/paulpflug/vue-dev-server) - A small webpack-based development server for building standalone `vue` components
 
 ### Syntax Highlighting
 
@@ -168,7 +169,7 @@
   - [vue-image-loader](https://github.com/eduardostuart/vue-image-loader): Async image loader for Vue.js by @eduardostuart
   - [Vue-progressbar](https://github.com/hilongjw/vue-progressbar): A lightweight progress bar for Vue.js  by @hilongjw
   - [vue-clusterize](https://github.com/paulpflug/vue-clusterize): Invisible pagination / clusterize in vue
-
+  - [Famous-Vue](https://github.com/irwansyahwii/Famous-Vue): Declarative Famous using Vue
 - #### i18n
 
   - [vue-i18n](https://github.com/kazupon/vue-i18n): Internationalization plugin.
@@ -182,6 +183,7 @@
   - [HackerNews clone with vue.js + vue-router](https://github.com/kazupon/vue-router-hackernews) by @kazupon
   - [Electron + Vue example](https://github.com/bradstewart/electron-boilerplate-vue) by @bradstewart
   - [Single page application example (Vue + Voie)](https://github.com/inca/voie-example) by [Boris Okunskiy](https://github.com/inca)
+  - [Begin - Task Manager SPA written in Vue + Lumen](https://github.com/rajabishek/begin) by [Raj Abishek](https://github.com/rajabishek)
 
 - #### Boilerplates
   - [Boilerplate for Vue.js plugin ](https://github.com/kazupon/vue-plugin-boilerplate) by @kazupon
@@ -260,6 +262,7 @@
   - [Atiiv](https://atiiv.com) An app aimed for personal trainers and their clients.
   - [Statamic](http://v2.statamic.com)
   - [Embalses!](http://embalses.azurewebsites.net/) A tool to report water dam level using the U.S. Geological Survey database.
+  - [TravelMap](http://clem.travelmap.fr) A simple way for travellers to create a blog based on a Map
 
 - #### Interactive Experiences
 
