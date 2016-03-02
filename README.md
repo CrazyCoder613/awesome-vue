@@ -108,7 +108,6 @@
 - [vue-compiler](https://github.com/paulpflug/vue-compiler) - A simple CLI wrapper around vueify
 - [vue-autocompile](https://atom.io/packages/vue-autocompile) - Atom.io package to compile `.vue` files on save.
 - [vue-dev-server](https://github.com/paulpflug/vue-dev-server) - A small webpack-based development server for building standalone `vue` components
-- [vue-go-cli](https://github.com/rodzzlessa24/vue-go-cli) - a CLI tool for scaffolding new projects generating components, services, and mixins.
 
 ### Syntax Highlighting
 
@@ -208,7 +207,6 @@
   - [VuePack](https://github.com/egoist/vuepack): A modern starter for Vue and Webpack by @egoist
   - [VueWebgulp](https://github.com/rodzzlessa24/vue-webgulp): A skeleton app using Vuejs, Gulp, and Webpack by @rodzzlessa24
   - [Vuetober](https://github.com/scottbedard/oc-vuetober-theme): SPA scaffolding for October CMS
-  - [vue-go-cli](https://github.com/rodzzlessa24/vue-go-cli) - a CLI tool for scaffolding new projects generating components, services, and mixins.
 
 - #### Integrations
 
@@ -240,6 +238,7 @@
   - [vue-filters](https://github.com/paulpflug/vue-filters) A collection of filters
   - [vue-round-filter](https://github.com/rascada/vue-round-filter) filter for rounding with whichever decimal accuracy
   - [vue-paginate](https://github.com/TahaSh/vue-paginate) A simple plugin to use pagination in vue.js. by @TahaSh
+  - [vue-super](https://github.com/rpkilby/vue-super) A simple plugin to call methods on parent components.
 
 ### Projects Using Vue.js
 
