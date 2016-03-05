@@ -108,6 +108,7 @@
 - [vue-compiler](https://github.com/paulpflug/vue-compiler) - A simple CLI wrapper around vueify
 - [vue-autocompile](https://atom.io/packages/vue-autocompile) - Atom.io package to compile `.vue` files on save.
 - [vue-dev-server](https://github.com/paulpflug/vue-dev-server) - A small webpack-based development server for building standalone `vue` components
+- [vue-go-cli](https://github.com/rodzzlessa24/vue-go-cli) - a CLI tool for scaffolding new projects generating components, services, and mixins.
 
 ### Syntax Highlighting
 
@@ -207,6 +208,7 @@
   - [VuePack](https://github.com/egoist/vuepack): A modern starter for Vue and Webpack by @egoist
   - [VueWebgulp](https://github.com/rodzzlessa24/vue-webgulp): A skeleton app using Vuejs, Gulp, and Webpack by @rodzzlessa24
   - [Vuetober](https://github.com/scottbedard/oc-vuetober-theme): SPA scaffolding for October CMS
+  - [vue-go-cli](https://github.com/rodzzlessa24/vue-go-cli) - a CLI tool for scaffolding new projects generating components, services, and mixins.
 
 - #### Integrations
 
@@ -257,6 +259,7 @@
   - [Selection Translator](https://chrome.google.com/webstore/detail/ikhdkkncnoglghljlkmcimlnlhkeamad) <sup>[[Source]](https://github.com/lmk123/crx-selection-translate)</sup> A Chrome Extension let browse any language websites has never been easier.
   - [SwitchHosts](https://oldj.github.io/SwitchHosts/) <sup>[[Source]](https://github.com/oldj/SwitchHosts)</sup> Switch hosts quickly.
   - [RSS Reader](https://github.com/mrgodhani/rss-reader) Simple RSS Reader made using atom electron and vue.js.
+  - [Gokotta](https://github.com/Zhangdroid/Gokotta): A simple music player built by electron and vue.
 
 - #### Apps/Websites
 
