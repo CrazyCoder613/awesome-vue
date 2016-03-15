@@ -84,7 +84,6 @@
 - [Understanding Filters in Vue.js](http://coligo.io/vuejs-filters/) on Coligo.io
 - [Hybrid App Example with Laravel and Vue.js in portuguese](https://www.youtube.com/watch?v=TGSJjDahlrQ) by @vedovelli
 - [Creating a Markdown Editor with VueJs and GitHub's API](http://coligo.io/markdown-editor-vuejs/) on Coligo.io
-- [Building a Real-Time Web Analytics Dashboard with NodeJs, Socket.io, and VueJs](http://coligo.io/real-time-analytics-with-nodejs-socketio-vuejs/) on Coligo.io
 
 #### 0.12 and earlier
 
@@ -121,6 +120,7 @@
 - [Vim](https://github.com/posva/vim-vue) by @darthmall and @posva
 - [Visual Studio Code](https://marketplace.visualstudio.com/items/liuji-jim.vue) by Jim Liu
 - [Brackets](https://github.com/pandao/brackets-vue) by @pandao
+- [IntelliJ IDEA / WebStorm](https://github.com/henjue/vue-for-idea) by @henjue
 
 ### Libraries & Plugins
 
