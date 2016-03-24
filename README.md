@@ -17,7 +17,6 @@
 - [Tutorials](#tutorials)
 - [Development Tools](#development-tools)
 - [Syntax Highlighting](#syntax-highlighting)
-- [Snippets](#snippets)
 - [Libraries & Plugins](#libraries--plugins)
   - [Routing](#routing)
   - [Ajax/Data](#ajaxdata)
@@ -125,10 +124,6 @@
 - [Brackets](https://github.com/pandao/brackets-vue) by @pandao
 - [IntelliJ IDEA / WebStorm](https://github.com/henjue/vue-for-idea) by @henjue
 
-### Snippets
-
-- [vue-snippets](https://atom.io/packages/vue-snippets) for Atom.io by [@ealves-pt](https://github.com/ealves-pt)
-
 ### Libraries & Plugins
 
 - #### Routing
@@ -193,6 +188,7 @@
   - [vue-select](https://github.com/sagalbot/vue-select): Simple component that implements Select2/Chosen style dropdowns with no dependencies<sup>1.0</sup>
   - [Vue-slide](https://github.com/hilongjw/vue-slide): A lightweight slide component for Vue.js  by @hilongjw
   - [Vue-quill](https://github.com/CroudSupport/vue-quill): A Vue component implementing the [Quill](https://github.com/quilljs/quill.git) text editor by @brockreece
+  - [vue-pagenav](https://github.com/zxdong262/vue-pagenav): A vue pagenav plugin by [@zxdong262](https://github.com/zxdong262)
 
 - #### i18n
 
