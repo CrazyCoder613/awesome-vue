@@ -194,6 +194,7 @@
   - [Vue-slide](https://github.com/hilongjw/vue-slide): A lightweight slide component for Vue.js  by @hilongjw
   - [Vue-quill](https://github.com/CroudSupport/vue-quill): A Vue component implementing the [Quill](https://github.com/quilljs/quill.git) text editor by @brockreece
   - [vue-pagenav](https://github.com/zxdong262/vue-pagenav): A vue pagenav plugin by [@zxdong262](https://github.com/zxdong262)
+  - [Vue-calendar](https://github.com/cucygh/vue-calendar): A vue calendar component with less code by cucygh
 
 - #### i18n
 
@@ -302,7 +303,6 @@
   - [Embalses!](http://embalses.azurewebsites.net/) A tool to report water dam level using the U.S. Geological Survey database.
   - [TravelMap](http://clem.travelmap.fr) A simple way for travellers to create a blog based on a Map
   - [movienote.org](http://movienote.org) A app which help users maintaining a list about what movie they have watched.
-  - [Proper Cloth Shirt Builder](https://propercloth.com/design-a-shirt) Custom shirt builder
 
 - #### Interactive Experiences
 
