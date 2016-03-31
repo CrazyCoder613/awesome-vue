@@ -60,6 +60,7 @@
 - [JavaScript Jabber #187 (11-25-2015)](https://devchat.tv/js-jabber/187-jsj-vue-js-with-evan-you)
 - [Changelog #184 (11-27-2015)](https://changelog.com/184/)
 - [Software Engineering Daily (12-29-2015)](http://softwareengineeringdaily.com/2015/12/29/front-end-javascript-with-evan-you/)
+- [Javascript Air 016 (03-30-2016)](https://javascriptair.com/episodes/2016-03-30/)
 
 ### Official Examples
 
@@ -314,7 +315,6 @@
   - [TravelMap](http://clem.travelmap.fr) A simple way for travellers to create a blog based on a Map
   - [movienote.org](http://movienote.org) A app which help users maintaining a list about what movie they have watched.
   - [Proper Cloth Shirt Builder](https://propercloth.com/design-a-shirt) Custom shirt builder
-  - [CheckIt](https://github.com/julesbou/checkit)
 
 - #### Interactive Experiences
 
