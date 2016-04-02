@@ -17,6 +17,7 @@
 - [Tutorials](#tutorials)
 - [Development Tools](#development-tools)
 - [Syntax Highlighting](#syntax-highlighting)
+- [Snippets](#snippets)
 - [Libraries & Plugins](#libraries--plugins)
   - [Routing](#routing)
   - [Ajax/Data](#ajaxdata)
@@ -59,6 +60,7 @@
 - [JavaScript Jabber #187 (11-25-2015)](https://devchat.tv/js-jabber/187-jsj-vue-js-with-evan-you)
 - [Changelog #184 (11-27-2015)](https://changelog.com/184/)
 - [Software Engineering Daily (12-29-2015)](http://softwareengineeringdaily.com/2015/12/29/front-end-javascript-with-evan-you/)
+- [Javascript Air 016 (03-30-2016)](https://javascriptair.com/episodes/2016-03-30/)
 
 ### Official Examples
 
@@ -84,7 +86,9 @@
 - [Understanding Filters in Vue.js](http://coligo.io/vuejs-filters/) on Coligo.io
 - [Hybrid App Example with Laravel and Vue.js in portuguese](https://www.youtube.com/watch?v=TGSJjDahlrQ) by @vedovelli
 - [Creating a Markdown Editor with VueJs and GitHub's API](http://coligo.io/markdown-editor-vuejs/) on Coligo.io
-- [Vue.js VideoTutoral Series in Spanish (3-8-2016)](https://www.youtube.com/watch?v=IlFk3cyRB0Y&list=PLM-Y_YQmMEqD2EWfWpSbiV3WgShRRW3FE&index=7) on YouTube Autor: (Juan Andrés Núñez)
+- [Building a Real-Time Web Analytics Dashboard with NodeJs, Socket.io, and VueJs](http://coligo.io/real-time-analytics-with-nodejs-socketio-vuejs/) on Coligo.io
+- [Vue.js Introduction Turkish Language](http://oguzhan.in/vue-js-ile-uygulama-gelistirme/) on oguzhan.in
+- [Vue.js VideoTutoral Series in Spanish (3-8-2016)](https://www.youtube.com/watch?v=IlFk3cyRB0Y&list=PLM-Y_YQmMEqD2EWfWpSbiV3WgShRRW3FE&index=7) on YouTube by Juan Andrés Núñez
 
 #### 0.12 and earlier
 
@@ -111,6 +115,8 @@
 - [vue-autocompile](https://atom.io/packages/vue-autocompile) - Atom.io package to compile `.vue` files on save.
 - [vue-dev-server](https://github.com/paulpflug/vue-dev-server) - A small webpack-based development server for building standalone `vue` components
 - [vue-go-cli](https://github.com/rodzzlessa24/vue-go-cli) - a CLI tool for scaffolding new projects generating components, services, and mixins.
+- [brunch-vue](https://github.com/nblackburn/vue-brunch) - Adds support to Brunch for pre-compiling single file Vue components.
+- [vueify-extract-css](https://github.com/rawcreative/vueify-extract-css) - Browserify plugin to extract css from Vueify-compiled single file components to a separate css file.
 
 ### Syntax Highlighting
 
@@ -120,6 +126,11 @@
 - [Vim](https://github.com/posva/vim-vue) by @darthmall and @posva
 - [Visual Studio Code](https://marketplace.visualstudio.com/items/liuji-jim.vue) by Jim Liu
 - [Brackets](https://github.com/pandao/brackets-vue) by @pandao
+- [IntelliJ IDEA / WebStorm](https://github.com/henjue/vue-for-idea) by @henjue
+
+### Snippets
+
+- [vue-snippets](https://atom.io/packages/vue-snippets) for Atom.io by [@ealves-pt](https://github.com/ealves-pt)
 
 ### Libraries & Plugins
 
@@ -142,6 +153,8 @@
   - [vuex](https://github.com/vuejs/vuex) - Flux/Redux inspired application architecture for Vue.js.
   - [revue](https://github.com/egoist/revue) - Redux binding for Vue by @egoist
   - [vue-redux](https://github.com/yang-wei/vue-redux) - Redux binding for Vue by @yang-wei
+  - [vue-freeze](https://github.com/BosNaufal/vue-freeze) - Simple state management whitout bloating API and Concept for Vue by [@BosNaufal](https://github.com/BosNaufal)
+  - [vue-simple-store](https://github.com/BosNaufal/vue-simple-store) - Store Organizer To Simplify Your Stores for Vue By [@BosNaufal](https://github.com/BosNaufal)
 
 - #### Validation
 
@@ -182,11 +195,21 @@
   - [vue-charts](https://github.com/haydenbbickerton/vue-charts): A Google Charts plugin for Vue.js by [@haydenbbickerton](https://github.com/haydenbbickerton)
   - [vue-resize-handle](https://github.com/paulpflug/vue-resize-handle): Resize elements by dragging / uni and bidirectional
   - [vux](https://github.com/airyland/vux): Mobile web UI Components based on Vue and WeUI
+  - [vue-select](https://github.com/sagalbot/vue-select): Simple component that implements Select2/Chosen style dropdowns with no dependencies<sup>1.0</sup>
+  - [Vue-slide](https://github.com/hilongjw/vue-slide): A lightweight slide component for Vue.js  by @hilongjw
+  - [Vue-quill](https://github.com/CroudSupport/vue-quill): A Vue component implementing the [Quill](https://github.com/quilljs/quill.git) text editor by @brockreece
+  - [vue-pagenav](https://github.com/zxdong262/vue-pagenav): A vue pagenav plugin by [@zxdong262](https://github.com/zxdong262)
+  - [Vue-calendar](https://github.com/cucygh/vue-calendar): A vue calendar component with less code by cucygh
+  - [Vue Material Components](http://appcomponents.org/material-components/): Vue.js UI components using [materializecss.com](http://materializecss.com/) by mjanys
+  - [vue-autocomplete](https://github.com/BosNaufal/vue-autocomplete) Autocomplete Component for Vue by [@BosNaufal](https://github.com/BosNaufal)
+  - [vue-loading-bar](https://github.com/BosNaufal/vue-loading-bar) Youtube Like Loading Bar Component for Vue by [@BosNaufal](https://github.com/BosNaufal)
+
 
 - #### i18n
 
   - [vue-i18n](https://github.com/kazupon/vue-i18n): Internationalization plugin.
   - [vue-i18n](https://github.com/Haixing-Hu/vue-i18n): A plugin providing a global interface used to localize internationalized messages used in the
+  - [vue-locale](https://github.com/sebastian-software/vue-locale): Advanced localization support for VueJS
 
 - #### Examples
 
@@ -197,6 +220,8 @@
   - [Electron + Vue example](https://github.com/bradstewart/electron-boilerplate-vue) by @bradstewart
   - [Single page application example (Vue + Voie)](https://github.com/inca/voie-example) by [Boris Okunskiy](https://github.com/inca)
   - [Begin - Task Manager SPA written in Vue + Lumen](https://github.com/rajabishek/begin) by [Raj Abishek](https://github.com/rajabishek)
+  - [Vue Mini Shop](https://github.com/BosNaufal/vue-mini-shop) by [BosNaufal](https://github.com/BosNaufal)
+  - [Vue SoundCloud](https://github.com/mul14/vue-soundcloud) by [mul14](https://github.com/mul14)
 
 - #### Boilerplates
   - [Boilerplate for Vue.js plugin ](https://github.com/kazupon/vue-plugin-boilerplate) by @kazupon
@@ -212,6 +237,7 @@
   - [VueWebgulp](https://github.com/rodzzlessa24/vue-webgulp): A skeleton app using Vuejs, Gulp, and Webpack by @rodzzlessa24
   - [Vuetober](https://github.com/scottbedard/oc-vuetober-theme): SPA scaffolding for October CMS
   - [vue-go-cli](https://github.com/rodzzlessa24/vue-go-cli) - a CLI tool for scaffolding new projects generating components, services, and mixins.
+  - [Brunch with Vue](https://github.com/nblackburn/brunch-with-vue) - A skeleton application utilizing vue, vuex, vue-resource and vue-router.
 
 - #### Integrations
 
@@ -219,7 +245,7 @@
   - [ScalaJS bindings for Vue.js](https://github.com/fancellu/scalajs-vue) by @fancellu
   - [Socketize Backend](https://github.com/Socketize/vue.js-plugin): Sync your model data to Socketize backend automatically. By [@Socketize](https://github.com/Socketize)
   - [Vue-Meteor-Data](https://github.com/Grottolabs/vue-meteor-data) Two-way-reactivity mixin for Vue and Meteor by @JakobRosenberg
-  - [Vue Proerty Decorator](https://github.com/kaorun343/vue-property-decorator): Property Decorators fro Vue.js by @kaorun343
+  - [Vue Proerty Decorator](https://github.com/kaorun343/vue-property-decorator): Property Decorators for Vue.js by @kaorun343
 
 - #### General Plugins/Directives
 
@@ -244,6 +270,10 @@
   - [vue-round-filter](https://github.com/rascada/vue-round-filter) filter for rounding with whichever decimal accuracy
   - [vue-paginate](https://github.com/TahaSh/vue-paginate) A simple plugin to use pagination in vue.js. by @TahaSh
   - [vue-super](https://github.com/rpkilby/vue-super) A simple plugin to call methods on parent components.
+  - [vue-deepstream](https://github.com/arexio/vue-deepstream) Plugin to simplify event subscription and event trigger when using [deepstream.io](https://deepstream.io/)
+  - [vue-plain](https://github.com/Coffcer/vue-plain) Plugin to get plain object from vue getter/setter object.
+  - [vue-calc-input](https://github.com/BosNaufal/vue-calc-input) Vue directive to make a calculator input behavior by [@BosNaufal](https://github.com/BosNaufal)
+  - [vue-move-dom](https://github.com/BosNaufal/vue-move-dom) Vue Directive to move the DOM without losing all the VM data, event, etc. by [@BosNaufal](https://github.com/BosNaufal)
 
 ### Projects Using Vue.js
 
@@ -263,11 +293,13 @@
   - [SwitchHosts](https://oldj.github.io/SwitchHosts/) <sup>[[Source]](https://github.com/oldj/SwitchHosts)</sup> Switch hosts quickly.
   - [RSS Reader](https://github.com/mrgodhani/rss-reader) Simple RSS Reader made using atom electron and vue.js.
   - [Gokotta](https://github.com/Zhangdroid/Gokotta): A simple music player built by electron and vue.
+  - [Coffeebreak](https://github.com/Kocisov/coffeebreak) Tool for live editing CSS components
 
 - #### Apps/Websites
 
   - [Formlets](https://www.formlets.com)
   - [Laracasts](https://laracasts.com)
+  - [Sainsbury's Entertainment onboarding platform](https://register.sainsburysentertainment.co.uk/)
   - [CUUSOO](https://cuusoo.com)
   - [esa.io](https://esa.io/)
   - [N1.ru](http://n1.ru)
@@ -283,9 +315,15 @@
   - [Statamic](http://v2.statamic.com)
   - [Embalses!](http://embalses.azurewebsites.net/) A tool to report water dam level using the U.S. Geological Survey database.
   - [TravelMap](http://clem.travelmap.fr) A simple way for travellers to create a blog based on a Map
+  - [movienote.org](http://movienote.org) A app which help users maintaining a list about what movie they have watched.
+  - [Proper Cloth Shirt Builder](https://propercloth.com/design-a-shirt) Custom shirt builder
+  - [CheckIt](https://github.com/julesbou/checkit)
+  - [Reddit News](https://github.com/Mati365/reddit-news) A browser extension which show notifications and news from reddit
 
 - #### Interactive Experiences
 
+  - [Facebook NewsFeed](https://newsfeed.fb.com/)
+  - [YouTube AdBlitz 2016](https://adblitz.withyoutube.com/#!/advertisers)
   - [Blood, Sweat and Tools](http://bloodsweatandtools.discovery.ca/gamebench/) - by Jam3, led by @cheapsteak
   - [Omnisense Experience](http://omnisense.net) - *Awwwards & FWA SOTD, FWA Cutting Edge. Awwwards SOTM nominee.*
   - [Being the Bear](https://danslapeaudelours.canalplus.fr/en/) - *Awwwards & FWA SOTD, FWA Cutting Edge, Awwwards SOTM nominee.*
@@ -307,6 +345,8 @@
   - Line
   - Nintendo
   - Celtra
+  - Sainsbury's
+  - [AREX](https://arex.io/)
 
 ## License
 
