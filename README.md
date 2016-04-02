@@ -221,7 +221,6 @@
   - [Single page application example (Vue + Voie)](https://github.com/inca/voie-example) by [Boris Okunskiy](https://github.com/inca)
   - [Begin - Task Manager SPA written in Vue + Lumen](https://github.com/rajabishek/begin) by [Raj Abishek](https://github.com/rajabishek)
   - [Vue Mini Shop](https://github.com/BosNaufal/vue-mini-shop) by [BosNaufal](https://github.com/BosNaufal)
-  - [Vue SoundCloud](https://github.com/mul14/vue-soundcloud) by [mul14](https://github.com/mul14)
 
 - #### Boilerplates
   - [Boilerplate for Vue.js plugin ](https://github.com/kazupon/vue-plugin-boilerplate) by @kazupon
@@ -274,6 +273,7 @@
   - [vue-plain](https://github.com/Coffcer/vue-plain) Plugin to get plain object from vue getter/setter object.
   - [vue-calc-input](https://github.com/BosNaufal/vue-calc-input) Vue directive to make a calculator input behavior by [@BosNaufal](https://github.com/BosNaufal)
   - [vue-move-dom](https://github.com/BosNaufal/vue-move-dom) Vue Directive to move the DOM without losing all the VM data, event, etc. by [@BosNaufal](https://github.com/BosNaufal)
+  - [vue-animate](https://github.com/haydenbbickerton/vue-animate): Use [Animate.css](https://github.com/daneden/animate.css "Animate.css") with Vue.js transitions. By [@haydenbbickerton](https://github.com/haydenbbickerton)
 
 ### Projects Using Vue.js
 
