@@ -147,6 +147,7 @@
 
   - [vue-resource](https://github.com/vuejs/vue-resource) - AJAX/Resource plugin maintained by the [PageKit](http://pagekit.com/) team. <sup>1.0 compatible</sup>
   - [vue-async-data](https://github.com/vuejs/vue-async-data) - Async data loading plugin <sup>1.0 compatible</sup>
+  - [vue-async-computed](https://github.com/foxbenjaminfox/vue-async-computed) - Plugin to support computed properties that are calculated asynchronously. By [@foxbenjaminfox](https://github.com/foxbenjaminfox)
 
 - #### State Management
 
@@ -275,6 +276,7 @@
   - [vue-calc-input](https://github.com/BosNaufal/vue-calc-input) Vue directive to make a calculator input behavior by [@BosNaufal](https://github.com/BosNaufal)
   - [vue-move-dom](https://github.com/BosNaufal/vue-move-dom) Vue Directive to move the DOM without losing all the VM data, event, etc. by [@BosNaufal](https://github.com/BosNaufal)
   - [vue-animate](https://github.com/haydenbbickerton/vue-animate): Use [Animate.css](https://github.com/daneden/animate.css "Animate.css") with Vue.js transitions. By [@haydenbbickerton](https://github.com/haydenbbickerton)
+  - [vue-sortable](https://github.com/sagalbot/vue-sortable): A lightweight directive for reorderable drag-and-drop lists using [RubaXa/Sortable](https://github.com/RubaXa/Sortable). By [@sagalbot](https://github.com/sagalbot)
 
 - #### Talks
 
