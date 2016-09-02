@@ -268,6 +268,7 @@
   - [**vue-spinner ★240**](https://github.com/greyby/vue-spinner): A collection of loading spinners with Vue.js.
   - [vue-image-loader ★23](https://github.com/eduardostuart/vue-image-loader): Async image loader for Vue.js by @eduardostuart
   - [Vue-progressbar ★73](https://github.com/hilongjw/vue-progressbar): A lightweight progress bar for Vue.js  by @hilongjw
+  - [vue-resource-progressbar-interceptor](https://github.com/staskjs/vue-resource-progressbar-interceptor): An interceptor for vue-resource that adds automated progressbar (that is up one line) to all http requests
   - [Famous-Vue ★13](https://github.com/irwansyahwii/Famous-Vue): Declarative Famous using Vue
   - [**vue-waterfall ★296**](https://github.com/MopTym/vue-waterfall): A waterfall layout component for Vue.js by @MopTym
   - [vue-charts ★35](https://github.com/haydenbbickerton/vue-charts): A Google Charts plugin for Vue.js by [@haydenbbickerton](https://github.com/haydenbbickerton)
@@ -337,7 +338,7 @@
   - [vue-jade-editor ★1](https://github.com/zxdong262/vue-jade-editor): a online jade(pug) editor plugin by [@zxdong262](https://github.com/zxdong262)
   - [vue-video ★40](https://github.com/hilongjw/vue-video): A HTML5 video player component for Vue.js  by @hilongjw
   - [vue-i18n](https://github.com/MattyRad/vue-i18n): A small but effective Internationalization plugin
-  - [vue-translate](https://github.com/javisperez/vuetranslate): A small and basic translation plugin for Vue.js <sup>2.0.x</sup> by @javisperez
+  - [vue-translate ★1](https://github.com/javisperez/vuetranslate): A small and basic translation plugin for Vue.js <sup>1.x, 2.0.x compatible</sup> by @javisperez
 
 - #### Examples
 
