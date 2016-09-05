@@ -333,7 +333,6 @@ Websites & native mobile Apps. Full Stack Toolkit.
   - [vue-top-progress](https://github.com/dalphyx/vue-top-progress) - Yet another top progress loading bar component for Vue.js. [@dalphyx](https://github.com/dalphyx)
   - [vue-handsontable](https://github.com/vue-bulma/handsontable) - Handsontable component is based on [Handsontable](https://github.com/handsontable/handsontable) for Vue, by [@fundon](https://github.com/fundon)
   - [vue-nprogress](https://github.com/vue-bulma/nprogress) - NProgress component is based on [nprogress](https://github.com/rstacruz/nprogress) for Vue, by [@fundon](https://github.com/fundon)
-  - [vue-headroom](https://github.com/dalphyx/vue-headroom) - Headroom for Vue.js. [@dalphyx](https://github.com/dalphyx)
 
 - #### i18n
 
@@ -368,7 +367,7 @@ Websites & native mobile Apps. Full Stack Toolkit.
   - [**vue-zhihu-daily ★407**](https://github.com/hilongjw/vue-zhihu-daily) by [hilongjw](https://github.com/hilongjw)
   - [jwt-example ★10](https://github.com/PetervMeijgaard/jwt-example) by [petervmeijgaard](https://github.com/petervmeijgaard)
   - [VueChess ★1](https://github.com/gustaYo/vue-chess) -Multiplayer online chess game  by [gustaYo](https://github.com/gustaYo)
-  - [Ngexplorer-vuejs-client ★1](https://github.com/gustaYo/ngexplorer-vuejs-client) -Vue client for [Ngexplorer](https://github.com/gustaYo/ngexplorer-MEAN)   by [gustaYo](https://github.com/gustaYo)
+  - [Ngexplorer-vuejs-client ★1](https://github.com/gustaYo/ngexplorer-vuejs-client) -Vue client for [Ngexplorer](https://github.com/gustaYo/ngexplorer-MEAN)   by [gustaYo](https://github.com/gustaYo)  
 
 - #### Boilerplates
 
@@ -466,7 +465,7 @@ Websites & native mobile Apps. Full Stack Toolkit.
   - [vue-cordova ★3](https://github.com/kartsims/vue-cordova): Vue plugin to bind Cordova events and access Cordova plugins' data
   - [vue-drag-and-drop-list](https://github.com/Alex-fun/vue-drag-and-drop-list): Vue directives for modifying lists with the HTML5 drag & drop API.
   - [vue-popup-mixin](https://github.com/myronliu347/vue-popup-mixin) a vue mixin for easy create popup vue components
-
+  
 - #### SEO
 
   - [vue-head ★97](https://github.com/ktquez/vue-head) - Manager the meta information of the head tag, a simple and easy way
@@ -503,7 +502,7 @@ Websites & native mobile Apps. Full Stack Toolkit.
   - [Dhammapada website ★2](https://github.com/nguyenvanduocit/kinhphapcu-web): Dhammapada website, an experience with Vuejs and golang
   - [**Vue + LeanCloud 单页博客 ★46**](https://github.com/jiangjiu/vue-leancloud-blog) a spa blog using LeanCloud, Vue.js, Vue-Router, Vuex and Vue-resource by [@jiangjiu](https://github.com/jiangjiu)
   - [EME - Elegant Markdown Editor](https://eme.moe/)<sup>[[Source]](https://github.com/egoist/eme)</sup> An Elegant Markdown Editor.
-  - [Github-exploer](https://github.com/SidKwok/github-explorer) by [@SidKwok](https://github.com/SidKwok) A spa which can help you check your github in a better way.
+  - [Github-explorer](https://github.com/SidKwok/github-explorer) by [@SidKwok](https://github.com/SidKwok) A spa which can help you check your github in a better way.
   - [**Hotel ★4106**](https://github.com/typicode/hotel) start your dev servers from your browser and get local domains in seconds!
 
 - #### Apps/Websites
