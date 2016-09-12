@@ -254,6 +254,8 @@ Websites & native mobile Apps. Full Stack Toolkit.
   - [vue-verify](https://github.com/PeakTai/vue-verify) - A simple verification plugin for VueJS
   - [vee-validate](https://github.com/logaretm/vee-validate) - Simple VueJS input validation plugin by @logaretm
   - [Vue-Laravel-Validator ★1](https://github.com/MetinSeylan/Vue-Laravel-Validator) - Laravel validation response handle for vue forms. by [@MetinSeylan](https://github.com/MetinSeylan)
+  - [vue-formly](https://github.com/matt-sanders/vue-formly) - Simple and extendable JS based forms. Heavily inspired by Angular Formly.
+  - [vue-formly-bootstrap](https://github.com/matt-sanders/vue-formly-bootstrap) - A Bootstrap plugin for Vue Formly.
 
 - #### UI Components
 
@@ -338,7 +340,6 @@ Websites & native mobile Apps. Full Stack Toolkit.
   - [vue-handsontable](https://github.com/vue-bulma/handsontable) - Handsontable component is based on [Handsontable](https://github.com/handsontable/handsontable) for Vue, by [@fundon](https://github.com/fundon)
   - [vue-nprogress](https://github.com/vue-bulma/nprogress) - NProgress component is based on [nprogress](https://github.com/rstacruz/nprogress) for Vue, by [@fundon](https://github.com/fundon)
   - [vue-headroom](https://github.com/dalphyx/vue-headroom) - Headroom for Vue.js. [@dalphyx](https://github.com/dalphyx)
-  - [vue-resource-nprogress](https://github.com/imcvampire/vue-resource-nprogress) - A progressbar interceptors for vue-resource using `NProgress` by [@imcvampire](https://github.com/imcvampire)
 
 - #### i18n
 
