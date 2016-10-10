@@ -384,7 +384,8 @@
   - [vue-video ★40](https://github.com/hilongjw/vue-video): A HTML5 video player component for Vue.js  by @hilongjw
   - [vue-i18n](https://github.com/MattyRad/vue-i18n): A small but effective Internationalization plugin
   - [vue-translate ★1](https://github.com/javisperez/vuetranslate): A small and basic translation plugin for Vue.js <sup>1.x, 2.0.x compatible</sup> by @javisperez
-
+  - [vuex-i18n *1](https://github.com/dkfbasel/vuex-i18n): Internationalization made simple with vue and vuex <sup>Vue.js 2.0.x</sup> by @dkfbasel
+  
 - #### Examples
 
   - [Starter Application with JWT Auth + sample backend API in Laravel](http://forum.vuejs.org/topic/39/starter-application-with-jwt-auth-sample-backend-api)
@@ -411,7 +412,6 @@
   - [Vue Simple PWA](https://github.com/BosNaufal/vue-simple-pwa) by [BosNaufal](https://github.com/BosNaufal)
   - [Tour of Heroes (Vue 2.0) ★1](https://github.com/aweber1/tour-of-heroes-vue2): A Vue 2.0 port of the Angular 2.0 [Tour of Heroes](https://angular.io/docs/ts/latest/tutorial/) demo app. Highlights: ES6/7, render functions, JSX, [revue](https://github.com/revue/revue) (redux bindings for Vue), [vue-router](https://github.com/vuejs/vue-router), [Airbnb eslint](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base), webpack. by [@aweber1](https://github.com/aweber1)
   - [vue-table-pagination](https://github.com/echoVic/vue-table-pagination) A table with pagination by [echovic](https://github.com/echovic)
-  - [Feathers and Vue 2.0 Blog Admin Demo](https://github.com/delay/feathers-vue-blog-admin-demo) Demo for using Feathers with Vue 2.0. It includes authentication, vue-router, vue-infinite-loading and roles by [delay](https://github.com/delay) 
 
 - #### Boilerplates
 
