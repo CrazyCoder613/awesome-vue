@@ -472,7 +472,6 @@
   - [vue-apollo](https://github.com/Akryum/vue-apollo) Use Apollo and GraphQL in your Vue (1.x and 2.x) components by @Akryum
   - [av-ts](https://github.com/HerringtonDarkholme/av-ts) ![av-ts](https://img.shields.io/github/stars/HerringtonDarkholme/av-ts.svg?style=social&label=Star&maxAge=2592000) Awesome Vue for TypeScript. A type-safe and concise Vue binding for TypeScript. Having used a lot of techniques, tricks and hacks to achieve idiomatic API.
    - [Neutronium](https://github.com/David-Desmaisons/Neutronium) ![Neutronium](https://img.shields.io/github/stars/David-Desmaisons/Neutronium.svg?style=social&label=Star&maxAge=2592000) library to create .NET desktop applications using HTML, CSS and javascript. Like Electron for .NET with a powerfull integration with Vue.js.
-   - [vue-threejs](https://github.com/fritx/vue-threejs) ![vue-threejs](https://img.shields.io/github/stars/fritx/vue-threejs.svg?style=social&label=Star&maxAge=2592000) Vue bindings for Three.js
 
 - #### General Plugins/Directives
 
@@ -501,6 +500,7 @@
   - [vue-calc-input ★3](https://github.com/BosNaufal/vue-calc-input) Vue directive to make a calculator input behavior by [@BosNaufal](https://github.com/BosNaufal)
   - [vue-move-dom ★1](https://github.com/BosNaufal/vue-move-dom) Vue Directive to move the DOM without losing all the VM data, event, etc. by [@BosNaufal](https://github.com/BosNaufal)
   - [vue-animate ★39](https://github.com/haydenbbickerton/vue-animate): Use [Animate.css](https://github.com/daneden/animate.css "Animate.css") with Vue.js transitions. By [@haydenbbickerton](https://github.com/haydenbbickerton)
+  - [vue2-animate ★18](https://github.com/asika32764/vue2-animate): A fork of vue-animate to support Vue.js 2.0. By [@asika32764](https://github.com/asika32764)
   - [vue-sortable ★76](https://github.com/sagalbot/vue-sortable): A lightweight directive for reorderable drag-and-drop lists using [RubaXa/Sortable](https://github.com/RubaXa/Sortable). By [@sagalbot](https://github.com/sagalbot)
   - [vue-loading ★35](https://github.com/Coffcer/vue-loading): Vue directive, show loading block in any element. By [@coffcer](https://github.com/Coffcer)
   - [vue-gesture ★19](https://github.com/mlyknown/vue-gesture):touch events plugin for Vue.js.You can v-gesture directive,and directive auguments can use a tap, swipe, etc.
