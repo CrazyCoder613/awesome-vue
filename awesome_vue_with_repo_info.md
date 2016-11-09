@@ -2427,11 +2427,6 @@ application.  By @Haixing-Hu
      AREX
     </a>
    </li>
-   <li>
-    <a href="https://about.gitlab.com/2016/10/20/why-we-chose-vue/">
-     gitlab
-    </a>
-   </li>
   </ul>
  </li>
 </ul>
