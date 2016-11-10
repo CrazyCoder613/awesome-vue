@@ -232,7 +232,7 @@
 - [BootInput](https://github.com/neposoft/bootinput-vuejs), Bootstrap input components for vuejs with validation, and form-group cascade. By [@neposoft](https://github.com/neposoft)
 - [vue-easy-slider](https://github.com/shhdgit/vue-easy-slider): Slider component for Vue.js with control button. By [@Suhaha](https://github.com/shhdgit)
 - [vue-carbon](https://github.com/myronliu347/vue-carbon) Material Design Mobile UI Components
-- [quasar-framework ★220](https://github.com/rstoenescu/quasar-framework) SPA front-end framework on steroids. Endless list of components with Material and iOS themes. By [@rstoenescu](https://github.com/rstoenescu) <sup>2.x compatible</sup>
+- [**quasar-framework :star:410**](https://github.com/rstoenescu/quasar-framework) SPA front-end framework on steroids. Endless list of components with Material and iOS themes. Build responsive websites and hybrid mobile Apps (that look native!) using same code, with Vue 2. By [@rstoenescu](https://github.com/rstoenescu) <sup>2.x compatible</sup>
 - [N3-components](https://github.com/N3-components/N3-components) - A UI library, by [@zhangking](https://github.com/zhangking) Websites & native mobile Apps. Full Stack Toolkit.
 - [vue-core-image-upload](https://github.com/Vanthink-UED/vue-core-image-upload): A vue plugin for image to crop and upload  [@Vanthink-UED](https://github.com/Vanthink-UED)
 - [ElementUI](https://github.com/ElemeFE/element): Desktop UI elements for Vue.js 2.0  [@ElemeFE](https://github.com/ElemeFE)
@@ -272,6 +272,7 @@
   - [vue-model ★63](https://github.com/aarondfrancis/vue-model) - Plugin to make rich models with built-in HTTP actions by [@aaronfrancis](https://github.com/aarondfrancis)
   - [vue-laravel-forms ★20](https://github.com/cklmercer/vue-laravel-forms) - Form helpers for your Laravel backed Vue.js projects.
   - [vue-axios](https://github.com/imcvampire/vue-axios) - A small wrapper for integrating axios to Vuejs
+  - [vue-jsonp](https://github.com/LancerComet/vue-jsonp) - A tiny library for handling JSONP request. By [@lancercomet](https://github.com/lancercomet)
 
 - #### State Management
 
