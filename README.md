@@ -250,6 +250,7 @@
 - [**vue-material ★152**](https://marcosmoura.github.io/vue-material) Lightweight components built from scratch exactly according to the specs. <sup>2.0</sup>  [@marcosmoura](https://github.com/marcosmoura)
 - [vue-notifications ★0](https://github.com/se-panfilov/vue-notifications) Agnostic non-blocking notifications library. Allow you to manage notifications in declaration style. <sup>1.x - 2.x compatible</sup> [@se-panfilov](https://github.com/se-panfilov)
 - [vue-fa-calendar](https://github.com/compmeist/vue-fa-calendar) - Customize this printable Vue 2 Font-Awesome calendar component with your own classes.
+- [vue-highcharts](https://github.com/weizhenye/vue-highcharts) [![vue-highcharts](https://img.shields.io/github/stars/weizhenye/vue-highcharts.svg?label=%E2%98%85)](https://github.com/weizhenye/vue-highcharts) Highcharts component for Vue. 📊
 
 ### Libraries & Plugins
 
@@ -271,7 +272,6 @@
   - [vue-model ★63](https://github.com/aarondfrancis/vue-model) - Plugin to make rich models with built-in HTTP actions by [@aaronfrancis](https://github.com/aarondfrancis)
   - [vue-laravel-forms ★20](https://github.com/cklmercer/vue-laravel-forms) - Form helpers for your Laravel backed Vue.js projects.
   - [vue-axios](https://github.com/imcvampire/vue-axios) - A small wrapper for integrating axios to Vuejs
-  - [vue-jsonp](https://github.com/LancerComet/vue-jsonp) - A tiny library for handling JSONP request. By [@lancercomet](https://github.com/lancercomet)
 
 - #### State Management
 
