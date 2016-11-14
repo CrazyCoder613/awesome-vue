@@ -210,7 +210,7 @@
 - [vue-material-design ★11](https://github.com/loujiayu/vue-material-design): A set of material components by [@loujiayu](https://github.com/loujiayu)
 - [**mint-ui ★1,533**](https://github.com/ElemeFE/mint-ui): Mobile UI elements for Vue.js, by [@ElemeFE](https://github.com/ElemeFE)
 - [searchable-select-dropdown ★3](https://github.com/rahulgaba16/searchable-select-dropdown): A Vue Component to convert the native html select-dropdown to searchable dropdown by [@rahulgaba16](https://github.com/rahulgaba16)
-- [**Vuikit ★400**](https://github.com/vuikit/vuikit): A collection of Vue native components outputting [UIkit](http://getuikit.com) layout <sup>2.0</sup>
+- [**Vuikit ★300**](https://github.com/vuikit/vuikit): A collection of Vue2 components built on top of the awesome [UIkit](http://getuikit.com) framework
 - [vue-bulma](https://github.com/vue-bulma): Vue Bulma UI Components, by [@fundon](https://github.com/fundon)
   - [vue-bulma-breadcrumb](https://github.com/vue-bulma/breadcrumb): Breadcrumb component for Vue Bulma
   - [vue-bulma-collapse](https://github.com/vue-bulma/collapse): Collapse component for Vue Bulma
@@ -413,6 +413,7 @@
   - [vue-touch-keyboard](https://github.com/icebob/vue-touch-keyboard) Virtual keyboard component for Vue.js. Designed to Raspberry Pi Touch Display
   - [vue-social-sharing](https://github.com/nicolasbeauvais/vue-social-sharing) [![GitHub stars](https://img.shields.io/github/stars/nicolasbeauvais/vue-social-sharing.svg?style=social&label=Star&maxAge=2592000)]() : A Vue.js component for sharing links to social networks. [@nicolasbeauvais](https://github.com/nicolasbeauvais)
   - [vue-shortkey](https://github.com/iFgR/vue-shortkey) Apply shortcuts to your elements in a simple way.
+  - [vue-pull-refresh-and-load-more](https://github.com/uniquezhuo/vue-pull-to-refresh-and-load-more) a scroll component with function of pull up refresh and pull down load more for Vue. By <a href="https://github.com/uniquezhuo">uniquezhuo</a>.
 
 - #### i18n
 
