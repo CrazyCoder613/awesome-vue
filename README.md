@@ -210,7 +210,7 @@
 - [vue-material-design ★11](https://github.com/loujiayu/vue-material-design): A set of material components by [@loujiayu](https://github.com/loujiayu)
 - [**mint-ui ★1,533**](https://github.com/ElemeFE/mint-ui): Mobile UI elements for Vue.js, by [@ElemeFE](https://github.com/ElemeFE)
 - [searchable-select-dropdown ★3](https://github.com/rahulgaba16/searchable-select-dropdown): A Vue Component to convert the native html select-dropdown to searchable dropdown by [@rahulgaba16](https://github.com/rahulgaba16)
-- [**Vuikit ★300**](https://github.com/vuikit/vuikit): A collection of Vue2 components built on top of the awesome [UIkit](http://getuikit.com) framework
+- [**Vuikit ★400**](https://github.com/vuikit/vuikit): A collection of Vue native components outputting [UIkit](http://getuikit.com) layout <sup>2.0</sup>
 - [vue-bulma](https://github.com/vue-bulma): Vue Bulma UI Components, by [@fundon](https://github.com/fundon)
   - [vue-bulma-breadcrumb](https://github.com/vue-bulma/breadcrumb): Breadcrumb component for Vue Bulma
   - [vue-bulma-collapse](https://github.com/vue-bulma/collapse): Collapse component for Vue Bulma
@@ -499,6 +499,7 @@
   - [Vuetober ★26](https://github.com/scottbedard/oc-vuetober-theme): SPA scaffolding for October CMS
   - [Brunch with Vue ★20](https://github.com/nblackburn/brunch-with-vue) - A skeleton application utilizing vue, vuex, vue-resource and vue-router.
   - [vuex-horizon-scaffold ★12](https://github.com/kylestlb/vuex-horizon-scaffold) - A scaffold with vuex and horizon.io, hooked up to the vue-cli webpack build.
+  - [vue-settler](https://github.com/weavingbird/vue-settler) A Vue 2.0 SPA starter for vue cli based on the official vue webpack template. It comes with [vue-router](https://github.com/vuejs/vue-router), [vuex](https://github.com/vuejs/vuex), [Stylus](https://github.com/stylus/stylus), [axios](https://github.com/mzabriskie/axios) and [LostGrid](https://github.com/peterramsing/lost) already configured and ready to go.
 
 - #### Integrations
 
