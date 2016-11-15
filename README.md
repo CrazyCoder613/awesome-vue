@@ -34,7 +34,6 @@
   - [General Plugins/Directives](#general-pluginsdirectives)
   - [SEO](#seo)
   - [TypeScript](#typescript)
-  - [Analytics](#analytics)
 - [Projects Using Vue.js](#projects-using-vuejs)
   - [Open Source](#open-source)
   - [Apps/Websites](#appswebsites)
@@ -428,9 +427,6 @@
   - [vue-i18n](https://github.com/MattyRad/vue-i18n): A small but effective Internationalization plugin
   - [vue-translate ★1](https://github.com/javisperez/vuetranslate): A small and basic translation plugin for Vue.js <sup>1.x, 2.0.x compatible</sup> by @javisperez
   - [vuex-i18n ★1](https://github.com/dkfbasel/vuex-i18n): Internationalization made simple with vue and vuex <sup>Vue.js 2.0.x</sup> by @dkfbasel
-  
-- #### Analytics
-  - [**vue-ua ★2**](https://github.com/ScreamZ/vue-analytics): Google Universal Analytics implementation for Vue.JS 2+
 
 - #### Examples
 
@@ -451,7 +447,7 @@
   - [**Vue-cnodejs ★1,060**](https://github.com/shinygang/Vue-cnodejs) by [@shinygang](https://github.com/shinygang)
   - [**vue-zhihu-daily ★407**](https://github.com/hilongjw/vue-zhihu-daily) by [hilongjw](https://github.com/hilongjw)
   - [jwt-example](https://github.com/PetervMeijgaard/jwt-example) [![vue-2.0-boilerplate](https://img.shields.io/github/stars/petervmeijgaard/jwt-example.svg?style=social&label=Star&maxAge=2592000)](https://github.com/petervmeijgaard/jwt-example/stargazers) by [@petervmeijgaard](https://github.com/petervmeijgaard)
-  - [VueChess ★1](https://github.com/gustaYo/vue-chess) -Multiplayer online chess game  by [gustaYo](https://github.com/gustaYo)
+  - [**VueChess ★12**](https://github.com/gustaYo/vue-chess) -Multiplayer online chess game  by [gustaYo](https://github.com/gustaYo)
   - [Ngexplorer-vuejs-client ★1](https://github.com/gustaYo/ngexplorer-vuejs-client) -Vue client for [Ngexplorer](https://github.com/gustaYo/ngexplorer-MEAN)   by [gustaYo](https://github.com/gustaYo)
   - [Vue 2048 (Vue + Webpack)](https://pengfu.github.io/vue-2048/) by [@pengfu](https://github.com/pengfu): Popular 2048-Game implemented using Vue,Webpack,Sass,ES6
   - [Vue Simple PWA](https://github.com/BosNaufal/vue-simple-pwa) by [BosNaufal](https://github.com/BosNaufal)
@@ -463,7 +459,7 @@
   - [vue-demo-todolist](https://github.com/fishenal/Todos_Vuejs) a simply vue2.0 demo built with Vue 2.0, vue-cli. by [fishenal](https://github.com/fishenal)
   - [**vue-AdminLte**](https://github.com/liujians/vue-adminLte-vue-router) by [liujians](https://github.com/liujians)
   - [**Vue(2.0) + Node.js: A blog content manage system (CMS) ★202**](https://github.com/ycwalker/CMS-of-Blog) by @ycwalker
-
+  - [ngexplorer-quasar ★1](https://github.com/gustaYo/vue-chess) -Implementation of [Ngexplorer](https://github.com/gustaYo/ngexplorer-MEAN) with [quasar framework](https://github.com/rstoenescu/quasar-framework) by [gustaYo](https://github.com/gustaYo)
 
 - #### Boilerplates
 
