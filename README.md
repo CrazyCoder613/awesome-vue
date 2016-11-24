@@ -303,7 +303,7 @@
   - [JS Validator ★4](https://github.com/gocanto/easiest-js-validator) - The easiest way to validate your forms without 3rd party packages by @gocanto
   - [vue-verify](https://github.com/PeakTai/vue-verify) - A simple verification plugin for VueJS
   - [vee-validate](https://github.com/logaretm/vee-validate) - Simple VueJS input validation plugin by @logaretm
-  - [Vue-Laravel-Validator ★17](https://github.com/MetinSeylan/Vue-Laravel-Validator) - Laravel validation response handle for vue forms. by [@MetinSeylan](https://github.com/MetinSeylan)
+  - [Vue-Laravel-Validator ★26](https://github.com/MetinSeylan/Vue-Laravel-Validator) - Laravel validation response handle for vue forms. by [@MetinSeylan](https://github.com/MetinSeylan)
   - [vue-formly](https://github.com/matt-sanders/vue-formly) - Simple and extendable JS based forms. Heavily inspired by Angular Formly.
   - [vue-formly-bootstrap](https://github.com/matt-sanders/vue-formly-bootstrap) - A Bootstrap plugin for Vue Formly.
   - [vue-formular](https://github.com/matfish2/vue-formular) - A comperhensive solution for HTML form management, including presentation, validation and (optional) AJAX submission. Presentation is based on Bootstrap's form component.
@@ -469,7 +469,7 @@
   - [**Vue(2.0) + Node.js: A blog content manage system (CMS) ★202**](https://github.com/ycwalker/CMS-of-Blog) by @ycwalker
   - [ngexplorer-quasar ★1](https://github.com/gustaYo/vue-chess) -Implementation of [Ngexplorer](https://github.com/gustaYo/ngexplorer-MEAN) with [quasar framework](https://github.com/rstoenescu/quasar-framework) by [gustaYo](https://github.com/gustaYo)
   - [zhihu-daily-vue ★6](https://github.com/moonou/zhihu-daily-vue) a zhihu daily base on vue2.0 by [moonou](https://github.com/moonou)
-  - [Resume Vue](https://github.com/ChangJoo-Park/Resume-Vue) JSON based Resume based on Vue 2.0 by [ChangJoo Park](https://github.com/ChangJoo-Park/)
+  - [loopback-vue ★32](https://github.com/qxl1231/generator-loopback-vue) loopback+vue+vue-resource,ionic-app,vue page分页功能,authenticate 权限控制,accesstoken机制,credentials,CI,docker  [qxl1231](https://github.com/qxl1231)
   
 - #### Boilerplates
 
@@ -498,10 +498,11 @@
   - [vue-adonis](https://github.com/Atinux/vue-adonis) - AdonisJS + Vue.js with server-side rendering by [@Atinux](https://github.com/Atinux)
   - [A simple template for Vue.js plugin](https://github.com/znck/vue-plugin-simple) [![★11](https://img.shields.io/github/stars/znck/vue-plugin-simple.svg?style=social&label=Star&maxAge=2592000)](https://github.com/znck/vue-plugin-simple) by [@znck](https://github.com/znck) - Uses rollup to pack.
   - [vuejs-2.0-boilerplate](https://github.com/the6thm0nth/vuejs-2.0-boilerplate) by [@the6thm0nth](https://github.com/the6thm0nth) - A Vue.js 2.0 Boilerplate with vue-router, vue-resource, vuex
-
+  - [yeoman for Vue.js and loopback.js  ★32](https://github.com/qxl1231/generator-loopbackvue) by @qxl1231 <sup>yeoman generator of loopback+vue</sup>
 - #### Scaffolding
 
   - [**vue-cli ★1,115**](https://github.com/vuejs/vue-cli): official CLI for scaffolding Vue.js projects.
+  - [**loopback-vue ★32**](https://github.com/qxl1231/loopback-vue): for scaffolding loopback+Vue.js projects..
   - [Vue generator ★77](https://github.com/BirdEggegg/generator-vuejs): a simple yeoman generator for Vue by @BirdEggegg
   - [VENM stack yeoman generator ★39](https://github.com/jfelsinger/generator-venm) by @jfelsinger
   - [Grail Yeoman Generator ★11](https://github.com/mustardamus/generator-grail): a advanced yeoman generator for a modern modular one page web app, extendable with Vue.js alongside other nice tools
@@ -562,7 +563,7 @@
   - [vue-loading ★35](https://github.com/Coffcer/vue-loading): Vue directive, show loading block in any element. By [@coffcer](https://github.com/Coffcer)
   - [vue-gesture ★19](https://github.com/mlyknown/vue-gesture):touch events plugin for Vue.js.You can v-gesture directive,and directive auguments can use a tap, swipe, etc.
   - [vue-lazyload-img ★49](https://github.com/JALBAA/vue-lazyload-img) another image lazyload plugin for Vue, especially optimized for mobile browser. By [@JALBAA](https://github.com/JALBAA)
-  - [**vue-socket.io ★126**](https://github.com/MetinSeylan/Vue-Socket.io) : [socket.io-client](http://socket.io) plugin for Vuejs 2.0 and 1, manage socket.io event in Vue vm. By [@MetinSeylan](https://github.com/MetinSeylan)
+  - [**vue-socket.io ★160**](https://github.com/MetinSeylan/Vue-Socket.io) : [socket.io-client](http://socket.io) plugin for Vuejs 2.0 and 1, manage socket.io event in Vue vm. By [@MetinSeylan](https://github.com/MetinSeylan)
   - [vue-clipboard ★32](https://github.com/xiaokaike/vue-clipboard)
   - [vue-dragula ★35](https://github.com/Astray-git/vue-dragula): Vue wrapper for [dragula](https://github.com/bevacqua/dragula)
   - [**vue-infinite-scroll ★167**](https://github.com/ElemeFE/vue-infinite-scroll): infinite scroll directive for Vuejs [@ElemeFE](https://github.com/ElemeFE)
@@ -724,6 +725,8 @@
   - [Livestorm](http://livestorm.co) Webinar / Live events app
   - [Framework7-VueJS ★25](https://github.com/tyllo/Framework7-VueJS) Personal account for customers VSCT [SPA](http://tyllo.github.io/Framework7-VueJS) and [app](https://play.google.com/store/apps/details?id=ru.xdraw.vsct&hl=ru) on Framework7 and Vue.js<sup>1.x</sup> (*Use for auth: demo/demo*) by [@tyllo](https://github.com/tyllo)
    - [Metric Loop](https://metricloop.com) A technology services and solutions website
+   - [Holden](https://www.holden.com.au)
+   - [Global-Exam](https://global-exam.com) Online Training for Language Proficiency Tests
 
 - #### Interactive Experiences
 
