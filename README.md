@@ -501,6 +501,7 @@
   - [vuejs-carousel](https://github.com/ludo237/vuejs-carousel): Complete photo carousel build with VueJS and web standards in mind<sup>VueJs 2.1.6+</sup>
   - [vue-progressbar-xeonpowder ★1](https://github.com/XeonPowder/vue-progressbar): A progressbar forked from @hilongjw, updated by @XeonPowder, with more bells and whistles for Vue.JS 2+
   - [vue-echarts ★194](https://github.com/Justineo/vue-echarts): ECharts component for Vue.js. By [@Justineo](https://github.com/Justineo)
+  - [VueLinkPopover](https://github.com/klummy/VueLinkPopover): Flexible, customizable Twitter style popover component for Vue.js.
 
 - #### Analytics
   - [**vue-ua [![GitHub stars](https://img.shields.io/github/stars/ScreamZ/vue-analytics.svg)](https://github.com/ScreamZ/vue-analytics)**](https://github.com/ScreamZ/vue-analytics): Google Universal Analytics implementation for Vue.JS 2+
@@ -851,8 +852,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
    - [GitRelease](https://github.com/ChangJoo-Park/gitrelease-app), Track github project's new release on mac menubar using vue.js with electron.
    - [12BAY.VN](https://12bay.vn) - Applications online flight bookings. Ứng dụng săn vé may bay siêu rẻ.
    - [PLAYCODE.IO](https://playcode.io) - Playground for Rapid Frontend Experiments
-   - [Vue.js Cinema](https://vuejs-cinema.herokuapp.com) - A movie session times app built with Vue.js!
-
+   - [Vue.js Cinema](http://vuejs-cinema.getjsdojo.com) - A movie session times app built with Vue.js
+   - [Vue.js Calendar](http://vuejs-calendar.getjsdojo.com) - A calendar app built with Vue.js, Vuex and server-side rendering
 
 - #### Interactive Experiences
 
