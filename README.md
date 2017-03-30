@@ -340,7 +340,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [vue-wordpress-pwa](https://github.com/bstavroulakis/vue-wordpress-pwa)
  - [OpenAPI 3 viewer](https://github.com/koumoul-dev/openapi-viewer) - Browse and test a REST API described with the OpenAPI 3.0 Specification
   - [Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring
-
+  - [Distrochooser.de](https://github.com/cmllr/distrochooser) - An orientation guide for Linux beginners
 ### Commercial Products
 
  - [Wijmo](http://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
@@ -582,11 +582,7 @@ Tooltips / popovers
 *Display JSON data*
 
  - [vue-json-tree-view](https://github.com/arvidkahl/vue-json-tree-view) - A JSON Tree View Component for Vue.js.
- 
-###### vue-tree
 
- - [vue-tree](https://github.com/halower/vue2-tree) - A Tree Component for Vue.js 2.X.
- 
 ### Social Sharing
 
  - [vue-social-sharing](https://github.com/nicolasbeauvais/vue-social-sharing) - A Vue.js component for sharing links to social networks, work with Vue.js 1.X or 2.X.
