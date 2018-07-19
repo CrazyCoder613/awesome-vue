@@ -775,6 +775,7 @@
   - [Roast](https://roastandbrew.coffee/) an app built to help coffee enthusiasts find their next cup of coffee while learning about Laravel + Vue.js.
   - [YBR](https://yangonbusreport.org) - Centralized YBS Public eComplaint Management System. (Full SPA) 
   - [Regex Fiddler](https://regexfiddler.com/)
+  - [Myanpwel](https://myanpwel.com) - The website of event ticketing platform. 
 
 ### Interactive Experiences
 
@@ -1228,7 +1229,6 @@ Tooltips / popovers
  - [vue-countable](https://github.com/johndatserakis/vue-countable) - Vue binding for countable.js. Provides real-time paragraph, sentence, word, and character counting.
  - [v-show-slide](https://github.com/phegman/v-show-slide) - A Vue.js directive for animating an element to and from height: auto in a sliding motion.
  - [vue-swipe-actions](https://github.com/eCollect/vue-swipe-actions) - iOS style swipe actions for Vue.js
- - [vue-friendly-iframe](https://github.com/officert/vue-friendly-iframe) - A Vue js component for creating super fast loading, non-blocking iframes.
 
 ### Tabs
 
