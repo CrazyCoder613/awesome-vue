@@ -903,7 +903,6 @@
  - [vue-izitoast](https://github.com/arthurvasconcelos/vue-izitoast) - A Vue.js 2 wrapper around IziToast.
  - [vue-toastr-2](https://github.com/saivarunk/vue-toastr-2) - Simple toast notifications for Vue.js built on [toastr](https://github.com/CodeSeven/toastr)
  - [vue-snack](https://github.com/zerodois/vue-snack) - A Vue.JS plugin for Snackbars based on Google Material.
- - [vue-m-message](https://github.com/mengdu/m-message) - A message plugin for vue.
 
 
 ### Loader
@@ -1626,8 +1625,6 @@ Tooltips / popovers
   - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - A magical vue admin based on Element UI 2.x
   - [d2admin](https://github.com/FairyEver/d2admin-vue-element) - An elegant backstage template build by vue
   - [rest-admin](https://github.com/wxs77577/rest-admin) - Restful Admin Panel Based on Vue and Boostrap 4 [Online Demo](http://rest-admin.genyii.com)
-  - [vue-element-admin-tpl](https://github.com/mengdu/vue-element-admin-tpl) - An admin platform template based on Element UI 2.x
-
 
 ### Server-side rendering
 
@@ -2103,6 +2100,7 @@ the amazing Vue.js.
 - [vue-router-user-roles](https://github.com/anthonygore/vue-router-user-roles) - Protects routes based on user roles. Add your own authentication.
  - [vue-messenger](https://github.com/fjc0k/vue-messenger) - A series of useful enhancements to Vue component props: Transform, Enum-type, Numeric-type, Two-way data bindings.
  - [vue-uuid-v4](https://github.com/estudioliver/vue-uuid.git) - Plugin Vue2 to easy get UUIDv4
+ - [vue-async-operations](https://github.com/devstark-com/vue-async-operations) - Managing async operations statuses in your Vue components
 
 ### Web Workers
 - [vue-worker](https://github.com/israelss/vue-worker) - A Vue.js plugin to use webworkers in a simply way.
