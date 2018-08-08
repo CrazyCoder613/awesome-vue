@@ -90,6 +90,7 @@
     - [Responsive Design](#responsive-design)
     - [Form](#form-1)
       - [Validation](#validation)
+    - [Resize](#resize)  
     - [Scroll](#scroll)
     - [Routing](#routing)
     - [Lazy Load](#lazy-load)
@@ -1568,7 +1569,6 @@ Tooltips / popovers
  - [Zircle UI](https://zircleui.github.io/zircleUI/) - A lightweight front-end library for developing zoomable user interfaces.
  - [vue-mdc-adapter](https://github.com/stasson/vue-mdc-adapter) - Material Components integration for Vue.js as per MDC Team's [guidelines](https://github.com/material-components/material-components-web/blob/master/docs/integrating-into-frameworks.md).
  - [Material Components Vue](https://github.com/matsp/material-components-vue) - wrapper around [material-components-web](https://github.com/material-components/material-components-web) for Vue.js
- - [BalmUI](https://material.balmjs.com/) - Next Generation Material UI for Vue.js
  - [PrimeVue](https://github.com/primefaces/primevue) - A Vue.js 2.0 UI Component library for Web
  - [vuesax](https://github.com/lusaxweb/vuesax) - Frontend vue Components for Vue.js.
  - [vuecidity](https://bitbucket.org/acidmartin/vuecidity) - UI component framework for Vue.js 2.0
@@ -1713,6 +1713,9 @@ composing CSS breakpoint state.
  - [willvalidate](https://github.com/gustavoSoriano/willvalidate) - Validation Forms for Vue.js.
  - [vue-m-validator](https://github.com/silksofthesoul/vue-m-validator) - Model data validation library, for VueJs.
  - [vue-isyourpasswordsafe](https://github.com/Pitu/vue-isyourpasswordsafe) - A small utility written in Vue that checks if the given password has been leaked against the Have I Been Pwned API.
+
+### Resize
+ - [vue-not-visible](https://github.com/PxyUp/vue-not-visible) - Vue directive for removing from dom (like v-if) element on screen smaller than breakpoints.
 
 ### Scroll
 
