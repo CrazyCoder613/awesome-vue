@@ -90,7 +90,6 @@
     - [Responsive Design](#responsive-design)
     - [Form](#form-1)
       - [Validation](#validation)
-    - [Resize](#resize)  
     - [Scroll](#scroll)
     - [Routing](#routing)
     - [Lazy Load](#lazy-load)
@@ -643,8 +642,7 @@
  - [EducationLink](https://geteducation.link/?utm_source=AwesomeVue) - CRM and sales automation for education agents and colleges.
  - [Pragmatic](https://themeforest.net/item/pragmatic-vuejs-admin-template/21775201?ref=Linko91&utm_source=awesomevue) - Responsive and configurable admin template built with Vue.js and Element.
  - [Seat](https://www.useseat.com/) - Simple and modern team communication and collaboration solution.
- - [Moonitor](https://moonitor.io/) - Cryptocurrency tracker for Desktop.
- - [Deskree](https://deskree.com/) - Online collaboration platform that combines Ideas, Tasks, and Issues in one place. 
+ - [Moonitor](https://moonitor.io/) - Cryptocurrency tracker for Desktop. 
 
 ### Apps/Websites
 
@@ -1576,6 +1574,7 @@ Tooltips / popovers
  - [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - An enterprise-class UI components based on Ant Design and Vue 2.5.0
  - [heyui](https://github.com/heyui/heyui) - (https://www.heyui.top/en) - A Vue.js 2.0 UI Toolkit for Web.
  - [Carvue.js](https://carvuejs.github.io/) - IBM's Carbon Design System for Vue.js
+ - [BalmUI](https://material.balmjs.com/) - Next Generation Material UI for Vue.js
 
 ### Mobile
 
@@ -1714,9 +1713,6 @@ composing CSS breakpoint state.
  - [willvalidate](https://github.com/gustavoSoriano/willvalidate) - Validation Forms for Vue.js.
  - [vue-m-validator](https://github.com/silksofthesoul/vue-m-validator) - Model data validation library, for VueJs.
  - [vue-isyourpasswordsafe](https://github.com/Pitu/vue-isyourpasswordsafe) - A small utility written in Vue that checks if the given password has been leaked against the Have I Been Pwned API.
-
-### Resize
- - [vue-not-visible](https://github.com/PxyUp/vue-not-visible) - Vue directive for removing from dom (like v-if) element on screen smaller than breakpoints.
 
 ### Scroll
 
