@@ -90,7 +90,6 @@
     - [Responsive Design](#responsive-design)
     - [Form](#form-1)
       - [Validation](#validation)
-    - [Resize](#resize)  
     - [Scroll](#scroll)
     - [Routing](#routing)
     - [Lazy Load](#lazy-load)
@@ -643,8 +642,7 @@
  - [EducationLink](https://geteducation.link/?utm_source=AwesomeVue) - CRM and sales automation for education agents and colleges.
  - [Pragmatic](https://themeforest.net/item/pragmatic-vuejs-admin-template/21775201?ref=Linko91&utm_source=awesomevue) - Responsive and configurable admin template built with Vue.js and Element.
  - [Seat](https://www.useseat.com/) - Simple and modern team communication and collaboration solution.
- - [Moonitor](https://moonitor.io/) - Cryptocurrency tracker for Desktop.
- - [Deskree](https://deskree.com/) - Online collaboration platform that combines Ideas, Tasks, and Issues in one place. 
+ - [Moonitor](https://moonitor.io/) - Cryptocurrency tracker for Desktop. 
 
 ### Apps/Websites
 
@@ -789,7 +787,6 @@
   - [Akunyi](https://akunyi.com) - Charity Website
   - [What Would Mark Ruffalo Do?](https://www.whatwouldmarkruffalodo.com/) - Motivational website based on the story that Mark Ruffalo failed at several hundred auditions before finding success.
   - [Brandy](https://getbrandy.io) - brand assets manager for your menu bar.
-  - [Ruster社区](https://forum.ruster.xyz/) - Rust fullstack community forum for CN.
 
 ### Interactive Experiences
 
@@ -906,6 +903,7 @@
  - [vue-izitoast](https://github.com/arthurvasconcelos/vue-izitoast) - A Vue.js 2 wrapper around IziToast.
  - [vue-toastr-2](https://github.com/saivarunk/vue-toastr-2) - Simple toast notifications for Vue.js built on [toastr](https://github.com/CodeSeven/toastr)
  - [vue-snack](https://github.com/zerodois/vue-snack) - A Vue.JS plugin for Snackbars based on Google Material.
+ - [vue-m-message](https://github.com/mengdu/m-message) - A message plugin for vue.
 
 
 ### Loader
@@ -926,7 +924,6 @@
  - [vue-spinkit](https://github.com/TonPC64/vue-spinkit) - 🌈 A collection of loading indicators animated with CSS for VueJS
  - [vue2-form-loading](https://github.com/hussam-m/vue2-form-loading) - A VueJS directive can be used with forms in order to disable submit button while the next page is loading
  - [vue-element-loading](https://github.com/biigpongsatorn/vue-element-loading) - ⏳ Loading inside a container or full screen for Vue.js
- - [tb-skeleton](https://github.com/anthinkingcoder/tb-skeleton) - A skeleton screen loading for Vue.js
 
 #### Progress Bar
 
@@ -1551,7 +1548,6 @@ Tooltips / popovers
 
 
 
-
 ## Frameworks
 
 ### Responsive
@@ -1579,7 +1575,6 @@ Tooltips / popovers
  - [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - An enterprise-class UI components based on Ant Design and Vue 2.5.0
  - [heyui](https://github.com/heyui/heyui) - (https://www.heyui.top/en) - A Vue.js 2.0 UI Toolkit for Web.
  - [Carvue.js](https://carvuejs.github.io/) - IBM's Carbon Design System for Vue.js
- - [BalmUI](https://material.balmjs.com/) - Next Generation Material UI for Vue.js
 
 ### Mobile
 
@@ -1631,6 +1626,7 @@ Tooltips / popovers
   - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - A magical vue admin based on Element UI 2.x
   - [d2admin](https://github.com/FairyEver/d2admin-vue-element) - An elegant backstage template build by vue
   - [rest-admin](https://github.com/wxs77577/rest-admin) - Restful Admin Panel Based on Vue and Boostrap 4 [Online Demo](http://rest-admin.genyii.com)
+
 
 ### Server-side rendering
 
@@ -1718,9 +1714,6 @@ composing CSS breakpoint state.
  - [willvalidate](https://github.com/gustavoSoriano/willvalidate) - Validation Forms for Vue.js.
  - [vue-m-validator](https://github.com/silksofthesoul/vue-m-validator) - Model data validation library, for VueJs.
  - [vue-isyourpasswordsafe](https://github.com/Pitu/vue-isyourpasswordsafe) - A small utility written in Vue that checks if the given password has been leaked against the Have I Been Pwned API.
-
-### Resize
- - [vue-not-visible](https://github.com/PxyUp/vue-not-visible) - Vue directive for removing from dom (like v-if) element on screen smaller than breakpoints.
 
 ### Scroll
 
@@ -2109,7 +2102,6 @@ the amazing Vue.js.
 - [vue-router-user-roles](https://github.com/anthonygore/vue-router-user-roles) - Protects routes based on user roles. Add your own authentication.
  - [vue-messenger](https://github.com/fjc0k/vue-messenger) - A series of useful enhancements to Vue component props: Transform, Enum-type, Numeric-type, Two-way data bindings.
  - [vue-uuid-v4](https://github.com/estudioliver/vue-uuid.git) - Plugin Vue2 to easy get UUIDv4
- - [vue-async-operations](https://github.com/devstark-com/vue-async-operations) - Managing async operations statuses in your Vue components
 
 ### Web Workers
 - [vue-worker](https://github.com/israelss/vue-worker) - A Vue.js plugin to use webworkers in a simply way.
