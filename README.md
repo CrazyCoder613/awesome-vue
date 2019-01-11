@@ -737,6 +737,7 @@
   - [Laravist](https://laravist.com/)
   - [Atiiv](https://atiiv.com) - An app aimed for personal trainers and their clients.
   - [Statamic](https://statamic.com)
+  - [Asciiur](https://www.asciiur.com) - Internet's ascii art collection
   - [Embalses!](http://embalses.azurewebsites.net/) - A tool to report water dam level using the U.S. Geological Survey database.
   - [TravelMap](http://clem.travelmap.fr) - A simple way for travelers to create a blog based on a Map.
   - [Proper Cloth Shirt Builder](https://propercloth.com/design-a-shirt) - Custom shirt builder.
@@ -1565,7 +1566,6 @@ Tooltips / popovers
  - [vue2-collapse](https://github.com/roszpun/vue-collapse/) - Vue Collapse is a flexible content toggling plugin for the accordion lists or any other conditional content rendering.
  - [vue-badger-accordion](https://github.com/vanderb/vue-badger-accordion) - A wrapping Component for Badger Accordion for Vue.js 2.0+
  - [vue-loading-checkbox](https://github.com/Carrene/vue-loading-checkbox) - A highly customizable Vue.js checkbox UI component with loading state
- - [vue-rocker-switch](https://github.com/DannyFeliz/vue-rocker-switch) - A customizable rocker switch component for Vue.js.
 
 #### Masked Input
 
