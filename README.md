@@ -227,6 +227,8 @@
 - [VueJS Indonesia - Telegram Group [Indonesian]](https://t.me/vuejsid)
 - [VueJS Hong Kong - Facebook group](https://www.facebook.com/groups/887185518120024)
 - [VueJS Arab - Telegram Group](https://t.me/vuejsarab)
+- [VueJS Vix - Telegram Group [Portuguese]](https://t.me/vuejsvix)
+- [VueJS Vix - Meetup Page [Portuguese]](https://www.meetup.com/pt-BR/Vue-js-in-Vix/)
 
 ### Conferences
 
@@ -417,7 +419,6 @@
 - [Vue for Designers](https://designcode.io/vue) by Design+Code (February 2019)
 
 ### Examples
-- [Laravel + Nuxt.js boilerplate](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
 - [Starter Application with JWT Auth + sample backend API in Laravel](http://forum.vuejs.org/topic/39/starter-application-with-jwt-auth-sample-backend-api)
 - [Node Webkit + Vue example](https://github.com/brandonjpierce/node-webkit-boilerplate) by @brandonjpierce
 - [Vue Samples](https://github.com/superlloyd/VueSamples) by @superlloyd
@@ -746,7 +747,6 @@
   - [Vice Video](https://video.vice.com/)
   - [Formlets](https://www.formlets.com)
   - [Laracasts](https://laracasts.com)
-  - [OneConcern](https://oneconcern.com) [source](https://github.com/acidjazz/oneconcern)
   - [esa.io](https://esa.io/)
   - [稀土掘金](http://gold.xitu.io)
   - [Prague Airport](http://www.prague-airport.com/)
