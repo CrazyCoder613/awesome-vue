@@ -424,7 +424,6 @@
 - [Vue for Designers](https://designcode.io/vue) by Design+Code (February 2019)
 
 ### Examples
-- [Large scale Vue.js application boilerplate + Vuex](https://github.com/arunredhu/vuejs_boilerplate)
 - [Starter Application with JWT Auth + sample backend API in Laravel](http://forum.vuejs.org/topic/39/starter-application-with-jwt-auth-sample-backend-api)
 - [Node Webkit + Vue example](https://github.com/brandonjpierce/node-webkit-boilerplate) by @brandonjpierce
 - [Vue Samples](https://github.com/superlloyd/VueSamples) by @superlloyd
@@ -931,6 +930,7 @@
   - [Blurrish](http://blurrish.cognitusapps.com/) - Encrypted Morning Pages journal for Mac/Windows, built with Vue and Electron. Blurs as you write so you can journal in public workspaces. 
   - [ExifShot](https://exifshot.com/) - What and how on photography, beautifully.
   - [Studolog](https://studolog.com/) - Online file sharing platform for students, including tester and reviews. Currently in Czech 🇨🇿 only.
+  - [AtomicWallet](https://atomicwallet.io) - Multi-asset cryptocurrency wallet. Desktop and [mobile](https://play.google.com/store/apps/details?id=io.atomicwallet) apps both were built with Vue.
 
 ### Interactive Experiences
 
