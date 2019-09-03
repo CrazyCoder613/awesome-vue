@@ -777,6 +777,7 @@
  - [Agiloo](https://www.agiloo.com) - Project Management app for Scrum and Kanban
  - [ScaffoldHub](https://www.scaffoldhub.io) - Online Web App Generator for VueJS with NodeJS, and MongoDB or SQL.
  - [Commandeer](https://getcommandeer.com) - Could Management Reimagined. A Desktop cloud management app built with Vue.js and Electron.
+ - [SA Email Builder](https://app.emailbuilder.top) - Email template builder responsive made with VueJS and Quasar Framework
 
 ### Apps/Websites
   - [Laravel Spark](https://spark.laravel.com/)
@@ -1576,7 +1577,6 @@ Tooltips / popovers
 #### Picker
 
  - [vue-smooth-picker](https://github.com/hiyali/vue-smooth-picker) - A smooth picker component for Vue 2.x, like iOS native datetime picker.
- - [vue-fontawesome-picker](https://github.com/zolamk/vue-fontawesome-picker) - a font awesome icon picker component for Vue 2.x.
 
 #### Generator
 
