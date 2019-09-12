@@ -559,7 +559,6 @@
 - [Large scale Vue.js application boilerplate + Vuex](https://github.com/arunredhu/vuejs_boilerplate)
 - [Snake game on Vue.js without Canvas](https://github.com/Seokky/vue-snake-game)
 - [Build a Vue chat app with CometChat](https://github.com/yemiwebby/vue-group-chat-app)
-- [A one-on-one chat app in Vue with CometChat](https://github.com/cometchat-pro-tutorials/vue-cometchat-one-on-one-chat)
 
 ### Books
 
@@ -2296,6 +2295,7 @@ composing CSS breakpoint state.
  - [vue-lifecycle](https://github.com/FL3NKEY/vue-lifecycle) - A Vue.js lifecycle directives.
  - [vue-aspect-ratio](https://github.com/3vilArthas/v-aspect-ratio) - Aspect ratio directive for vue.
  - [@kooljay82/vue-m-camera](https://github.com/kooljay82/vue-m-camera) - To avoid changing orientation of photo automatically which taken via camera of user's device.
+ - [v-ripple-directive](https://github.com/andrewvasilchuk/v-ripple-directive) - Vue.js directive for ripple effect.
 
 ### WebGL
 
