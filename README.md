@@ -1129,7 +1129,6 @@
  - [vue-spinners](https://github.com/Saeris/vue-spinners) - 💫 A collection of loading spinner components for Vuejs
  - [vue-progress-bar](https://github.com/Yangfan2016/vue-yan-progress) - This is a cascading progress bar plugin based on vue
  - [vue-loading-button](https://github.com/shwilliam/vue-loading-button) - 👇 Straightforward button with slideout loading indicator
- - [vue-loading](https://github.com/HELMAB/vue-loading) - 🔄 Block page while requesting API
 
 #### Progress Bar
 
@@ -2101,6 +2100,7 @@ composing CSS breakpoint state.
  - [vue-awesome-form](https://github.com/fightingm/vue-awesome-form) - A vue.js component just like json-editor
  - [vue-form-components](https://github.com/antonreshetov/vue-form-components) - Clean & minimal vue form elements with validation
  - [ncform](https://github.com/ncform/ncform) - a very nice configuration generation way to develop form
+ - [v-ajax-form](https://github.com/hosokawat/v-ajax-form) -  vue.js component plug-in to make Form tag compatible with ajax request
 
 #### Validation
 
