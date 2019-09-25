@@ -1574,6 +1574,9 @@ Tooltips / popovers
 
  - [vue-phone-number-input](https://github.com/LouisMazel/vue-phone-number-input) - A beautiful input to format & valid phone number with country code :fire:
 
+#### Pincode Input
+ - [vue-pincode-input](https://github.com/Seokky/vue-pincode-input) - Smart pincode input component
+
 #### Picker
 
  - [vue-smooth-picker](https://github.com/hiyali/vue-smooth-picker) - A smooth picker component for Vue 2.x, like iOS native datetime picker.
@@ -2360,7 +2363,6 @@ based on [threejs](https://threejs.org/) and [Panolens](https://pchen66.github.i
  - [vue-chimera](https://github.com/SasanFarrokh/vue-chimera) - A full-featured RESTful resource based client, compatible with Nuxt.js and allows server side fetch.
  - [vue-google-api](https://github.com/vertcitron/vue-google-api) - A wrapper for easy integration of the Google's APIs client in any vue.js 2 project, based on promises, with built-in Oauth2 "Sign In with Google" facilities.
  - [vue-apis](https://github.com/ChangedenCZD/vue-apis) - A vue plug-in integrated with axios that chain-builds API instances. Available from the context of a vue instance (eg: this.$apis.apiName()).
- - [axios-mocker](https://github.com/eshengsky/axios-mocker) - The most convenient tool to mock requests for axios, with built-in Chrome extension support.
 
 ### i18n
 
