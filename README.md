@@ -970,6 +970,7 @@
   - [Wirenook](https://wirenook.com/) - Free online app for building responsive website wireframes. Hi- and Lo- Fidelity, project sharing and svg download. 
   - [Kvalitetskontroll](https://www.kvalitetskontroll.no/) - Norwegian management system tailored for the construction industry.
   - [Poolside FM](https://poolside.fm/) - A retro-style music player
+  - [Helpninja](https://dashboard.helpninja.com/) - Simple & fast help desk
 
 ### Interactive Experiences
 
@@ -1195,7 +1196,6 @@ Tooltips / popovers
 - [vue-modal 🖼](https://github.com/MelMacaluso/vue-modal) - Feed your objects array for multiple switchable modal content or quickly inline your content. A fully customisable vue modal component .
 - [@innologica/vue-stackable-modal](https://github.com/Innologica/vue-stackable-modal) - Library for modal dialogs which can be stacked. Fully customizable and very easy to use.
 - [vue-sweetalert2](https://github.com/avil13/vue-sweetalert2) - wrapper for sweatlaert2 with support for TypeScript, Nuxt and SSR
-- [vue-accessible-modal](https://github.com/andrewvasilchuk/vue-accessible-modal) - A Vue.js accessible modal wrapper over your components.
 
 ### Parallax
 
