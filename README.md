@@ -1195,6 +1195,7 @@ Tooltips / popovers
 - [vue-modal 🖼](https://github.com/MelMacaluso/vue-modal) - Feed your objects array for multiple switchable modal content or quickly inline your content. A fully customisable vue modal component .
 - [@innologica/vue-stackable-modal](https://github.com/Innologica/vue-stackable-modal) - Library for modal dialogs which can be stacked. Fully customizable and very easy to use.
 - [vue-sweetalert2](https://github.com/avil13/vue-sweetalert2) - wrapper for sweatlaert2 with support for TypeScript, Nuxt and SSR
+- [vue-accessible-modal](https://github.com/andrewvasilchuk/vue-accessible-modal) - A Vue.js accessible modal wrapper over your components.
 
 ### Parallax
 
@@ -1573,9 +1574,6 @@ Tooltips / popovers
 #### Phone Number Input Formatter
 
  - [vue-phone-number-input](https://github.com/LouisMazel/vue-phone-number-input) - A beautiful input to format & valid phone number with country code :fire:
-
-#### Pincode Input
- - [vue-pincode-input](https://github.com/Seokky/vue-pincode-input) - Smart pincode input component
 
 #### Picker
 
