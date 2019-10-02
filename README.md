@@ -970,8 +970,6 @@
   - [Wirenook](https://wirenook.com/) - Free online app for building responsive website wireframes. Hi- and Lo- Fidelity, project sharing and svg download. 
   - [Kvalitetskontroll](https://www.kvalitetskontroll.no/) - Norwegian management system tailored for the construction industry.
   - [Poolside FM](https://poolside.fm/) - A retro-style music player
-  - [Todo DEV](https://todoteam-3263d.web.app/) - A simple Todo App made for developers with Vuejs, Vuetify and the powerful Firebase.
-
 
 ### Interactive Experiences
 
@@ -1851,6 +1849,7 @@ Tooltips / popovers
  - [vue-ui-predicate](https://github.com/FGRibreau/ui-predicate/tree/master/packages/ui-predicate-vue) - A rules editor, generic filtering UI, predicates component for Vue JS.
  - [vue-mobile-detection](https://github.com/ajerez/vue-mobile-detection) - Vue.js prototype function `this.$isMobile()` that returns a Boolean value depending on whether or not the user is browsing with a mobile.
  - [vue-input-contenteditable](https://github.com/Cobertos/vue-input-contenteditable) - A Vue component wrapper for `contenteditable` with all the features you normally expect. Make beautiful inputs without the restrictions of `input[type='text']`. 
+ - [@utlime/vue-zoom](https://github.com/utlime/vue-zoom) - A Vue zoom component. 
 
 #### Wizard
 
