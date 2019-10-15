@@ -970,7 +970,6 @@
   - [Wirenook](https://wirenook.com/) - Free online app for building responsive website wireframes. Hi- and Lo- Fidelity, project sharing and svg download. 
   - [Kvalitetskontroll](https://www.kvalitetskontroll.no/) - Norwegian management system tailored for the construction industry.
   - [Poolside FM](https://poolside.fm/) - A retro-style music player
-  - [36 Pixels](https://www.36pixels.fr/) - French agency website made with vue.js
 
 ### Interactive Experiences
 
@@ -2397,6 +2396,7 @@ the amazing Vue.js.
  - [vue-bus](https://github.com/fffixed/vue-bus) - Tiny simple central event bus plugin for Vue.js 2.
  - [vue-simple-events](https://github.com/VeryWow/vue-simple-events) - Yet another event management plugin, but WITHOUT Vue instance
  - [vue-option-events](https://github.com/Cweili/vue-option-events) - Bring Vue.js 1 events option and $emit to Vue.js 2.
+ - [vue-plugin-events](https://github.com/nolde/vue-plugin-events) - Simple global event bus for Vue.js applications with automatic subscription control.
 
 ### Persistence
 
