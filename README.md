@@ -2396,7 +2396,6 @@ the amazing Vue.js.
  - [vue-bus](https://github.com/fffixed/vue-bus) - Tiny simple central event bus plugin for Vue.js 2.
  - [vue-simple-events](https://github.com/VeryWow/vue-simple-events) - Yet another event management plugin, but WITHOUT Vue instance
  - [vue-option-events](https://github.com/Cweili/vue-option-events) - Bring Vue.js 1 events option and $emit to Vue.js 2.
- - [vue-plugin-events](https://github.com/nolde/vue-plugin-events) - Simple global event bus for Vue.js applications with automatic subscription control.
 
 ### Persistence
 
@@ -2464,6 +2463,7 @@ the amazing Vue.js.
  - [vue-google-signin-button](https://github.com/phanan/vue-google-signin-button) - A simple Vue plugin to include a Google sign-in button into your web app
  - [vue-facebook-signin-button](https://github.com/phanan/vue-facebook-signin-button) - A simple plugin to include a custom Facebook sign-in button into your web app
  - [vue-auth-href](https://github.com/nachodd/vue-auth-href) - A VueJS directive for downloading files that are under a protected route schema
+ - [vue-msal](https://github.com/mvertopoulos/vue-msal) - Vue plugin for using Microsoft Authentication Library (MSAL)
   
 #### Vuex Utilities
 
