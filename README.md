@@ -168,14 +168,6 @@
     - [Command Line / Terminal](#command-line--terminal)
   - [Prerendering](#prerendering)
 
-
-
-
-
-
-
-
-
 # Resources
 
 
@@ -780,7 +772,6 @@
  - [SA Email Builder](https://app.emailbuilder.top) - Email template builder responsive made with VueJS and Quasar Framework
 
 ### Apps/Websites
-  - [awesometechstack.com](https://www.awesometechstack.com) - Identify with Awesome Tech Stack technologies used on any website or web-app
   - [Laravel Spark](https://spark.laravel.com/)
   - [Vice Video](https://video.vice.com/)
   - [Formlets](https://www.formlets.com)
@@ -2030,6 +2021,7 @@ Tooltips / popovers
  - [Peco](https://github.com/egojump/peco) - A static website generator for humans. **UNMAINTAINED**
  - [Saber](https://github.com/egoist/saber) - A static website generator for building blazing fast websites with Vue.js.
  - [Gridsome](https://github.com/gridsome/gridsome) - Build super fast, modern websites with Vue.js
+ - [Servue](https://futureaus.github.io/servue/)
 
 ### Other
 
