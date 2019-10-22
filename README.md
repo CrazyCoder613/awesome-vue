@@ -597,8 +597,6 @@
 - [Large-scale Vuex application structures](https://medium.com/3yourmind/large-scale-vuex-application-structures-651e44863e2f) by [Kevin Peters](https://twitter.com/kevinpeters_)
 - [Composing computed properties in Vue.js](https://medium.com/@kevin_peters/composing-computed-properties-in-vue-js-87b4507af079) by [Kevin Peters](https://twitter.com/kevinpeters_)
 - [Learn how to refactor Vue.js Single File Components with a real-world example](https://medium.com/@kevin_peters/learn-how-to-refactor-vue-js-single-file-components-on-a-real-world-example-501b3952ae49) by [Kevin Peters](https://twitter.com/kevinpeters_)
-- [Get Started Writing Class-based Vue.js Apps in TypeScript](https://www.sitepoint.com/class-based-vue-js-typescript)
-- [Vue.js with TypeScript](https://johnpapa.net/vue-typescript) by [John Papa](https://johnpapa.net/about/)
 
 # Projects Using Vue.js
 
@@ -1671,6 +1669,7 @@ Tooltips / popovers
  - [vue-draggable](https://github.com/Vivify-Ideas/vue-draggable) - Vue Drag and Drop library without any dependency. Simple and easy to use.
  - [vue-nestable](https://github.com/rhwilr/vue-nestable) - A simple drag & drop hierarchical list made as a vue component.
  - [vue-draggable-nested-tree](https://github.com/phphe/vue-draggable-nested-tree) - A powerful customizable draggable tree view component for Vuejs2 [@phphe](https://github.com/phphe)
+ - [vue-tinder](https://github.com/shanlh/vue-tinder) - Have your own Tinder and TanTan.
 
 
 #### Autocomplete
