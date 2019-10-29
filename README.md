@@ -433,6 +433,11 @@
 - [How to Dynamically Add a Class Name in Vue](https://michaelnthiessen.com/dynamically-add-class-name/) by Michael Thiessen
 - [Build a Library web application with Vue JS, Node JS, and SQL or MongoDB using ScaffoldHub](https://www.youtube.com/watch?v=FdC4Mjljd3k) By Felipe Lima [@scaffoldhub_io](https://twitter.com/scaffoldhub_io)
 - [Building a Realtime Location tracking app with NativeScript + Vue](https://medium.com/saibbyweb/building-a-real-time-location-tracking-app-with-nativescript-vue-under-350-lines-of-code-8b51ad40d657) by Saibbyweb
+- [Nordschool Vue Tutorials](https://nordschool.com/tag/vue) by [Nordschool](https://nordschool.com/)
+- [Vue Props Validation - Best Practices](https://nordschool.com/vue-props/) by [Nordschool](https://nordschool.com/)
+- [Vue Router - The Complete Guide](https://nordschool.com/vue-router/) by [Nordschool](https://nordschool.com/)
+- [Enable VS Code Debugger for Nuxt & Typescript](https://nordschool.com/enable-vs-code-debugger-for-nuxt-and-typescript/) by [Nordschool](https://nordschool.com/)
+- [Create A Blog With Gridsome & Vue](https://nordschool.com/create-a-blog-with-gridsome-and-vue/) by [Nordschool](https://nordschool.com/)
 
 ### Examples
 - [Starter Application with JWT Auth + sample backend API in Laravel](http://forum.vuejs.org/topic/39/starter-application-with-jwt-auth-sample-backend-api)
@@ -1281,6 +1286,7 @@ Tooltips / popovers
 ### Charts
 
  - [vue-morris](https://github.com/bbonnin/vue-morris) - VueJS component wrapping Morris.js.
+ - [vue-charts](https://github.com/haydenbbickerton/vue-charts) - Google Charts plugin for Vue.js.
  - [vue-chartjs](https://github.com/apertureless/vue-chartjs) - Vue.js wrapper for Chart.js.
  - [hchs-vue-charts](https://github.com/hchstera/vue-charts) - Based on Vue2.0 wrapper for ChartJs.
  - [vue-echarts](https://github.com/Justineo/vue-echarts) - ECharts component for Vue.js.
@@ -1288,6 +1294,7 @@ Tooltips / popovers
  - [vue-highcharts](https://github.com/weizhenye/vue-highcharts) - Highcharts component for Vue.
  - [vue-echarts-v3](https://github.com/xlsdg/vue-echarts-v3) - Vue.js(v2.x+) component wrap for ECharts.js(v3.x+).
  - [vue-chartist](https://github.com/lakb248/vue-chartist) - Vue.js 2.0 component wrap for Chartist.
+ - [g2-vue](https://github.com/fireyy/g2-vue) - Factory wrapper for using G2 easily in a Vue Component.
  - [vuebars](https://github.com/DeviaVir/vue-bar) - Simple, elegant spark bars for Vue.js.
  - [vue-d3-network](https://github.com/emiliorizzo/vue-d3-network) - Vue component to graph networks using d3-force
  - [vue2vis](https://github.com/alexcode/vue2vis) - Vue2 wrapper for [Visjs](http://visjs.org).
@@ -1313,7 +1320,6 @@ Tooltips / popovers
  - [vue-plotly](https://github.com/David-Desmaisons/vue-plotly) - Wrapper for [plotly.js](https://plot.ly/javascript/) declarative charting library that ships with 20 chart types, including 3D charts, statistical graphs, and SVG maps.
  - [vue-funnel-graph-js](https://github.com/greghub/vue-funnel-graph-js) - Funnel graph drawing library for Vue.js. Create vertical and horizontal animated SVG funnel charts and add labels, values, legend and other info.
  - [pure-vue-chart](https://github.com/djaxho/pure-vue-chart) - Lightweight vue charts implemented without any chart library dependencies
- - [f2-vue](https://github.com/justice47/f2-vue) - Vue wrapper of f2 - elegant, interactive and flexible mobile chart library
 
 ### Time
 
