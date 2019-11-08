@@ -759,6 +759,7 @@
 - [Daily](https://github.com/dailynowco/daily) - Curated dev news delivered to your new tab 👩🏽‍💻
 - [Laravel File Manager](https://github.com/alexusmai/laravel-file-manager) - Powerful file manager for Laravel
 - [Vue Crypto Dashboard](https://github.com/JayeshLab/vue-crypto-dashboard) - Cryptocurrency Dashboard made with Vue.js
+- [Zeithub](https://github.com/m0g/zeithub) - Open source time tracking, invoicing & expenses management for freelancers
 
 ### Commercial Products
  - [Wijmo](http://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
@@ -2072,7 +2073,6 @@ Tooltips / popovers
  - [vue-scroll-show](https://github.com/AlekseyPleshkov/vue-scroll-show) – Showing the element if the user reached it after scroll
  - [vue-tabevents](https://github.com/Almoullim/vue-tabevents) – Easy communication between other opened tabs
  - [vue-visibility-trigger](https://github.com/shwilliam/vue-visibility-trigger) - 👀 Declaratively trigger methods when scrolled into view
- - [vue-keypress](https://github.com/lupas/vue-keypress) - Global keypress event handler component for Vue.js applications.
 
 ### Responsive Design
 
