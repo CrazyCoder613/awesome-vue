@@ -1686,7 +1686,6 @@ Tooltips / popovers
  - [vue-simple-suggest](https://github.com/KazanExpress/vue-simple-suggest) - Simple yet feature-rich autocomplete component for Vue.js
  - [v-suggest](https://github.com/TerryZ/v-suggest) - A Vue2 plugin for input content suggestions, support keyboard to quick pick.
  - [vue-bootstrap-typeahead](https://github.com/alexurquhart/vue-bootstrap-typeahead) - An typeahead/autocomplete component for Vue2 using Bootstrap 4 CSS.
- - [vue-email-dropdown](https://github.com/DannyFeliz/vue-email-dropdown) - An autocomplete for custom email domains.
 
 #### Type Select
 
@@ -1745,6 +1744,7 @@ Tooltips / popovers
 - [vue-the-mask](https://github.com/vuejs-tips/vue-the-mask) - Tiny (<2k gzipped) and dependency free mask input for Vue.js
 - [vue-canvas-input](https://github.com/loo41/vuc) - Vue canvas component for [vuc-input](http://vuc.tianchenyong.top/#/identify)
 - [vue-currency-input](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
+- [vue-restricted-input](https://github.com/Scrum/vue-restricted-input) - Input mask library for vue.js based on [restricted-input](https://github.com/braintree/restricted-input)
 
 #### Rich Text Editing
 
@@ -2242,6 +2242,7 @@ composing CSS breakpoint state.
  - [vue-animate-scroll](https://github.com/mike-prince/vue-animate-scroll) Super lightweight way to add CSS animations to elements as they scroll into view.
  - [vue-svg-transition](https://github.com/kai-oswald/vue-svg-transition) Create 2-state, SVG-powered transitions
  - [vue-page-transition](https://github.com/Orlandster/vue-page-transition) Easy route / page transitions for Vue.js
+ - [v-number](https://github.com/maxflex/v-number/) Animated number transition library for Vue.js
 
 ### Meta Tags
 
