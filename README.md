@@ -970,7 +970,6 @@
   - [Wirenook](https://wirenook.com/) - Free online app for building responsive website wireframes. Hi- and Lo- Fidelity, project sharing and svg download. 
   - [Kvalitetskontroll](https://www.kvalitetskontroll.no/) - Norwegian management system tailored for the construction industry.
   - [Poolside FM](https://poolside.fm/) - A retro-style music player
-  - [Vue Spotify](https://github.com/gk4m/vue-spotify) - Spotify client built with vue.js / vuex
 
 ### Interactive Experiences
 
@@ -1375,6 +1374,7 @@ Tooltips / popovers
  - [vue-googlemaps](https://github.com/Akryum/vue-googlemaps) - Vue 2.x components to integrate Google Maps.
  - [vue-static-map](https://github.com/eperedo/vue-static-map) - Vue 2.x simple component to generate an static google map
  - [vue-mapbox](https://github.com/soal/vue-mapbox) - Vue 2.x wrapper around Mapbox GL JS library that provides vueish-way to interact with the map.
+ - [vue-async-gmaps](https://github.com/vanderb/vue-async-gmaps) - Let users decide to load google-maps script for better privacy
 
 ### Audio / Video
 
