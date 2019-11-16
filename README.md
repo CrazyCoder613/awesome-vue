@@ -1018,7 +1018,7 @@
  - [Cotabox](https://cotabox.com.br)
  - [Aromajoin](https://aromajoin.com) - Develop the finest digital scent products based on the harmony of hardware, software and material technology.
  - [Carrefour](https://www.carrefour.fr)
- - [Staples Canada](https://www.staples.ca/)
+ - [Manduka](https://www.manduka.com/)
 
 ### A11y
 
