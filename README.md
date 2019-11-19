@@ -987,7 +987,6 @@
  - [Subtletab - Browser Extension](https://subtletab.com)
  - [web-riimote](https://web-riimote.herokuapp.com) - Turn your smartphone into a 3D controller ([source code](https://github.com/konaraddio/web-riimote))
  - [CSS ColorVars](https://csscolorvars.github.io/) - Interactive tool code generation ([source code](https://github.com/CSSColorVars/csscolorvars))
-
 ### Enterprise Usage
 
  - Alibaba
@@ -1018,7 +1017,6 @@
  - [Cotabox](https://cotabox.com.br)
  - [Aromajoin](https://aromajoin.com) - Develop the finest digital scent products based on the harmony of hardware, software and material technology.
  - [Carrefour](https://www.carrefour.fr)
- - [Manduka](https://www.manduka.com/)
 
 ### A11y
 
@@ -1771,7 +1769,8 @@ Tooltips / popovers
  - [ckeditor5-vue](https://github.com/ckeditor/ckeditor5-vue) - An official CKEditor 5 rich text editor component for Vue.js.
  - [yimo-vue-editor](https://github.com/yimogit/yimo-vue-editor) - A wangEditor2 component for Vue2.
  - [vue-mathlive](https://github.com/arnog/vue-mathlive) A MathLive math editor (mathfield) for Vue.hjs
-
+ - [vue-editor-js](https://github.com/ChangJoo-Park/vue-editor-js) Next generation block styled editor. for Vue.js
+ 
 #### Image Manipulation
 
 *Edit images*
