@@ -1315,8 +1315,6 @@ Tooltips / popovers
  - [vue-plotly](https://github.com/David-Desmaisons/vue-plotly) - Wrapper for [plotly.js](https://plot.ly/javascript/) declarative charting library that ships with 20 chart types, including 3D charts, statistical graphs, and SVG maps.
  - [vue-funnel-graph-js](https://github.com/greghub/vue-funnel-graph-js) - Funnel graph drawing library for Vue.js. Create vertical and horizontal animated SVG funnel charts and add labels, values, legend and other info.
  - [pure-vue-chart](https://github.com/djaxho/pure-vue-chart) - Lightweight vue charts implemented without any chart library dependencies
- - [ZingChart-Vue](https://github.com/zingchart/zingchart-vue) - Vue component made by ZingChart with 35+ chart types.
- 
 
 ### Time
 
@@ -1389,6 +1387,7 @@ Tooltips / popovers
  - [v-playback](https://github.com/TerryZ/v-playback) - A Vue2 plugin to make video play easier.
  - [vue-audio-recorder](https://github.com/grishkovelli/vue-audio-recorder) - Audio recorder for Vue.js. It allows to create, play, download and store records on a server
  - [vue-video-section](https://github.com/johndatserakis/vue-video-section) - A simple video header/section component for Vue. Good for video backgrounds and overlaying content on them.
+ - [vue-h5-audio-controls](https://github.com/cycjimmy/vue-h5-audio-controls) - A simple h5 music controller for Vue.
 
 ### Infinite Scroll
 
