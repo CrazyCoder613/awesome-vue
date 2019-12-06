@@ -597,9 +597,6 @@
 - [Large-scale Vuex application structures](https://medium.com/3yourmind/large-scale-vuex-application-structures-651e44863e2f) by [Kevin Peters](https://twitter.com/kevinpeters_)
 - [Composing computed properties in Vue.js](https://medium.com/@kevin_peters/composing-computed-properties-in-vue-js-87b4507af079) by [Kevin Peters](https://twitter.com/kevinpeters_)
 - [Learn how to refactor Vue.js Single File Components with a real-world example](https://medium.com/@kevin_peters/learn-how-to-refactor-vue-js-single-file-components-on-a-real-world-example-501b3952ae49) by [Kevin Peters](https://twitter.com/kevinpeters_)
-- [Vue vs React: Which is the better framework?](https://buttercms.com/blog/vue-vs-react-which-is-the-better-framework) by [ButterCMS](https://twitter.com/ButterCMS)
-- [Building a Beautiful Animated News App with Vue.js and Vuetify](https://buttercms.com/blog/build-a-beautiful-animated-news-app-with-vuejs-and-vuetify) by [ButterCMS](https://twitter.com/ButterCMS)
-- [Comparing Angular vs Vue](https://buttercms.com/blog/comparing-angular-vs-vue) by [ButterCMS](https://twitter.com/ButterCMS)
 
 # Projects Using Vue.js
 
@@ -1334,6 +1331,7 @@ Tooltips / popovers
  - [vue-awesome-countdown](https://github.com/mlinquan/vue-awesome-countdown) - Countdown plug-in with high performance and high accuracy for Vue 2.5.0+. Official site: [https://vac.js.org](https://vac.js.org)
  - [vue-clock2](https://github.com/bestvist/vue-clock2) - Display clock component for Vue.
  - [vuemodoro](https://github.com/P3trur0/vuemodoro) - Pomodoro timer as single file Vue component.
+ - [vue-date-tools](https://github.com/misterfresh/vue-date-tools/) - Lightweight Vue filters to format JS Date objects using date-fns
 
 ### Calendar
 
@@ -1364,6 +1362,7 @@ Tooltips / popovers
  - [vue-draggableCal](https://github.com/liloow/vue-draggableCal) - Not your ordinary datepicker. A Vuejs draggable date selector with a fresh responsive design, mobile ready and 0 dependencies, 17kb gzipped
  - [vue-material-year-calendar](https://github.com/nono1526/vue-material-year-calendar) -  A full year (12 months on a page) calendar for Vue2. Uses dayjs.
  - [vuelendar](https://github.com/codesthq/vuelendar) - Simple and clean calendar written in VueJS
+ - [vue-date-tools](https://github.com/misterfresh/vue-date-tools/) - Most lightweight VueJS Date picker & Daterange picker using date-fns and no other dependencies
 
 ### Map
 
@@ -1627,6 +1626,7 @@ Tooltips / popovers
 - [vue-business-hours](https://github.com/sbarry50/vue-business-hours) - Vue component for selecting business hours in an administration panel or dashboard.
 - [material-vue-daterange-picker](https://github.com/ly525/material-vue-daterange-picker) - a daterange picker of Material Design style for Vuejs 2.x, which is compatible with vuetify and friendly for mobile.
 - [vue-datepicker](https://github.com/mathieustan/vue-datepicker) - A clean & responsive datepicker with Material Design style for Vuejs 2.x. (date/month/quarter && date range picker) :new:
+- [vue-date-tools](https://github.com/misterfresh/vue-date-tools/) - Most lightweight Vue Date picker & Date range picker using date-fns.
 
 #### Select
 
