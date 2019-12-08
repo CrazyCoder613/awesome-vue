@@ -1040,6 +1040,7 @@
  - [vuetable-2](https://github.com/ratiw/vuetable-2) - Data table simplify.
  - [vue-tables-2](https://github.com/matfish2/vue-tables-2) - Vue.js 2 grid components.
  - [vue-datasource](https://github.com/coderdiaz/vue-datasource) - A vue.js server side component to create dynamic tables.
+ - [fancy-grid-vue](https://fancygrid.com) - Vue adaptor for FancyGrid.
  - [ag-grid-vue](https://github.com/ag-grid/ag-grid/tree/master/packages/ag-grid-vue) - Vue adaptor for ag-Grid.
  - [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) - Vue2.0 DataTables, based on element-ui.
  - [vue-floatThead](https://github.com/tmlee/vue-floatThead) - Vue 2.0 component for floatThead, a floating & sticky table header plugin.
@@ -1331,7 +1332,6 @@ Tooltips / popovers
  - [vue-awesome-countdown](https://github.com/mlinquan/vue-awesome-countdown) - Countdown plug-in with high performance and high accuracy for Vue 2.5.0+. Official site: [https://vac.js.org](https://vac.js.org)
  - [vue-clock2](https://github.com/bestvist/vue-clock2) - Display clock component for Vue.
  - [vuemodoro](https://github.com/P3trur0/vuemodoro) - Pomodoro timer as single file Vue component.
- - [vue-date-tools](https://github.com/misterfresh/vue-date-tools/) - Lightweight Vue filters to format JS Date objects using date-fns
 
 ### Calendar
 
@@ -1362,7 +1362,6 @@ Tooltips / popovers
  - [vue-draggableCal](https://github.com/liloow/vue-draggableCal) - Not your ordinary datepicker. A Vuejs draggable date selector with a fresh responsive design, mobile ready and 0 dependencies, 17kb gzipped
  - [vue-material-year-calendar](https://github.com/nono1526/vue-material-year-calendar) -  A full year (12 months on a page) calendar for Vue2. Uses dayjs.
  - [vuelendar](https://github.com/codesthq/vuelendar) - Simple and clean calendar written in VueJS
- - [vue-date-tools](https://github.com/misterfresh/vue-date-tools/) - Most lightweight VueJS Date picker & Daterange picker using date-fns and no other dependencies
 
 ### Map
 
@@ -1626,7 +1625,6 @@ Tooltips / popovers
 - [vue-business-hours](https://github.com/sbarry50/vue-business-hours) - Vue component for selecting business hours in an administration panel or dashboard.
 - [material-vue-daterange-picker](https://github.com/ly525/material-vue-daterange-picker) - a daterange picker of Material Design style for Vuejs 2.x, which is compatible with vuetify and friendly for mobile.
 - [vue-datepicker](https://github.com/mathieustan/vue-datepicker) - A clean & responsive datepicker with Material Design style for Vuejs 2.x. (date/month/quarter && date range picker) :new:
-- [vue-date-tools](https://github.com/misterfresh/vue-date-tools/) - Most lightweight Vue Date picker & Date range picker using date-fns.
 
 #### Select
 
