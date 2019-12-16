@@ -1277,6 +1277,7 @@ Tooltips / popovers
  - [Lingallery](https://github.com/ChristophAnastasiades/Lingallery) - Simple image gallery component for Vue which displays a large image with thumbnails below
  - [vue-piece-slider](https://github.com/dreambo8563/vue-piece-slider) - Animated slides in a fragmented look
  - [vue2-photo-carousel](https://github.com/leepyng/vue2-photo-carousel) - A photo carousel component for Vue2
+ - [vue-slick-carousel](https://github.com/gs-shop/vue-slick-carousel) - A carousel with slick features & SSR support written for faster Luxstay
 
 ### Charts
 
@@ -1769,7 +1770,6 @@ Tooltips / popovers
  - [ckeditor5-vue](https://github.com/ckeditor/ckeditor5-vue) - An official CKEditor 5 rich text editor component for Vue.js.
  - [yimo-vue-editor](https://github.com/yimogit/yimo-vue-editor) - A wangEditor2 component for Vue2.
  - [vue-mathlive](https://github.com/arnog/vue-mathlive) A MathLive math editor (mathfield) for Vue.hjs
- - [@mycure/vue-wysiwyg](https://mycurelabs.github.io/vue-wysiwyg/) - 34Kb lightweight wysiwyg editor with NO 3rd party plugin.
 
 #### Image Manipulation
 
