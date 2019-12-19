@@ -970,7 +970,6 @@
   - [Wirenook](https://wirenook.com/) - Free online app for building responsive website wireframes. Hi- and Lo- Fidelity, project sharing and svg download. 
   - [Kvalitetskontroll](https://www.kvalitetskontroll.no/) - Norwegian management system tailored for the construction industry.
   - [Poolside FM](https://poolside.fm/) - A retro-style music player
-  - [Tune.pk](https://tune.pk/) - Tune.pk is one of the largest video sharing website with content from all over the world.
 
 ### Interactive Experiences
 
@@ -2497,6 +2496,7 @@ the amazing Vue.js.
  - [vuex-easy-firestore](https://mesqueeb.github.io/vuex-easy-firestore/) - Easy coupling of Firebase Cloud Firestore and Vuex. 2-way sync with 0 boilerplate!
  - [vuex-listener](https://github.com/TimurKiyivinski/vuex-listener) - A global Vuex action and mutation listener plugin
  - [jsonapi-vuex](https://github.com/mrichar1/jsonapi-vuex) - Use a JSONAPI api with a Vuex store, with client-side restructuring/normalization of records.
+ - [vuex-factories](https://github.com/Goldziher/vuex-factories) - Factory functions to generate vuex actions and mutations.
 
 ###### Sync Between Tabs
 
