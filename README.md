@@ -778,7 +778,6 @@
  - [ScaffoldHub](https://www.scaffoldhub.io) - Online Web App Generator for VueJS with NodeJS, and MongoDB or SQL.
  - [Commandeer](https://getcommandeer.com) - Could Management Reimagined. A Desktop cloud management app built with Vue.js and Electron.
  - [SA Email Builder](https://app.emailbuilder.top) - Email template builder responsive made with VueJS and Quasar Framework
- - [vREST NG](https://ng.vrest.io) - An enterprise application for Automated API Testing, built with VueJS and Element UI.
 
 ### Apps/Websites
   - [Laravel Spark](https://spark.laravel.com/)
@@ -1815,12 +1814,13 @@ Tooltips / popovers
 
  - [vue-context-menu](https://github.com/vmaimone/vue-context-menu) - A context menu component for vue js.
  - [vue-lil-context-menu](https://github.com/timwis/vue-lil-context-menu) - A flexible lil context menu component for Vue.
- - [vue-mouse-menu](https://github.com/zgj233/vue-mouse-menu) - A mouse-menu component for vue 2+.
+ - [vue-mouse-menu](https://github.com/zgj233/vue-mouse-menu) - A popup menu plugin support mobile and pc terminal, which based on vue2.6+.
  - [@hscmap/vue-menu](https://github.com/michitaro/vue-menu) - Menu / Context Menu component for vue2.
  - [vue-context](https://github.com/rawilk/vue-context) - A simple but flexible context menu for vue js.
  - [vue-simple-context-menu](https://github.com/johndatserakis/vue-simple-context-menu) - Simple context-menu component built for Vue. Works well with both left and right clicks.
  - [vue-context-menu-popup](https://github.com/Johnathan/vue-context-menu-popup) - Context Menu popup for Vue 2. Works on right click or can be triggered programatically.
  - [@kiyoaki_w/vue-context](https://github.com/Kiyoaki-w/Ki-vue-context) - A customizable context menu component built for Vue2, supporting fontawesome icons.
+
 
 #### Miscellaneous
 
