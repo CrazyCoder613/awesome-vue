@@ -1850,7 +1850,6 @@ Tooltips / popovers
  - [vue-ui-predicate](https://github.com/FGRibreau/ui-predicate/tree/master/packages/ui-predicate-vue) - A rules editor, generic filtering UI, predicates component for Vue JS.
  - [vue-mobile-detection](https://github.com/ajerez/vue-mobile-detection) - Vue.js prototype function `this.$isMobile()` that returns a Boolean value depending on whether or not the user is browsing with a mobile.
  - [vue-input-contenteditable](https://github.com/Cobertos/vue-input-contenteditable) - A Vue component wrapper for `contenteditable` with all the features you normally expect. Make beautiful inputs without the restrictions of `input[type='text']`. 
- - [vue-credit-card](https://github.com/fracto-team/vue-credit-card) - A Vue Component for Credit Card Input & Masking & Preview
 
 #### Wizard
 
@@ -2089,6 +2088,7 @@ composing CSS breakpoint state.
  - [fine-mq](https://github.com/nash403/fine-mq) - A fine API to manage media queries in JS with ease and first-class integration with VueJS as a plugin.
  - [vue-responsive-components](https://github.com/Kelin2025/vue-responsive-components) - Create responsive components with `ResizeObserver`.
  - [vue-screen-size](https://github.com/promosis/vue-screen-size) - Get easy and reactive access to the width and height of your screen.
+ - [vue-provide-responsive](https://github.com/CyberAP/vue-provide-responsive) - Breakpoint-based responsive helpers using Provide\Inject with SSR support
 
 ### Form
 
