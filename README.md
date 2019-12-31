@@ -2023,6 +2023,7 @@ Tooltips / popovers
  - [Nuxt.js](https://github.com/nuxt/nuxt.js) - Versatile Vue.js Framework.
  - [Ream](https://github.com/ream/ream) - A minimalistic framework for building server-rendered and static websites.
  - [Universal vue](https://github.com/universal-vue/uvue) - Vue CLI plugin to create universal Vue applications with ease
+ - [Vapper](https://github.com/shuidi-fed/vapper) - A Vue-based server-side rendering framework.
 
 ### Static website generator
 
@@ -2088,7 +2089,6 @@ composing CSS breakpoint state.
  - [fine-mq](https://github.com/nash403/fine-mq) - A fine API to manage media queries in JS with ease and first-class integration with VueJS as a plugin.
  - [vue-responsive-components](https://github.com/Kelin2025/vue-responsive-components) - Create responsive components with `ResizeObserver`.
  - [vue-screen-size](https://github.com/promosis/vue-screen-size) - Get easy and reactive access to the width and height of your screen.
- - [vue-provide-responsive](https://github.com/CyberAP/vue-provide-responsive) - Breakpoint-based responsive helpers using Provide\Inject with SSR support
 
 ### Form
 
