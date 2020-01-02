@@ -1769,6 +1769,7 @@ Tooltips / popovers
  - [ckeditor5-vue](https://github.com/ckeditor/ckeditor5-vue) - An official CKEditor 5 rich text editor component for Vue.js.
  - [yimo-vue-editor](https://github.com/yimogit/yimo-vue-editor) - A wangEditor2 component for Vue2.
  - [vue-mathlive](https://github.com/arnog/vue-mathlive) A MathLive math editor (mathfield) for Vue.hjs
+ - [element-tiptap](https://github.com/Leecason/element-tiptap) A WYSIWYG editor based on tiptap and uses Element's components For Vue2.
 
 #### Image Manipulation
 
@@ -2023,7 +2024,6 @@ Tooltips / popovers
  - [Nuxt.js](https://github.com/nuxt/nuxt.js) - Versatile Vue.js Framework.
  - [Ream](https://github.com/ream/ream) - A minimalistic framework for building server-rendered and static websites.
  - [Universal vue](https://github.com/universal-vue/uvue) - Vue CLI plugin to create universal Vue applications with ease
- - [Vapper](https://github.com/shuidi-fed/vapper) - A Vue-based server-side rendering framework.
 
 ### Static website generator
 
