@@ -1443,6 +1443,7 @@ Tooltips / popovers
  - [vue-picture-sharesheet](https://github.com/Onatcer/vue-picture-sharesheet) - A Vue Picture Sharesheet Component heavily inspired by the Image Sharesheet in Apple's Newsroom
  - [vue-twitter](https://github.com/chiaweilee/vue-twitter) - A Vue.js component for embed twitter widgets (e.g timeline, buttons)
  - [vue-share-buttons](https://github.com/Alexandrshy/vue-share-buttons) - Vue.js component for placing buttons in your project using which you can share anything
+ - [vue-share-it](https://github.com/thisDOTname/vue-share-it) - A Vue.js component for sharing links to social networks
 
 ### QR Code
 
@@ -2534,7 +2535,6 @@ the amazing Vue.js.
  - [vue-simple-bem](https://github.com/mlturner88/vue-simple-bem) - Directive with succint syntax for adding BEM class names to elements.
  - [fela-vue](https://github.com/houd1ni/fela-vue) - CSS-IN-JS mixin for Vue designed for flexibility yet team-oriented.
  - [j-vue](https://github.com/LongTengDao/j-vue/)
- - [vue-css-doodle](https://github.com/LuXDAmore/vue-css-doodle) - Porting of css-doodle, a web component for drawing patterns with CSS 
 
 ### Asset Management
 
