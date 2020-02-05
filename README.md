@@ -760,6 +760,8 @@
 - [Laravel File Manager](https://github.com/alexusmai/laravel-file-manager) - Powerful file manager for Laravel
 - [Vue Crypto Dashboard](https://github.com/JayeshLab/vue-crypto-dashboard) - Cryptocurrency Dashboard made with Vue.js
 - [ETCD Manager](https://github.com/icellmobilsoft/etcdmanager) - A modern, efficient and free multi-platform ETCD GUI app based on Electron and VueJS.
+- [Vue Pivottable](https://github.com/Seungwoo321/vue-pivottable) - Vue port of the jQuery-based PivotTable.js
+- [Vue Datamaps](https://github.com/Seungwoo321/vue-datamaps) - Vue port of the javascript-based DataMaps
 
 ### Commercial Products
  - [Wijmo](http://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
@@ -2005,7 +2007,6 @@ Tooltips / popovers
  - [Vuent](https://github.com/arturmiz/vuent) - Vue.js components implementing Microsoft Fluent Design
  - [bpit/vue](https://github.com/dreambo8563/bpit-vue) - Vue components lib which is focused on effects
  - [vue-tailwind](https://github.com/alfonsobries/vue-tailwind) - Vue components with customizable classes ready for TailwindCSS, but compatible with any framework. 
- - [slim-ui](https://github.com/mevinoth/slim-ui) - Minimal UI components based on Vue.js
 
 ### Admin Template
 
