@@ -2074,7 +2074,6 @@ Tooltips / popovers
  - [vue-scroll-show](https://github.com/AlekseyPleshkov/vue-scroll-show) – Showing the element if the user reached it after scroll
  - [vue-tabevents](https://github.com/Almoullim/vue-tabevents) – Easy communication between other opened tabs
  - [vue-visibility-trigger](https://github.com/shwilliam/vue-visibility-trigger) - 👀 Declaratively trigger methods when scrolled into view
- - [vue-pseudo-window](https://github.com/privatenumber/vue-pseudo-window) - 👻 Component to declaratively interface window/document in your Vue template
 
 ### Responsive Design
 
@@ -2585,6 +2584,7 @@ the amazing Vue.js.
 - [vue-direction](https://github.com/shwilliam/vue-direction) - 👋 Direction aware hover in Vuejs
 - [vue-unique-id](https://github.com/berniegp/vue-unique-id) - Generates unique component ids and component-scoped HTML ids.
 - [stfalcon-vue-di](https://github.com/stfalcon-studio/stfalcon-vue-di) - ⭐️  Lightweight DI for vue components️ ❤️
+- [vue-subslot](https://github.com/privatenumber/vue-subslot) - 💍 Vue component to pick 'n choose what you want from a slot
 
 ### Web Workers
 - [vue-worker](https://github.com/israelss/vue-worker) - A Vue.js plugin to use webworkers in a simply way.
