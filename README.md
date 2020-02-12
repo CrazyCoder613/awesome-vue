@@ -1590,7 +1590,8 @@ Tooltips / popovers
  - [ncform](https://github.com/ncform/ncform) - a very nice configuration generation way to develop form
  - [Laraform](https://github.com/laraform/laraform) - Advanced form builder for Vue.js with Laravel support
  - [vue-ele-form](https://github.com/dream2023/vue-ele-form) - Vue DataForm, based on element-ui
-
+ - [vue-otp-2](https://github.com/tonghoai/vue-otp-2) - Vue OTP input 2, A Vue component for OTP input
+ 
 ##### Date Picker
 
 *Date / datetime / time Picker*
@@ -2439,7 +2440,6 @@ the amazing Vue.js.
  - [vuex-up](https://github.com/Hokid/vuex-up) - Brings mixing and services injector features to module vuex.
  - [effector](https://github.com/zerobias/effector) — Fast and powerful reactive state manager. Effector lets you write simple, fast and type safe code and manage reactive state with ease.
  - [nano-state-vue](https://gitlab.com/sophosoft/nano-state-vue) - Efficient, effective, and extensible state management: less is more
- - [universal-model-vue](https://github.com/universal-model/universal-model-vue) - Unified state management for Vue (and also for Angular/React/Svelte)
 
 #### Redux
 
