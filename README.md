@@ -760,7 +760,6 @@
 - [Laravel File Manager](https://github.com/alexusmai/laravel-file-manager) - Powerful file manager for Laravel
 - [Vue Crypto Dashboard](https://github.com/JayeshLab/vue-crypto-dashboard) - Cryptocurrency Dashboard made with Vue.js
 - [ETCD Manager](https://github.com/icellmobilsoft/etcdmanager) - A modern, efficient and free multi-platform ETCD GUI app based on Electron and VueJS.
-- [Marked.cc](https://github.com/msjaber/marked.cc) - 📝 Create and share beautiful images of your notes and prose.
 
 ### Commercial Products
  - [Wijmo](http://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
@@ -2503,6 +2502,7 @@ the amazing Vue.js.
 
  - [vuex-basement](https://github.com/RashadSaleh/vuex-basement) - Vuex state persistence and synchronization between tabs/windows.
  - [vuex-shared-mutations](https://github.com/xanf/vuex-shared-mutations) - Share vuex mutations between tabs/windows.
+ - [vuex-multi-tab-state](https://github.com/gabrielmbmb/vuex-multi-tab-state) - Share and synchronize status between multiple tabs  with this plugin for Vuex.
 
 ### GraphQL
 
