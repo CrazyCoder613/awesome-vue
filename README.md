@@ -237,6 +237,9 @@
 - [VueJS Finland - Facebook Page](https://www.facebook.com/vuejsfinland/)
 - [Hablemos de Vue.js - Telegram Group [Castellano]](https://t.me/vuejsEs)
 - [VueJS Indonesia - Facebook Group](https://www.facebook.com/groups/1675298779418239/)
+- [VueBLR - Meetup](https://www.meetup.com/vue-bangalore/)
+- [VueBLR - WhatsApp Group](http://bit.ly/vueblr-whatsapp)
+- [VueBLR - Facebook Group](https://www.facebook.com/groups/vue.blr/)
 
 ### Conferences
 
@@ -1657,6 +1660,7 @@ Tooltips / popovers
  - [@myena/advanced-select](https://github.com/myENA/advanced-select) - Single/Multiple Select component with search, controls for (de)select all and a Bootstrap 3 theme
  - [@alfsnd/vue-bootstrap-select](https://github.com/Sandalf/vue-bootstrap-select) - Vue version of [bootstrap-select](https://github.com/snapappointments/bootstrap-select/).
  - [vue-wheel-select] (https://github.com/SamuelTrottier/vue-wheel-select) - A simple scrolling select component.
+ - [vue-search-select](https://github.com/moreta/vue-search-select) - Searchable select components and semantic-ui's dropdown compatible.
 
 #### Slider
 
