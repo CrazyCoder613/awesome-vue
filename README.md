@@ -1110,6 +1110,7 @@
  - [vue-notification-bell](https://github.com/Carrene/vue-notification-bell) - A Vue UI component for showing notifications.
  - [v-tostini](https://github.com/marverix/v-tostini) - Really plain toast notifications mechanism for Vue.js 2.x. No CSS included.
  - [vue-toast-notification](https://github.com/ankurk91/vue-toast-notification) - Yet another Vue.js Toast notification plugin.
+ - [VueToastify](https://github.com/nandi95/vue-toastify) - A fuss free notification component.
 
 ### Loader
 
@@ -1227,8 +1228,7 @@ Tooltips / popovers
  - [vue-unicons](https://github.com/antonreshetov/vue-unicons) - 1000+ Pixel-perfect svg unicons for your next project as Vue components.
  - [vue-fa](https://github.com/Cweili/vue-fa) - Simple FontAwesome 5 Vue.js 2 component.
  - [vue-cryptoicon](https://github.com/man15h/vue-cryptoicon) - Beautiful pixel perfect 400+ cryptocurrency and 10+ Fiat currency icon.
- - [vue-hero-icons](https://github.com/matschik/vue-hero-icons) - A set of high-quality SVG icons, sourced from [@refactoringui/heroicons](https://github.com/refactoringui/heroicons), as Vue functional components.
- 
+
 ### Menu
 
  - [vue-accordion](https://github.com/zeratulmdq/vue-accordion) - Simple accordion nav menu component for Vue.js.
