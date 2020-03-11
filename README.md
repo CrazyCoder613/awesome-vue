@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="400" src="./assets/logo.svg" alt="logo of vue-awesome repository">
+  <img width="400" src="./logo.svg" alt="logo of vue-awesome repository">
   <br>
   <br>
 </p>
@@ -1572,6 +1572,7 @@ Tooltips / popovers
  - [cool-emoji-picker](https://github.com/kevinfaguiar/cool-emoji-picker) - A fast plug-n-play [Tw]emoji Picker (+textarea for Twemoji rendering) component for Vue.
  - [vuejs-avataaars](https://github.com/orgordin/vuejs-avataaars) - Simple avatar generator Vue component for avataaars.
  - [vue-moveable](https://github.com/probil/vue-moveable) - A Vue Component that creates Moveable, Draggable, Resizable, Scalable, Rotatable, Warpable and more.
+ - [vue-camera-gestures](https://github.com/danielelkington/vue-camera-gestures) - Let users control your Vue app using AI and gestures in front of their camera in just 1 line in your HTML template!
 
 ### Tabs
 
