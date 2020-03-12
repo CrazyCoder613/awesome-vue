@@ -1820,7 +1820,8 @@ Tooltips / popovers
  - [yimo-vue-editor](https://github.com/yimogit/yimo-vue-editor) - A wangEditor2 component for Vue2.
  - [vue-mathlive](https://github.com/arnog/vue-mathlive) A MathLive math editor (mathfield) for Vue.hjs
  - [vue-editor-js](https://github.com/ChangJoo-Park/vue-editor-js) Next generation block styled editor. for Vue.js
- 
+ - [element-tiptap](https://github.com/Leecason/element-tiptap) A WYSIWYG rich-text editor using tiptap and Element UI for Vue.js
+
 #### Image Manipulation
 
 *Edit images*
@@ -1904,6 +1905,7 @@ Tooltips / popovers
  - [vue-mobile-detection](https://github.com/ajerez/vue-mobile-detection) - Vue.js prototype function `this.$isMobile()` that returns a Boolean value depending on whether or not the user is browsing with a mobile.
  - [vue-input-contenteditable](https://github.com/Cobertos/vue-input-contenteditable) - A Vue component wrapper for `contenteditable` with all the features you normally expect. Make beautiful inputs without the restrictions of `input[type='text']`. 
  - [@utlime/vue-zoom](https://github.com/utlime/vue-zoom) - A Vue zoom component. 
+ - [vue-credit-card](https://github.com/fracto-team/vue-credit-card) - A Vue Component for Credit Card Input & Masking & Preview
 
 #### Wizard
 
@@ -2059,6 +2061,8 @@ Tooltips / popovers
  - [Vuent](https://github.com/arturmiz/vuent) - Vue.js components implementing Microsoft Fluent Design
  - [bpit/vue](https://github.com/dreambo8563/bpit-vue) - Vue components lib which is focused on effects
  - [vue-tailwind](https://github.com/alfonsobries/vue-tailwind) - Vue components with customizable classes ready for TailwindCSS, but compatible with any framework.
+ - [Equal UI](https://github.com/quatrochan/Equal) - Vue UI kit based on TypeScript 🧬
+ - [slim-ui](https://github.com/mevinoth/slim-ui) - Minimal UI components based on Vue.js
 
 ### Admin Template
 
