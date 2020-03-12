@@ -777,8 +777,6 @@
 - [ETCD Manager](https://github.com/icellmobilsoft/etcdmanager) - A modern, efficient and free multi-platform ETCD GUI app based on Electron and VueJS.
 - [Idea Re-Vue](https://github.com/MuhaddiMu/Idea-ReVue) - Social Ideation Platform to Create, Manage and Brainstorm Ideas in a fun, visual way. Built on the top of VueJS and Vuetify using Firebsae as a backend
 - [Vue Expenses](https://github.com/simplyvinay/vue-expenses) - Expense tracking app made with Vue.js, Vuetify and ASP.NET Core
-- [Akaunting](https://github.com/akaunting/akaunting) - A free and online accounting software for small businesses and freelancers based on Laravel and VueJS.
-
 ### Commercial Products
  - [Wijmo](http://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
  - [Collate Notes](http://www.collatenotes.com/)
@@ -1610,6 +1608,7 @@ Tooltips / popovers
  - [vue-moveable](https://github.com/probil/vue-moveable) - A Vue Component that creates Moveable, Draggable, Resizable, Scalable, Rotatable, Warpable and more.
  - [vue-camera-gestures](https://github.com/danielelkington/vue-camera-gestures) - Let users control your Vue app using AI and gestures in front of their camera in just 1 line in your HTML template!
  - [vue-aspect-ratio](https://github.com/albertodeago/vue-aspect-ratio) - A tiny component to handle aspect ratios with no effort.
+ - [vuerd](https://github.com/vuerd/vuerd) - Database modeling ERD Editor tool
 
 ### Tabs
 
