@@ -22,6 +22,7 @@
   - [Examples](#examples)
   - [Books](#books)
   - [Blog Posts](#blog-posts)
+  - [Courses](#courses)
 - [Projects Using Vue.js](#projects-using-vuejs)
   - [Open Source](#open-source)
   - [Commercial Products](#commercial-products)
@@ -608,6 +609,11 @@
 - [Get Started Writing Class-based Vue.js Apps in TypeScript](https://www.sitepoint.com/class-based-vue-js-typescript)
 - [Vue.js with TypeScript](https://johnpapa.net/vue-typescript) by [John Papa](https://johnpapa.net/about/)
 
+### Courses
+
+- [Learn Vue by Building and Deploying a CRUD App](https://testdriven.io/courses/learn-vue/) - This course is focused on teaching the fundamentals of Vue by building and testing a web application using Test-Driven Development (TDD).
+- [Advanced Vue.js Features from the Ground Up](https://frontendmasters.com/courses/advanced-vue/) - Learn how to build more accessible routing, state management, form validation and internationalization libraries from the ground up!
+
 # Projects Using Vue.js
 
 ### Open Source
@@ -983,6 +989,7 @@
   - [Poolside FM](https://poolside.fm/) - A retro-style music player
   - [Inoreader.com](https://inoreader.com/) - One of the biggest RSS readers and news aggregators out there. 
   - [AwesomeTechStack](https://awesometechstack.com) - Website Tech Stack Analyzer
+  - [massCode](https://github.com/antonreshetov/massCode) - An open source code snippets manager for developers. Build with Electron, Vue and Monaco editor.
 
 ### Interactive Experiences
 
@@ -1124,7 +1131,6 @@
  - [vue-toast-notification](https://github.com/ankurk91/vue-toast-notification) - Yet another Vue.js Toast notification plugin.
  - [VueToastify](https://github.com/nandi95/vue-toastify) - A fuss free notification component.
  - [vue-toastification](https://github.com/Maronato/vue-toastification) - Light, easy and beautiful toasts for Vue
- - [@smartweb/vue-flash-message](https://github.com/smwbtech/vue-flash-message) - The component to display single flash message or multiple flash messages to user
 
 ### Loader
 
@@ -1476,6 +1482,7 @@ Tooltips / popovers
  - [vue-picture-sharesheet](https://github.com/Onatcer/vue-picture-sharesheet) - A Vue Picture Sharesheet Component heavily inspired by the Image Sharesheet in Apple's Newsroom
  - [vue-twitter](https://github.com/chiaweilee/vue-twitter) - A Vue.js component for embed twitter widgets (e.g timeline, buttons)
  - [vue-share-buttons](https://github.com/Alexandrshy/vue-share-buttons) - Vue.js component for placing buttons in your project using which you can share anything
+ - [vue-share-it](https://github.com/thisDOTname/vue-share-it) - A Vue.js component for sharing links to social networks
 
 ### QR Code
 
@@ -2139,6 +2146,7 @@ composing CSS breakpoint state.
  - [fine-mq](https://github.com/nash403/fine-mq) - A fine API to manage media queries in JS with ease and first-class integration with VueJS as a plugin.
  - [vue-responsive-components](https://github.com/Kelin2025/vue-responsive-components) - Create responsive components with `ResizeObserver`.
  - [vue-screen-size](https://github.com/promosis/vue-screen-size) - Get easy and reactive access to the width and height of your screen.
+ - [vue-provide-responsive](https://github.com/CyberAP/vue-provide-responsive) - Breakpoint-based responsive helpers using Provide\Inject with SSR support
 
 ### Form
 
@@ -2364,6 +2372,7 @@ composing CSS breakpoint state.
 - [vue-vr](https://github.com/imudin/vue-vr) - A framework for building VR applications with Vue
 based on [threejs](https://threejs.org/) and [Panolens](https://pchen66.github.io/Panolens/), inspired by [react-vr](https://github.com/facebook/react-vr)
 - [vue-displacement-slideshow](https://github.com/AlbanCrepel/vue-displacement-slideshow) - A Vue.js component that makes Webgl image displacement transitions easier.
+- [vue-fake3d-image-effect](https://github.com/LuXDAmore/vue-fake3d-image-effect) - An interactive 3D fake-effect for images with depth maps in WebGL.
 
 ### Fullscreen
 
