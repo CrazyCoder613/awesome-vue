@@ -22,6 +22,7 @@
   - [Examples](#examples)
   - [Books](#books)
   - [Blog Posts](#blog-posts)
+  - [Documentaries](#documentaries)
   - [Courses](#courses)
 - [Projects Using Vue.js](#projects-using-vuejs)
   - [Open Source](#open-source)
@@ -617,6 +618,11 @@
 - [Learn Vue by Building and Deploying a CRUD App](https://testdriven.io/courses/learn-vue/) - This course is focused on teaching the fundamentals of Vue by building and testing a web application using Test-Driven Development (TDD).
 - [Advanced Vue.js Features from the Ground Up](https://frontendmasters.com/courses/advanced-vue/) - Learn how to build more accessible routing, state management, form validation and internationalization libraries from the ground up!
 
+### Documentaries
+
+- [Vue.js: The Documentary](https://www.youtube.com/watch?v=OrxmtDw4pVI) by Honeypot (Feb 2020)
+
+
 # Projects Using Vue.js
 
 ### Open Source
@@ -998,7 +1004,6 @@
   - [AwesomeTechStack](https://awesometechstack.com) - Website Tech Stack Analyzer
   - [massCode](https://github.com/antonreshetov/massCode) - An open source code snippets manager for developers. Build with Electron, Vue and Monaco editor.
   - [ClipLeap](https://www.clipleap.com/) - Platform for posting and sharing moments in long videos.
-  - [RSVP Keeper](https://www.rsvpkeeper.com/) - Online reservations made easy. Get your event up and running in no time. Made with Vue and Go.
 
 ### Interactive Experiences
 
@@ -1709,6 +1714,7 @@ Tooltips / popovers
  - [vue-wheel-select] (https://github.com/SamuelTrottier/vue-wheel-select) - A simple scrolling select component.
  - [vue-search-select](https://github.com/moreta/vue-search-select) - Searchable select components and semantic-ui's dropdown compatible.
  - [vue-gridmultiselect](https://github.com/ProticM/vue-gridmultiselect) - Simple multi-select component with items displayed in a table like UI
+ - [vue-select-sides](https://github.com/juliorosseti/vue-select-sides) - A component for Vue.js to select double-sided data (2-sides).
 
 #### Slider
 
