@@ -1007,6 +1007,7 @@
   - [ClipLeap](https://www.clipleap.com/) - Platform for posting and sharing moments in long videos.
   - [RSVP Keeper](https://www.rsvpkeeper.com/) - Online reservations made easy. Get your event up and running in no time. Made with Vue and Go.
   - [PNGK](https://pngk.org/) - Official website for a consultancy company working to find solutions for humanitarian, human rights and other like minded organizations.
+  - [mumbasket](https://www.mumbasket.com/) - an ecommerce website with laravel and vuejs
 
 ### Interactive Experiences
 
@@ -1450,8 +1451,7 @@ Tooltips / popovers
  - [vue-waveform](https://github.com/chenqiaoen521/vue-waveform) -It is use canvas waveform audio player wavesurfer component  contains timeline bar line for Vue 2.x
  - [vue-responsive-video-background-player](https://github.com/avidofood/vue-responsive-video-background-player) - Play your own videos in background responsively in different resolutions. 
  - [vue-h5-audio-controls](https://github.com/cycjimmy/vue-h5-audio-controls) - A simple h5 music controller for Vue.
- - [vue-core-video-player](https://github.com/core-player/vue-core-video-player) - A Lightweight Video Player For Vue.js
- 
+
 ### Infinite Scroll
 
  - [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading) - An infinite scroll plugin for Vue.js 1.0 & Vue.js 2.0.
