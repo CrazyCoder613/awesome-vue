@@ -789,7 +789,6 @@
 - [VueFront](https://github.com/vuefront/vuefront) - CMS Agnostic PWA & SPA. Modernize your Wordpress websites in less than 5 min
 - [Mockup-server](https://github.com/joon610/mockup-server) - Mockup-server is easily create server from local directory.  
 - [MQTTX](https://github.com/emqx/MQTTX) - Cross-platform MQTT 5.0 desktop client built with Vue.js, Typescript and Electron.
-- [super.ba](https://github.com/aarsla/super.ba) - RSS News aggregator built with Vue.js, Ant Design of Vue (antdv) and NodeJS.
 
 ### Commercial Products
  - [Wijmo](http://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
@@ -1451,7 +1450,8 @@ Tooltips / popovers
  - [vue-waveform](https://github.com/chenqiaoen521/vue-waveform) -It is use canvas waveform audio player wavesurfer component  contains timeline bar line for Vue 2.x
  - [vue-responsive-video-background-player](https://github.com/avidofood/vue-responsive-video-background-player) - Play your own videos in background responsively in different resolutions. 
  - [vue-h5-audio-controls](https://github.com/cycjimmy/vue-h5-audio-controls) - A simple h5 music controller for Vue.
-
+ - [vue-core-video-player](https://github.com/core-player/vue-core-video-player) - A Lightweight Video Player For Vue.js
+ 
 ### Infinite Scroll
 
  - [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading) - An infinite scroll plugin for Vue.js 1.0 & Vue.js 2.0.
