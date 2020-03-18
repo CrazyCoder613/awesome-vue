@@ -545,6 +545,7 @@
 - [Build a Vue chat app with CometChat](https://github.com/yemiwebby/vue-group-chat-app)
 - [A one-on-one chat app in Vue with CometChat](https://github.com/cometchat-pro-tutorials/vue-cometchat-one-on-one-chat)
 - [Vue webpack typescript](https://github.com/akoidan/vue-webpack-typescript) Boilerplate with sass/ts/sfc linters. Full typesafety including vuex and nice looking vue component with [vuex-module-decorators](https://github.com/championswimmer/vuex-module-decorators), [vue-property-decorator](https://github.com/kaorun343/vue-property-decorator)
+- [Laravel + Nuxt.js boilerplate](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
 
 ### Books
 
@@ -733,7 +734,7 @@
 - [Epiboard](https://github.com/Alexays/Epiboard) A new tab page extension with material design and useful features :new: :tada:
 - [zhudyos/duic](https://github.com/zhudyos/duic) Distributed configuration center :new:
 - [Vuemmerce](https://github.com/ivanlori/Vuemmerce) Free ecommerce template built with Vue.js and Bulma framework :new:
-- [Nucleus](https://github.com/alirizaadiyahsi/Nucleus) Layered architecture ASP.NET Core API and Vuejs client application startup template
+- [Nucleus](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
 - [Carpoolear](https://github.com/STS-Rosario/carpoolear) The open source Vue.js frontend (mobile and cordova app) for the argentinian carpooling application: [Carpoolear](https://carpoolear.com.ar)
 - [Statusfy](https://github.com/bazzite/statusfy): Statusfy is a Status Page System, easy to use and completely Open Source.
 - [DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client): Cross-platform GUI client for DynamoDb
@@ -970,6 +971,8 @@
   - [BMWUSA Vehicle Configurator](https://www.bmwusa.com/build-your-own.html) - Vehicle Configurator for BMWUSA
   - [mumbasket](https://www.mumbasket.com/) - an ecommerce website with laravel and vuejs
   - [Fanmio](https://fanmio.com) - Meet your favorites celebrities through personal video experiences on Fanmio
+  - [OneConcern](https://oneconcern.com) [source](https://github.com/acidjazz/oneconcern)
+  - [AtomicWallet](https://atomicwallet.io) - Multi-asset cryptocurrency wallet. Desktop and [mobile](https://play.google.com/store/apps/details?id=io.atomicwallet) apps both were built with Vue.
 
 ### Interactive Experiences
 
