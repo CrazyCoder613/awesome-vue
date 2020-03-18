@@ -168,16 +168,7 @@
     - [Command Line / Terminal](#command-line--terminal)
   - [Prerendering](#prerendering)
 
-
-
-
-
-
-
-
-
 # Resources
-
 
 ### Official Resources
 
@@ -201,7 +192,6 @@
 - [Vue School](https://vueschool.io) - Learn Vue.js from video courses by core members and industry experts
 - [VueDose](https://vuedose.tips). Tips & tricks about the Vue ecosystem, for busy devs.
 - [Vuelibs](https://vuelibs.org). A minimalistic list of Vue.js libraries and components based on the awesome-vue repo.
-
 
 ### Job Portal
 
@@ -1331,7 +1321,6 @@ Tooltips / popovers
  - [vue-awesome-countdown](https://github.com/mlinquan/vue-awesome-countdown) - Countdown plug-in with high performance and high accuracy for Vue 2.5.0+. Official site: [https://vac.js.org](https://vac.js.org)
  - [vue-clock2](https://github.com/bestvist/vue-clock2) - Display clock component for Vue.
  - [vuemodoro](https://github.com/P3trur0/vuemodoro) - Pomodoro timer as single file Vue component.
- - [bs-vue-timeline](https://github.com/x10sv/bs-vue-timeline) - An alternative responsive boostrap-vue timeline
 
 ### Calendar
 
@@ -2030,6 +2019,7 @@ Tooltips / popovers
  - [Peco](https://github.com/egojump/peco) - A static website generator for humans. **UNMAINTAINED**
  - [Saber](https://github.com/egoist/saber) - A static website generator for building blazing fast websites with Vue.js.
  - [Gridsome](https://github.com/gridsome/gridsome) - Build super fast, modern websites with Vue.js
+ - [Servue](https://github.com/futureaus/servue) - Server-side rendering engine that renders vue files into html strings.
 
 ### Other
 
