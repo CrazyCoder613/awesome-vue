@@ -1013,7 +1013,6 @@
  - [Nightlight During Conflict](https://pngk.org/nightlight/) - Explore GIS data on nightlight output for countries in conflict.
  - [User Friendly Justice Data](https://justicemoroccoprototype.hiil.org/) - Explore justice data from Morocco.
 
-
 ### Enterprise Usage
 
  - Alibaba
@@ -1046,6 +1045,7 @@
  - [Carrefour](https://www.carrefour.fr)
  - [Staples Canada](https://www.staples.ca/)
  - [Blibli](https://www.blibli.com)
+ - [Manduka](https://www.manduka.com/)
 
 ### A11y
 
@@ -2289,6 +2289,7 @@ composing CSS breakpoint state.
  - [vue-router-sitemap](https://github.com/40818419/vue-router-sitemap) - Generate sitemap.xml by vue-router configuration
  - [vue-smart-route](https://github.com/f/vue-smart-route) - Smart route directive to make intelligent looking apps with Vue.js.
  - [vue-router-lite](https://github.com/ccqgithub/vue-router-lite) - A component-based, declarative router for Vue.js 2.
+ - [vue-route-props](https://github.com/iendeavor/vue-route-props) - Automatically bind vue-router query to vm, APIs are mostly same as the Vue props.
 
 ### Lazy Load
 
