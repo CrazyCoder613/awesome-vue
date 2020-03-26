@@ -172,7 +172,6 @@
     - [Command Line / Terminal](#command-line--terminal)
   - [Prerendering](#prerendering)
 
-<!-- md-parser-start -->
 # Resources
 
 ### Official Resources
@@ -1015,6 +1014,7 @@
   - [temp-mail.io](https://temp-mail.io/) - Disposable temporary email service.
   - [Best-movies.watch](https://best-movies.watch/) - A website which allows to watch movies online for free without sign up
   - [Tune.pk](https://tune.pk/) - Tune.pk is one of the largest video sharing website with content from all over the world.
+  - [Narrandum](https://narrandum.com) - Customer journey mapping tool built using Vue.js, Vuetify, and Feathersjs
 
 ### Interactive Experiences
 
@@ -3111,7 +3111,7 @@ Payment utilities.
  - [vue-prerender](https://github.com/eldarc/vue-prerender) - A Vue.js tailored plugin which implements three strategies for prerendering Vue.js pages using headless chrome.
  - [Rendora](https://github.com/rendora/rendora) - dynamic SSR (server-side rendering) using headless Chrome to effortlessly solve the SEO problem for modern javascript websites
  - [pre-vue](https://github.com/mtlynch/pre-vue) - A boilerplate Vue + Nuxt project that offers built-in support for OpenGraph tags, Google Analytics, a sitemap, and robots.txt.
-<!-- md-parser-end -->
+
 <br/>
 <br/>
 <br/>
