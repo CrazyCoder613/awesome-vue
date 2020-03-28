@@ -1348,6 +1348,7 @@ Tooltips / popovers
  - [@egjs/vue-flicking](https://github.com/naver/egjs-flicking/tree/master/packages/vue-flicking) - It's reliable, flexible and extendable carousel for Vue.js 2.
  - [slither-slider](https://github.com/dolbex/slither-slider) - Carousel for images, videos, or components. Throw pretty much anything you want at it.
  - [vue-slick-carousel](https://github.com/gs-shop/vue-slick-carousel) - A carousel with slick features & SSR support written for faster Luxstay
+ - [@jfm/vue-carousel](https://github.com/jiangfengming/vue-carousel) - A Vue carousel component.
 
 ### Charts
 
@@ -2330,7 +2331,6 @@ composing CSS breakpoint state.
  - [vue-smart-route](https://github.com/f/vue-smart-route) - Smart route directive to make intelligent looking apps with Vue.js.
  - [vue-router-lite](https://github.com/ccqgithub/vue-router-lite) - A component-based, declarative router for Vue.js 2.
  - [vue-route-props](https://github.com/iendeavor/vue-route-props) - Automatically bind vue-router query to vm, APIs are mostly same as the Vue props.
- - [vue-pilot](https://github.com/jiangfengming/vue-pilot) - A Trie-based vue router with the ability of managing history.state.
 
 ### Lazy Load
 
