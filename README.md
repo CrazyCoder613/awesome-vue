@@ -433,8 +433,6 @@
 - [Vue.js 2 Academy: Learn Vue Step by Step [Video]](https://www.packtpub.com/web-development/vue-js-2-academy-learn-vue-step-by-step-video?utm_source=Vuejs.org&utm_medium=referral&utm_campaign=OutreachV15754) by Chris Dixon (October 2019)
 - [Blazing-Fast Vue and GraphQL with Gridsome [Video]](https://www.packtpub.com/in/web-development/blazing-fast-vue-and-graphql-with-gridsome-video?utm_source=vue.js.org&utm_medium=refferal&utm_campaign=OutreachV15688) by Reed Barger, Packt
 - [Build Your First Vue.js App in About 30 Minutes](https://raddevon.com/articles/build-your-first-vue-js-app/) by Rad Devon (Video, February 2020)
-- [Build a movie search app using the Vue Composition API](https://dev.to/blacksonic/build-a-movie-search-app-using-the-vue-composition-api-5218)
-- [Vue Testing Crash Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
 
 ### Examples
 
@@ -568,9 +566,6 @@
 - [TO](https://github.com/snturk/to) - A social media app that allows you post just texts.
 - [All-About-Me](https://github.com/ooxxro/all-about-me) - A Social Media Web App built with Vue, Firebase (Firestore/Auth/Storage), Element-UI, Disqus, Vuex, Vue-Router, and Sass. Supports image uploading, profile editing, add/remove friends, and comments.
 - [Vue Voyagers 👽 Space Travel](https://neodigm.github.io/vue_voyagers/) - A Vue.js Gamified example SPA that consumes a REST API. It presents infographics via D3.js, animation, and web audio.
-- [TodoMVC Vue 3 Composition API](https://github.com/blacksonic/todomvc-vue-composition-api) - A complete TodoMVC implementation in Vue 3 Composition API with components, store, unit e2e tests and linting.
-- [TodoMVC Vue](https://github.com/blacksonic/todomvc-vue) - A complete TodoMVC implementation in Vue 2 with components, store, unit e2e tests and linting.
-- [Movie search app with Composition API](https://github.com/blacksonic/movie-search-vue) - A movie search app implemented in Vue 2 with the Composition API plugin
 
 ### Books
 
@@ -1267,6 +1262,7 @@ Tooltips / popovers
 - [vue-accessible-modal](https://github.com/andrewvasilchuk/vue-accessible-modal) - A Vue.js accessible modal wrapper over your components.
 - [vuetify-dialog](https://github.com/yariksav/vuetify-dialog) - Dialogs easy to use with Vuetify.
 - [vue-hawesome-modal](https://github.com/behawesometw/vue-hawesome-modal) - A Vue promisify modal component plugin based on Vuetify with Vuex.
+- [xmodal-vue](https://github.com/XeniacDev/xmodal) - 🚀 A simplistic and easy to use wrapper around your components that will help you create custom and dynamic modals, from your components.
 
 #### Parallax
 
