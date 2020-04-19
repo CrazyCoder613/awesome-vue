@@ -219,7 +219,7 @@
 - [VueJS Brasil - Facebook Group [Portuguese]](https://www.facebook.com/groups/vuejsbr/)
 - [VueJS en español - Facebook Group [Spanish]](https://www.facebook.com/groups/vue.es/)
 - [VueJS India 🇮🇳  - Discord chat server](https://goo.gl/mYXKUv)
-- [VueJS Indonesia - Telegram Group [Indonesian]](https://t.me/vuejsid)
+- [VueJS Indonesia - Telegram Group [Indonesian]](https://t.me/vuejsindonesia)
 - [VueJS Hong Kong - Facebook group](https://www.facebook.com/groups/887185518120024)
 - [VueJS Arab - Telegram Group](https://t.me/vuejsarab)
 - [VueJS Vix - Telegram Group [Portuguese]](https://t.me/vuejsvix)
@@ -1262,7 +1262,6 @@ Tooltips / popovers
 - [vue-accessible-modal](https://github.com/andrewvasilchuk/vue-accessible-modal) - A Vue.js accessible modal wrapper over your components.
 - [vuetify-dialog](https://github.com/yariksav/vuetify-dialog) - Dialogs easy to use with Vuetify.
 - [vue-hawesome-modal](https://github.com/behawesometw/vue-hawesome-modal) - A Vue promisify modal component plugin based on Vuetify with Vuex.
-- [xmodal-vue](https://github.com/XeniacDev/xmodal) - 🚀 A simplistic and easy to use wrapper around your components that will help you create custom and dynamic modals, from your components.
 
 #### Parallax
 
