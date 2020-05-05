@@ -140,13 +140,13 @@
     - [Migration](#migration)
     - [Web Sockets](#web-sockets)
     - [Payment](#payment)
-          - [Stripe](#stripe)
-          - [Paypal](#paypal)
-          - [Plaid](#plaid)
+      - [Stripe](#stripe)
+      - [Paypal](#paypal)
+      - [Plaid](#plaid)
   - [Integrations](#integrations)
     - [Vue CLI 3 Plugins](#vue-cli-3-plugins)
-          - [Google Analytics](#google-analytics)
-          - [Yandex Metrika](#yandex-metrika)
+      - [Google Analytics](#google-analytics)
+      - [Yandex Metrika](#yandex-metrika)
   - [Dev Tools](#dev-tools)
     - [Inspect](#inspect)
     - [Docs](#docs)
@@ -1038,7 +1038,6 @@
   - [Keep Formula](https://keepformula.com/) - Keep Formula is a simple app to make your calculations easier.
   - [tato music player](https://neteast.netlify.com/) - A mobile first, handwritten, responsive web app for music fans written in Vue and Vuetify.
   - [ChatterBoxes](https://chatterboxes.netlify.com/) - For quick secret chat sessions
-  - [goonlinetools.com](https://goonlinetools.com/) - 100% Free Online Tools site.
 
 ### Interactive Experiences
 
