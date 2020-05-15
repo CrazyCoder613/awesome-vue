@@ -1188,6 +1188,7 @@
  - [vue-toastification](https://github.com/Maronato/vue-toastification) - Light, easy and beautiful toasts for Vue
  - [@smartweb/vue-flash-message](https://github.com/smwbtech/vue-flash-message) - The component to display single flash message or multiple flash messages to user
  - [vue-notification](https://github.com/mathieustan/vue-notification) - A clean & nice notification system with Material Design style with a queue :new:
+ - [Breadstick](https://github.com/codebender828/breadstick) - 🚀 A simple and flexible positioning, stacking and dismissal API for your custom Vue notifications.
 
 #### Loader
 
@@ -2148,7 +2149,6 @@ Tooltips / popovers
  - [PrimeVue](https://primefaces.org/primevue) - The Most Complete UI Component Library for Vue
  - [CoreUI for Vue.js](https://github.com/coreui/coreui-vue) - CoreUI for Vue.js is a UI Component Library that offers a bunch of cross-browser, responsive, and lightweight Vue.js UI components.
  - [DaoStyle](https://github.com/DaoCloud/dao-style) - A high quality component library built on Vue.js.
- - [Chakra UI Vue](https://github.com/chakra-ui/chakra-ui-vue) - ⚡ A lightweight & customizable component library to help you build accessible Vue applications and sites with speed.
 
 #### Mobile
 
