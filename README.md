@@ -859,6 +859,8 @@
 - [稀土掘金](http://gold.xitu.io)
 - [Prague Airport](http://www.prague-airport.com/)
 - [Portfolio Site](http://corentinbac.com/)
+- [Portfolio Site](https://olaolu.dev/) - Olaolu Olawuyi, A Frontend developer and UX Engineer's portfolio site.
+- [Portfolio Site](https://david-aji.com/) David Aji aka Ajiva is a Front End Developer with experience using frameworks like Vue and React to build "class" web apps.
 - [Statamic](https://statamic.com)
 - [Embalses!](http://embalses.azurewebsites.net/) - A tool to report water dam level using the U.S. Geological Survey database.
 - [TravelMap](http://clem.travelmap.fr) - A simple way for travelers to create a blog based on a Map.
@@ -1899,7 +1901,6 @@ _Switch / on/off toggle / checkbox_
 - [vue-rocker-switch](https://github.com/DannyFeliz/vue-rocker-switch) - A customizable rocker switch component for Vue.js.
 - [vue-toggle-btn](https://github.com/JonathanDn/vue-toggle-btn) - A Highly Customizable, easy-to-use elegant toggle/switch button component
 - [vue-tristate-checkbox](https://github.com/hartwork/vue-tristate-checkbox) - Cycling tristate checkbox that supports form submission
-- [vue-toggles](https://github.com/jllagerberg/vue-toggles) - A very customizable and beautiful toggle component
 
 ##### Masked Input
 
