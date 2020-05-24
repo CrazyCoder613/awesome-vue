@@ -285,6 +285,7 @@
 
 ### Tutorials
 
+- [Vue.js from scratch series in English](https://www.youtube.com/playlist?list=PLLhEJK7fQIxDWDJEyeT68wT8ZroODeRuw) on YouTube
 - [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step) on Laracasts
 - [Vuejs 2 Authentication Tutorial](https://auth0.com/blog/vuejs2-authentication-tutorial/) on Auth0 blog
 - [Create a GitHub File Explorer Using Vue.js](https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js) on Scotch.io
@@ -859,8 +860,6 @@
 - [稀土掘金](http://gold.xitu.io)
 - [Prague Airport](http://www.prague-airport.com/)
 - [Portfolio Site](http://corentinbac.com/)
-- [Portfolio Site](https://olaolu.dev/) - Olaolu Olawuyi, A Frontend developer and UX Engineer's portfolio site.
-- [Portfolio Site](https://david-aji.com/) David Aji aka Ajiva is a Front End Developer with experience using frameworks like Vue and React to build "class" web apps.
 - [Statamic](https://statamic.com)
 - [Embalses!](http://embalses.azurewebsites.net/) - A tool to report water dam level using the U.S. Geological Survey database.
 - [TravelMap](http://clem.travelmap.fr) - A simple way for travelers to create a blog based on a Map.
