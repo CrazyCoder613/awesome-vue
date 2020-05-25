@@ -635,7 +635,6 @@
 - [Building a Beautiful Animated News App with Vue.js and Vuetify](https://buttercms.com/blog/build-a-beautiful-animated-news-app-with-vuejs-and-vuetify) by [ButterCMS](https://twitter.com/ButterCMS)
 - [Comparing Angular vs Vue](https://buttercms.com/blog/comparing-angular-vs-vue) by [ButterCMS](https://twitter.com/ButterCMS)
 - [Vue vs. React – Which Should You Pick For Your Next Web Project?](https://www.ideamotive.co/blog/vue-vs-react?utm_source=github.com&utm_medium=social&utm_campaign=vue-vs-react)
-- [Vue.js from scratch series](https://www.youtube.com/playlist?list=PLLhEJK7fQIxDWDJEyeT68wT8ZroODeRuw) on YouTube by Paris Nakita Kejser
 
 ### Courses
 
@@ -1050,6 +1049,8 @@
 - [ChatterBoxes](https://chatterboxes.netlify.com/) - For quick secret chat sessions
 - [goonlinetools.com](https://goonlinetools.com/) - 100% Free Online Tools site.
 - [CMD Generators 命令行生成器](https://cmdgenerators.com) - Generate CMD by click buttons. Such as tar, ssh. 命令行参数多不熟悉? 点点按钮就能生成啦!
+- [Portfolio Site](https://olaolu.dev/) - Olaolu Olawuyi, A Frontend developer and UX Engineer's portfolio site.
+- [Portfolio Site](https://david-aji.com/) - David Aji aka Ajiva is a Front End Developer with experience using frameworks like Vue and React to build "class" web apps.
 
 ### Interactive Experiences
 
