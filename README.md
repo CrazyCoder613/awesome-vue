@@ -635,6 +635,7 @@
 - [Building a Beautiful Animated News App with Vue.js and Vuetify](https://buttercms.com/blog/build-a-beautiful-animated-news-app-with-vuejs-and-vuetify) by [ButterCMS](https://twitter.com/ButterCMS)
 - [Comparing Angular vs Vue](https://buttercms.com/blog/comparing-angular-vs-vue) by [ButterCMS](https://twitter.com/ButterCMS)
 - [Vue vs. React – Which Should You Pick For Your Next Web Project?](https://www.ideamotive.co/blog/vue-vs-react?utm_source=github.com&utm_medium=social&utm_campaign=vue-vs-react)
+- [Vue.js from scratch series](https://www.youtube.com/playlist?list=PLLhEJK7fQIxDWDJEyeT68wT8ZroODeRuw) on YouTube by Paris Nakita Kejser
 
 ### Courses
 
@@ -1901,6 +1902,7 @@ _Switch / on/off toggle / checkbox_
 - [vue-rocker-switch](https://github.com/DannyFeliz/vue-rocker-switch) - A customizable rocker switch component for Vue.js.
 - [vue-toggle-btn](https://github.com/JonathanDn/vue-toggle-btn) - A Highly Customizable, easy-to-use elegant toggle/switch button component
 - [vue-tristate-checkbox](https://github.com/hartwork/vue-tristate-checkbox) - Cycling tristate checkbox that supports form submission
+- [vue-toggles](https://github.com/juliandreas/vue-toggles) - A highly customizable and accessible toggle component
 
 ##### Masked Input
 
@@ -2553,6 +2555,7 @@ _Utilities not directly related to the UI_
 - [vue-loadable](https://github.com/VitorLuizC/vue-loadable) - A plugin to improve loading state control with pretty simple methods, decorators and helpers.
 - [vueuse](https://github.com/antfu/vueuse) - Collection of essential Vue Composition API utils works for Vue 2.x and 3.x.
 - [vue-composable](https://github.com/pikax/vue-composable) - Vue composition-api composable components. i18n, validation, pagination, fetch, etc. +30 variable composable functions.
+- [vue-condition-watcher](https://github.com/runkids/vue-condition-watcher) - 🕶 Vue Composition API for automatic fetch data when condition has been changed.
 
 #### Typescript
 
