@@ -446,7 +446,6 @@
 - [Form Validation In VueJS Using Yup](https://vijitail.dev/blog/form-validation-in-vue-using-yup) by [Vijit Ail](https://vijitail.dev/) (May 2020)
 - [Use Vue.js to Rewrite React's Official Tutorial Tic Tac Toe](https://chanvinxiao.com/blog/vuejs-tic-tac-toe/) By [Chanvin Xiao](https://github.com/vinzid)
 - [Can we use Python with Vue.js or Vue and Django or Flask?](https://vue-view.com/can-we-use-python-with-vue-js-or-vue-and-django-or-flask/)
-- [MDN - Vue tutorials](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks#Vue_tutorials)
 
 ### Examples
 
@@ -1223,6 +1222,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 - [vue-loading](https://github.com/HELMAB/vue-loading) - 🔄 Block page while requesting API
 - [vue-preloaders](https://github.com/igaloly/vue-preloaders) - Attach your preloader at any time, to any element easily and quickly
 - [vue-ellipse-progress](https://github.com/setaman/vue-ellipse-progress) - A flexible Vue.js component to create beautiful animated circular progress bars and loaders
+- [vuesence-cloud-sync-button](https://github.com/altrusl/vuesence-cloud-sync-button) - Animated button which also serves as a cloud synchronization progress bar
 
 ##### Progress Bar
 
@@ -1356,8 +1356,6 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-stripe-menu](https://github.com/Alexeykhr/vue-stripe-menu) - Creating a navigation menu with animations like on Stripe
 - [vue-burger-button](https://github.com/VitorLuizC/vue-burger-button) - A pretty simple Vue functional component for menu burger buttons.
 - [@satmaxt/sidebar-menu-drawer](https://github.com/satriaajiputra/sidebar-menu-drawer) - A simple interactive sidebar menu drawer and easy to implement
-- [vue-file-toolbar-menu](https://github.com/motla/vue-file-toolbar-menu) - UI file/toolbar menus for Vue apps
-
 
 #### Minus Plus Input
 
@@ -1854,7 +1852,6 @@ _Date / datetime / time Picker_
 - [vue-draggable-nested-tree](https://github.com/phphe/vue-draggable-nested-tree) - A powerful customizable draggable tree view component for Vuejs2 [@phphe](https://github.com/phphe)
 - [vue-card-swipe](https://github.com/eshengsky/vue-card-swipe) - A touch slider for vue.js, support sliding in any direction to switch cards, compatible with PC and mobile.
 - [vue-drag-n-drop](https://github.com/smaharj1/vue-drag-and-drop-kanban) - A simple kanban board where the items can be dragged and dropped from the list on to the board.
-- [vue-card-stack](https://github.com/rodleviton/vue-card-stack) - Stackable, swipeable, tweakable Vue card component.
 
 ##### Autocomplete
 
@@ -2406,7 +2403,6 @@ _Seamless scrolling_
 - [vue-router-lite](https://github.com/ccqgithub/vue-router-lite) - A component-based, declarative router for Vue.js 2.
 - [vue-route-props](https://github.com/iendeavor/vue-route-props) - Automatically bind vue-router query to vm, APIs are mostly same as the Vue props.
 - [vue-pilot](https://github.com/jiangfengming/vue-pilot) - A Trie-based vue router with the ability of managing history.state.
-- [vue-lang-router](https://github.com/adbrosaci/vue-lang-router) - Vue.js language routing with (optional) URL localization.
 
 #### Lazy Load
 
@@ -3146,7 +3142,6 @@ _Render Vue application in the browser only_
 - [vue-component-template](https://github.com/IneoO/vue-component-template) - Webpack setup for building & publishing a Vue component/library (with docs/demo site).
 - [**vue-auth-boilerplate**](https://github.com/VPetar/vue-auth-boilerplate) - Vue SPA boilerplate with Router/Vuex/CLI3 and auth functions (cool looking register and login). Works with minimal setup out of the box with [**laravel-api-boilerplate-jwt**](https://github.com/VPetar/laravel-api-boilerplate-jwt).
 - [**vue-atomic-design**](https://github.com/alexander-elgin/vue-atomic-design) - Vue front-end boilerplate based on atomic design methodology.
-- [Vue Effector Boilerplate](https://github.com/ilajosmanov/vue-effector-starter.git) - VueJS + Effector State Manager boilerplate.
 
 #### Universal
 
