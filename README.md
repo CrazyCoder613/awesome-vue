@@ -2413,7 +2413,6 @@ _Seamless scrolling_
 - [vue-route-props](https://github.com/iendeavor/vue-route-props) - Automatically bind vue-router query to vm, APIs are mostly same as the Vue props.
 - [vue-pilot](https://github.com/jiangfengming/vue-pilot) - A Trie-based vue router with the ability of managing history.state.
 - [vue-lang-router](https://github.com/adbrosaci/vue-lang-router) - Vue.js language routing with (optional) URL localization.
-- [vue-router-compositions](https://github.com/greenpress/vue-router-compositions) - A util package for Vue-Router and Vue Composition API.
 
 #### Lazy Load
 
@@ -2756,6 +2755,7 @@ _LocalStorage etc._
 - [vuex-awesome-async](https://github.com/Schoolmouv-team/vuex-awesome-async) - It wraps Vuex stores to easily manage async requests (loading, error and cache state).
 - [vuex-factories](https://github.com/Goldziher/vuex-factories) - Factory functions to generate vuex actions and mutations.
 - [vuex-hooks](https://github.com/Goldziher/vuex-hooks) - Typescript enabled vuex composition-api hooks.
+- [vuex-composition-helpers](https://github.com/greenpress/vuex-composition-helpers) - A util package to use Vuex with Composition API easily.
 
 ###### Sync Between Tabs
 
