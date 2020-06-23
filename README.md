@@ -833,6 +833,7 @@
 - [Afterman](https://github.com/itsalb3rt/afterman) - 🌕 Create beutiful docs in markdown and HTML from postman collection. Using Quasar Framework
 - [Greenpress Admin Panel](https://github.com/greenpress/admin-panel) - The Admin panel of Greenpress, a fully-operative open-source for creating blogs and content websites.
 - [Greenpress Blog-Front](https://github.com/greenpress/blog-front) - The frontend application service of Greenpress, a fully-operative open-source for creating blogs and content websites.
+- [Movie Paradise](https://github.com/wwwenjie/Movie-Paradise) - A responsive movie preview web app built by Vue and Vuetify
 
 ### Commercial Products
 
@@ -1057,6 +1058,7 @@
 - [Portfolio Site](https://olaolu.dev/) - Olaolu Olawuyi, A Frontend developer and UX Engineer's portfolio site.
 - [Portfolio Site](https://david-aji.com/) - David Aji aka Ajiva is a Front End Developer with experience using frameworks like Vue and React to build "class" web apps.
 - [d-patterns.js.org](https://d-patterns.js.org) - FOSS Discord templates listing website 💬
+- [linksift.com](https://linksift.com) - LinkSift lets you explore what a website links to.
 
 ### Interactive Experiences
 
@@ -1466,6 +1468,7 @@ _Display time / date / age_
 - [bs-vue-timeline](https://github.com/x10sv/bs-vue-timeline) - An alternative responsive boostrap-vue timeline
 - [simple-vue-timeline](https://github.com/scottie34/simple-vue-timeline) - A simple but customizable and reactive timeline vue component
 - [vue-moment](https://github.com/brockpetrie/vue-moment) - Handy Moment.js filters for your Vue.js project.
+- [v-idle](https://github.com/malekim/v-idle) - A Vue.js plugin to detect idle/non-active users.
 
 #### Calendar
 
