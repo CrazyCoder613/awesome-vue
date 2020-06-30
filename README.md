@@ -585,6 +585,7 @@
 - [TodoMVC Vue](https://github.com/blacksonic/todomvc-vue) - A complete TodoMVC implementation in Vue 2 with components, store, unit e2e tests and linting.
 - [Movie search app with Composition API](https://github.com/blacksonic/movie-search-vue) - A movie search app implemented in Vue 2 with the Composition API plugin
 - [Nuxt with JWT authentication via OTP](https://github.com/reiallenramos/nuxtjs-otp-boilerplate) - A Nuxt.js boilerplate with basic register and OTP-enabled login functions.
+- [vuetify-i18n-boilerplate](https://github.com/Morgbn/vuetify-i18n-boilerplate) - [Demo](https://morgbn.github.io/vuetify-i18n-boilerplate) - A boilerplate to quickly start a Vue project using Vuetify, Vue-i18n, Vuex and Vue-router
 
 ### Books
 
@@ -1304,6 +1305,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-hawesome-modal](https://github.com/behawesometw/vue-hawesome-modal) - A Vue promisify modal component plugin based on Vuetify with Vuex.
 - [xmodal-vue](https://github.com/XeniacDev/xmodal) - 🚀 A simplistic and easy to use wrapper around your components that will help you create custom and dynamic modals, from your components.
 - [@kouts/vue-modal](https://github.com/kouts/vue-modal) - A customizable, stackable and lightweight modal component that adheres to the guidelines set in WAI-ARIA Dialog (Modal) section of W3C.
+- [vue-final-modal](https://github.com/hunterliu1003/vue-final-modal) Tailwind-friendly, highly customizable, stackable modal component.
 
 #### Parallax
 
@@ -1406,6 +1408,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-slick-carousel](https://github.com/gs-shop/vue-slick-carousel) - A carousel with slick features & SSR support written for faster Luxstay
 - [@jfm/vue-carousel](https://github.com/jiangfengming/vue-carousel) - A Vue carousel component.
 - [vue-snap](https://github.com/bartdominiak/vue-snap) - Lightweight Carousel based on Scroll Snap CSS
+- [vuerollr](https://github.com/japick/vuerollr) - Mouseover showreel plugin Vue.js. Supports image and video.
 
 #### Charts
 
