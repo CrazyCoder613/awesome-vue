@@ -1171,6 +1171,7 @@ _Tables / data grids_
 - [iview-table-page](https://github.com/MengFangui/iview-table-page) - Combines Table and Page components of iview UI together. Based on Vue 2.x. And Hear are some examples to use iview-table-page.
 - [fancy-grid-vue](https://github.com/FancyGrid/FancyGrid) - Vue adaptor for FancyGrid.
 - [vue-table-dynamic](https://github.com/TheoXiong/vue-table-dynamic) - A dynamic table with sorting, filtering, editing, pagination, multiple select, etc.
+- [vue-quintable](https://github.com/Quintetio/vue-quintable) - A responsive and highly configurable table based on Vue 2.x and Bootstrap 4.x 
 
 #### Notification
 
@@ -1305,6 +1306,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-hawesome-modal](https://github.com/behawesometw/vue-hawesome-modal) - A Vue promisify modal component plugin based on Vuetify with Vuex.
 - [xmodal-vue](https://github.com/XeniacDev/xmodal) - 🚀 A simplistic and easy to use wrapper around your components that will help you create custom and dynamic modals, from your components.
 - [@kouts/vue-modal](https://github.com/kouts/vue-modal) - A customizable, stackable and lightweight modal component that adheres to the guidelines set in WAI-ARIA Dialog (Modal) section of W3C.
+- [vue-final-modal](https://github.com/hunterliu1003/vue-final-modal) Tailwind-friendly, highly customizable, stackable modal component.
 
 #### Parallax
 
