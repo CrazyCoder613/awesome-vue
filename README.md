@@ -239,6 +239,8 @@
 - [VueBLR - Facebook Group](https://www.facebook.com/groups/vue.blr/)
 - [VueJS USA - Meetups](https://events.vuejs.org/meetups/#united-states)
 - [VueJS CZ/SK - Discord group](https://discord.gg/mDr2z8V)
+- [VueJS DOM - WhatsApp group](https://chat.whatsapp.com/L5rFQpme22IHmmyOMI1MWA)
+- [VueJS DOM - Facebook group](https://www.facebook.com/groups/2022974857757366/)
 
 ### Conferences
 
@@ -2587,6 +2589,7 @@ _Utilities not directly related to the UI_
 - [vuex-class-modules](https://github.com/gertqin/vuex-class-modules) - Introduce a simple type-safe class style syntax for your vuex modules, inspired by vue-class-component.
 - [vue-corator](https://github.com/joon610/vue-corator) - Vue typescript decorator utils
 - [vuedts](https://github.com/kahirokunn/vuedts) - Generate TypeScript declaration files for .vue files.
+- [@icare-jp/vue-props-type](https://github.com/icare-jp-oss/vue-props-type) - Helps to define the props type.
 
 #### HTTP Requests
 
