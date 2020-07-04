@@ -1467,6 +1467,7 @@ _Display time / date / age_
 - [simple-vue-timeline](https://github.com/scottie34/simple-vue-timeline) - A simple but customizable and reactive timeline vue component
 - [vue-moment](https://github.com/brockpetrie/vue-moment) - Handy Moment.js filters for your Vue.js project.
 - [v-idle](https://github.com/malekim/v-idle) - A Vue.js plugin to detect idle/non-active users.
+- [v-digital-time-picker](https://github.com/runyasak/v-digital-time-picker) - Digital Time Picker for Vuetify.
 
 #### Calendar
 
@@ -2426,7 +2427,6 @@ _Seamless scrolling_
 - [vue-tiny-lazyload-img](https://github.com/mazipan/vue-tiny-lazyload-img) - A small size Vue.js v.2+ directive for lazy loading images
 - [vue-lazy-youtube-video](https://github.com/3vilArthas/vue-lazy-youtube-video) - A simple Vue.js component for lazy loading YouTube videos.
 - [lazyload-vue](https://github.com/Kazap/lazyload-vue)- Vue Plugin for vanilla-lazyload.
-- [vue-lazy-loading](https://github.com/tolking/vue-lazy-loading) - A vue plugin to better supporting native lazy-loading for image and iframe.
 
 #### Pagination
 
