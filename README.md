@@ -1228,6 +1228,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 - [vue-preloaders](https://github.com/igaloly/vue-preloaders) - Attach your preloader at any time, to any element easily and quickly
 - [vue-ellipse-progress](https://github.com/setaman/vue-ellipse-progress) - A flexible Vue.js component to create beautiful animated circular progress bars and loaders
 - [vuesence-cloud-sync-button](https://github.com/altrusl/vuesence-cloud-sync-button) - Animated button which also serves as a cloud synchronization progress bar
+- [vue-ui-preloader](https://github.com/Bot-Academia/Vue-ui-preloader) - Pre Loader components for vue.js projects with playground.
 
 ##### Progress Bar
 
@@ -1978,7 +1979,6 @@ _Edit images_
 - [vue-advanced-cropper](https://github.com/Norserium/vue-advanced-cropper) - An advanced cropper that gives you opportunity to create almost any cropper that you desire
 - [vue-anka-cropper](https://github.com/e-anka/vue-anka-cropper) - image cropper and uploader, rectangular and circular crop, customizable css
 - [vue-picture-cut](https://github.com/987153776/vue-picture-cut) - image cropper：scale, flip, rotate, edge check, rectangle clip, ellipse clip
-- [vue-img-cutter](https://github.com/acccccccb/vue-img-cutter) - A vue plugin for image cutting tool,it's very convenient to use.
 
 _Display images_
 
