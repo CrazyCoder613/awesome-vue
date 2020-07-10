@@ -1364,6 +1364,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-burger-button](https://github.com/VitorLuizC/vue-burger-button) - A pretty simple Vue functional component for menu burger buttons.
 - [@satmaxt/sidebar-menu-drawer](https://github.com/satriaajiputra/sidebar-menu-drawer) - A simple interactive sidebar menu drawer and easy to implement
 - [vue-file-toolbar-menu](https://github.com/motla/vue-file-toolbar-menu) - UI file/toolbar menus for Vue apps
+- [v-dropdown-menu](https://github.com/RadKod/v-dropdown-menu) - Customizable dropdown menu plugin for vuejs. SSR supported.
 
 #### Minus Plus Input
 
@@ -1979,6 +1980,7 @@ _Edit images_
 - [vue-advanced-cropper](https://github.com/Norserium/vue-advanced-cropper) - An advanced cropper that gives you opportunity to create almost any cropper that you desire
 - [vue-anka-cropper](https://github.com/e-anka/vue-anka-cropper) - image cropper and uploader, rectangular and circular crop, customizable css
 - [vue-picture-cut](https://github.com/987153776/vue-picture-cut) - image cropper：scale, flip, rotate, edge check, rectangle clip, ellipse clip
+- [vue-img-cutter](https://github.com/acccccccb/vue-img-cutter) - A vue plugin for image cutting tool,it's very convenient to use.
 
 _Display images_
 
