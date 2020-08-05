@@ -2097,6 +2097,7 @@ _Display images_
 - [vg-editor](https://github.com/ChrisShen93/VGEditor) - A visual graph editor based on G6 and Vue, inspired by GGEditor
 - [vue-pencil.js](https://github.com/pencil-js/vue-pencil.js) - Build reactive 2D graphics scene in your Vue project.
 - [vue-scratchable](https://github.com/sebastianwachter/vue-scratchable) - A Vue.js wrapper component that turns everything into fun scratch cards.
+- [vue-rough](https://github.com/dneustadt/vue-rough) - Components for Rough.js, a graphics library that lets you draw in a sketchy, hand-drawn-like, style.
 
 #### Link Preview
 
@@ -2596,6 +2597,7 @@ _Utilities not directly related to the UI_
 - [vue-concurrency](https://github.com/MartinMalinda/vue-concurrency) - library for encapsulating asynchronous operations and managing concurrency for Vue and Composition API.
 - [vue-ics](https://github.com/evildvl/vue-ics) - Vue.js plugin for generating ICalendar (.ics) files.
 - [vue-use-switch-map](https://github.com/jfet97/vue-use-switch-map) - 👽 The power of the RxJS switchMap operator injected into the Vue composition world.
+- [vue-use-infinite-scroll](https://github.com/jfet97/vue-use-infinite-scroll) - ♾️ A Vue composition function that makes infinite scroll a breeze.
 
 #### Typescript
 
