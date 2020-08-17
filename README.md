@@ -2332,6 +2332,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [vue-screen-size](https://github.com/johndatserakis/vue-screen-size) - Get easy and reactive access to the width and height of your screen.
 - [vue-provide-responsive](https://github.com/CyberAP/vue-provide-responsive) - Breakpoint-based responsive helpers using Provide\Inject with SSR support
 - [vue-container-query-2](https://github.com/Mehdi-Hp/vue-container-query-2#readme) - Smart vue plugin for working with css container query.
+- [vue-component-media-queries](https://github.com/CyberAP/vue-component-media-queries) - MatchMedia component library for Vue.
 
 #### Form
 
@@ -2976,7 +2977,6 @@ _Integrate with services or other frameworks_
 - [vue-unleash](https://github.com/crishellco/vue-unleash) - A Vue plugin for the [Unleash](https://unleash.github.io/) open-source feature flag platform
 - [vue-zeye-client](https://github.com/zeye-ru/vue-zeye-client) - A Vue plugin for simple use of the [Zeye-server](https://github.com/zeye-ru/zeye-server) open-source mediasoup WebRTC SFU server
 - [vue-postgrest](https://github.com/technowledgy/vue-postgrest) - Vue.js integration for postgREST: flexible, powerful and easy to use.
-- [Vuecket](https://github.com/OrienteerBAP/vuecket) - WebFramework where power of Vue.JS married with magic of [Apache Wicket](https://wicket.apache.org/)
 
 #### Vue CLI 3 Plugins
 
