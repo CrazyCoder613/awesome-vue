@@ -1064,6 +1064,7 @@
 - [FontGet](https://www.fontget.com/) - Download Free Fonts.
 - [Travel_Smart](https://travelsmart.netlify.app/) - A tour-based web app that uses Vue + Vue Router + Vuex.
 - [National Institutes of Health (NIH): FEVS Survey Results](https://hr.nih.gov/workforce/fevs/2019-fevs-survey-results) - National Institutes of Health (NIH) data visualization of Federal Viewpoints Survey (FEVS) survey results.
+- [U Can Stock](https://www.ucanstock.com/) - U.S. stock market information platform for Korean. It's built with Vue, Vuex, Vuetify, Nuxt and Firebase.
 
 ### Interactive Experiences
 
@@ -2675,6 +2676,7 @@ _Internationalization / L10n / localization / translation_
 - [vue-option-events](https://github.com/Cweili/vue-option-events) - Bring Vue.js 1 events option and \$emit to Vue.js 2.
 - [vue-emit](https://github.com/denisinvader/vue-emit) - A helper function to emit events from functional components.
 - [vue-plugin-events](https://github.com/nolde/vue-plugin-events) - Simple global event bus for Vue.js applications with automatic subscription control.
+- [vue3-custom-hooks](https://github.com/PoluosmakAndrew/vue3-custom-hooks) - Build custom hooks for Vue.js 3 Composition API.
 
 #### Persistence
 
