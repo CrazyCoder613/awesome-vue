@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <br>
   <img width="400" src="./assets/logo.svg" alt="logo of vue-awesome repository">
   <br>
@@ -1065,6 +1065,7 @@
 - [Travel_Smart](https://travelsmart.netlify.app/) - A tour-based web app that uses Vue + Vue Router + Vuex.
 - [National Institutes of Health (NIH): FEVS Survey Results](https://hr.nih.gov/workforce/fevs/2019-fevs-survey-results) - National Institutes of Health (NIH) data visualization of Federal Viewpoints Survey (FEVS) survey results.
 - [U Can Stock](https://www.ucanstock.com/) - U.S. stock market information platform for Korean. It's built with Vue, Vuex, Vuetify, Nuxt and Firebase.
+- [Nipashe](https://nipashe.netlify.app/) -"Nipashe" is a Swahili word that means "Inform me".Nipashe is a web app built in Vue + Vuex(state management) + Vue-Router(navigation) that gives a tally/statistics on the current COVID19 infections across the world based on the WHO
 
 ### Interactive Experiences
 
@@ -1895,6 +1896,7 @@ _Autosuggest / autocomplete / typeahead_
 - [v-suggest](https://github.com/TerryZ/v-suggest) - A Vue2 plugin for input content suggestions, support keyboard to quick pick.
 - [vue-bootstrap-typeahead](https://github.com/alexurquhart/vue-bootstrap-typeahead) - An typeahead/autocomplete component for Vue2 using Bootstrap 4 CSS.
 - [vue-email-dropdown](https://github.com/DannyFeliz/vue-email-dropdown) - An autocomplete for custom email domains.
+- [vue-combo-blocks](https://github.com/sssmi/vue-combo-blocks) - Small, accessible, customizable and ["renderless"](https://css-tricks.com/building-renderless-vue-components/) autocomplete component for Vue.
 
 ##### Type Select
 
@@ -2991,6 +2993,7 @@ _Integrate with services or other frameworks_
 - [vue-cli-plugin-electron-builder](https://github.com/nklayman/vue-cli-plugin-electron-builder) - Vue CLI 3 Plugin for Electron with no required configuration that uses Electron Builder.
 - [vue-cli-plugin-codeceptjs-puppeteer](https://github.com/codecept-js/vue-cli-plugin-codeceptjs-puppeteer) - installs CodeceptJS & Puppeteer for supercharged end 2 end testing 🙋
 - [vue-cli-plugin-kami](https://github.com/KamiMeow/vue-cli-plugin-kami) - Vue CLI 3 Plugin with work-made architecture for quickly start your app
+- [vue-cli-plugin-auto-alias](https://github.com/BryanAdamss/vue-cli-plugin-auto-alias) - Vue CLI 3 Plugin to automatically sets aliase
 
 ##### Google Analytics
 
