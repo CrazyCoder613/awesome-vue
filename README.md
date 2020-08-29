@@ -587,7 +587,6 @@
 - [vuetify-i18n-boilerplate](https://github.com/Morgbn/vuetify-i18n-boilerplate) - [Demo](https://morgbn.github.io/vuetify-i18n-boilerplate) - A boilerplate to quickly start a Vue project using Vuetify, Vue-i18n, Vuex and Vue-router
 - [Google Keep Clone with Vue + Firestore](https://github.com/sorxrob/vue-keep) - Google Keep clone with Vue and Firestore written in TypeScript.
 - [Go-echo-vuejs-boilerplate](https://github.com/faisaltheparttimecoder/go-echo-vuejs-boilerplate) - Boilerplate that uses go with echo framework as a backend and vuejs that serve the web traffic.
-- [Vue-Next-TicTacToe](https://github.com/canersevince/Vue-Next-TicTacToe-Game) - Simple Tic Tac Toe Game made with Vue Next
 
 ### Books
 
@@ -1067,6 +1066,7 @@
 - [National Institutes of Health (NIH): FEVS Survey Results](https://hr.nih.gov/workforce/fevs/2019-fevs-survey-results) - National Institutes of Health (NIH) data visualization of Federal Viewpoints Survey (FEVS) survey results.
 - [U Can Stock](https://www.ucanstock.com/) - U.S. stock market information platform for Korean. It's built with Vue, Vuex, Vuetify, Nuxt and Firebase.
 - [Nipashe](https://nipashe.netlify.app/) -"Nipashe" is a Swahili word that means "Inform me".Nipashe is a web app built in Vue + Vuex(state management) + Vue-Router(navigation) that gives a tally/statistics on the current COVID19 infections across the world based on the WHO
+- [DevSnap.me](https://devsnap.me) - A website that helps web developers find tons of free and open source HTML, CSS, and JavaScript assets.
 
 ### Interactive Experiences
 
@@ -2459,6 +2459,7 @@ _Seamless scrolling_
 - [lazyload-vue](https://github.com/Kazap/lazyload-vue)- Vue Plugin for vanilla-lazyload.
 - [vue-lazy-loading](https://github.com/tolking/vue-lazy-loading) - A vue plugin to better supporting native lazy-loading for image and iframe.
 - [v-lazy-component](https://github.com/RadKod/v-lazy-component) - Vue component render when visible. Uses Intersection Observer API.
+- [vue-lazy](https://github.com/bartdominiak/vue-lazy) - Lightweight Image/Picture lazyload based on Intersection API
 
 #### Pagination
 
