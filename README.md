@@ -1067,8 +1067,6 @@
 - [U Can Stock](https://www.ucanstock.com/) - U.S. stock market information platform for Korean. It's built with Vue, Vuex, Vuetify, Nuxt and Firebase.
 - [Nipashe](https://nipashe.netlify.app/) -"Nipashe" is a Swahili word that means "Inform me".Nipashe is a web app built in Vue + Vuex(state management) + Vue-Router(navigation) that gives a tally/statistics on the current COVID19 infections across the world based on the WHO
 - [DevSnap.me](https://devsnap.me) - A website that helps web developers find tons of free and open source HTML, CSS, and JavaScript assets.
-- [Pexies](https://github.com/canersevince/Pexies) - Pexies is a personal photo gallery built on pexels api. You can see curated/randomized pictures, and add them to your favourites.
-
 
 ### Interactive Experiences
 
@@ -2567,6 +2565,7 @@ _Move a DOM node to a target DOM node_
 - [v-ripple-directive](https://github.com/andrewvasilchuk/v-ripple-directive) - Vue.js directive for ripple effect.
 - [vue-material-design-ripple](https://github.com/partyka1/vue-material-design-ripple) - Add material design ripple to any element. Use any ripple color you want. No performance issues. Mobile friendly. No dependencies. It just works.
 - [v-github-icon](https://github.com/vinayakkulkarni/v-github-icon) - easily add "that" tiny GitHub icon on the right/left corner of your Vue components/libraries demos' 🤙
+- [vue-styled-shadows](https://github.com/juliandreas/vue-styled-shadows) - Component based styled shadow patterns for images.
 
 #### WebGL
 
