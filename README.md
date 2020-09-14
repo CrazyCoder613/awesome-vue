@@ -1245,6 +1245,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 - [vuesence-cloud-sync-button](https://github.com/altrusl/vuesence-cloud-sync-button) - Animated button which also serves as a cloud synchronization progress bar
 - [vue-ui-preloader](https://github.com/Bot-Academia/Vue-ui-preloader) - Pre Loader components for vue.js projects with playground.
 - [vue-splash](https://github.com/MehdiKhoshnevisz/vue-splash) - A simple and cool splash plugin for vue.js 💦
+- [vue-ultimate-skeleton-cards](https://github.com/neelansh15/vue-ultimate-skeleton-cards) - The Ultimate, fully-customizable Skeleton Card plugin for Vue 🚀
 
 ##### Progress Bar
 
@@ -1521,6 +1522,7 @@ _Display non-editable events in a Calendar_
 - [vue-datepicker-ui](https://github.com/edisdev/vue-datepicker-ui) - Datepicker component for Vue
 - [vue-date-tools](https://github.com/misterfresh/vue-date-tools/) - Most lightweight VueJS Date picker & Daterange picker using date-fns and no other dependencies
 - [vue-spring-calendar](https://github.com/boussadjra/vue-spring-calendar) - It's a Vue based component which provides the functionality of a full-calendar that shows daily events. the [`demo`](https://boussadjra.github.io/vue-spring-calendar/).
+- [vue-jquery-calendar](https://github.com/Parthfaladu/vue-jquery-calendar) - Calendar wrapper component of jquery ui datepicker
 
 #### Map
 
@@ -2204,6 +2206,7 @@ _Set of components + responsive layout system_
 - [Chakra UI Vue](https://github.com/chakra-ui/chakra-ui-vue) - ⚡ A lightweight & customizable component library to help you build accessible Vue applications and sites with speed.
 - [vue-canvas](https://github.com/loo41/vuc) - Vue canvas component for [vuc-identify](http://vuc.tianchenyong.top)
 - [oruga](https://github.com/oruga-ui/oruga) - UI components for Vue.js without CSS framework dependency.
+- [Wave UI](https://github.com/antoniandre/wave-ui) - An emerging UI framework for Vue.js with only the bright side. ☀️
 
 #### Mobile
 
@@ -3200,7 +3203,6 @@ _Render Vue application in the browser only_
 - [vue-cli-template-library](https://github.com/julon/vue-cli-template-library) - Template for developing open-source vue.js libraries with Rollup + Jest + Babel + Storybook + TravisCI + SemanticRelease.
 - [vue-cli-template-github-pages](https://github.com/julon/vue-cli-template-github-pages) - A full-featured Webpack + vue-loader setup for Github Pages Deployment with travisCI.
 - [vue-webpack-chrome-extension-template](https://github.com/ALiangLiang/vue-webpack-chrome-extension-template) - Template for quick creation of Chrome extension on Vuejs hot reloading when developing.
-- [buildless-vue](https://github.com/Botre/buildless-vue) - Quickly use Vue without a build step.
 - [vue-component-template](https://github.com/IneoO/vue-component-template) - Webpack setup for building & publishing a Vue component/library (with docs/demo site).
 - [**vue-auth-boilerplate**](https://github.com/VPetar/vue-auth-boilerplate) - Vue SPA boilerplate with Router/Vuex/CLI3 and auth functions (cool looking register and login). Works with minimal setup out of the box with [**laravel-api-boilerplate-jwt**](https://github.com/VPetar/laravel-api-boilerplate-jwt).
 - [**vue-atomic-design**](https://github.com/alexander-elgin/vue-atomic-design) - Vue front-end boilerplate based on atomic design methodology.
