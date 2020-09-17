@@ -308,6 +308,7 @@
 - [Medium like Image Loading with Vue.js](https://www.theodo.fr/blog/2016/10/medium-like-image-loading-with-vue-js/)
 - [How to Use Vuex in a Laravel Spark Project](https://metricloop.com/blog/how-to-use-vuex-in-a-laravel-spark-project) on `Metric Loop`
 - [How To Set Up Modules in Vuex](https://metricloop.com/blog/how-to-set-up-modules-in-vuex) on `Metric Loop`
+- [Vue.js 中文教程](http://javascript.ctolib.com/docs/read/vue-js-c-index.html)
 - [Up and Running with the Vue.js 2.0 Framework](https://www.sitepoint.com/up-and-running-vue-js-2-0/) on SitePoint
 - [How to make API Calls with Vuex](https://metricloop.com/blog/how-to-make-api-calls-with-vuex) on `Metric Loop`
 - [How to Use Vuex to Build a Feature](https://metricloop.com/blog/how-to-use-vuex-to-build-a-feature) on `Metric Loop`
@@ -1070,6 +1071,7 @@
 - [DevSnap.me](https://devsnap.me) - A website that helps web developers find tons of free and open source HTML, CSS, and JavaScript assets.
 - [Pexies](https://github.com/canersevince/Pexies) - Pexies is a personal photo gallery built on pexels api. You can see curated/randomized pictures, and add them to your favourites.
 - [Wammes Gifts](https://www.wammes-gifts.nl) - Wammes Gifts helps you find the perfect gift.
+- [Back Home/回家](https://flights.vincentc.us/) - A flight searching engine for the flights from oversea to China Mainland (and China to oversea) that still fly during COVID-19.
 
 ### Interactive Experiences
 
@@ -1591,7 +1593,7 @@ _Display non-editable events in a Calendar_
 #### PDF
 
 - [vue-pdf](https://github.com/FranckFreiburger/vue-pdf) - A pdf viewer based on mozilla's PDF.js
-- [pdfvuer](https://github.com/arkokoley/pdfvuer) - A PDF viewer for Vue using Mozilla's PDF.js with text support. [Demo](https://arkokoley.github.io/pdfvuer/)
+- [pdfvuer](https://github.com/arkokoley/pdfvuer) - A PDF viewer for Vue using Mozilla's PDF.js with text support. [Demo](https://blog.koley.in/pdfvuer/)
 
 #### Tree
 
@@ -2288,7 +2290,7 @@ _Set of admin template_
 
 - [VuePress](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator.
 - [Peco](https://github.com/egojump/peco) - A static website generator for humans. **UNMAINTAINED**
-- [Saber](https://github.com/saberland/saber) - A static website generator for building blazing fast websites with Vue.js.
+- [Saber](https://github.com/egoist/saber) - A static website generator for building blazing fast websites with Vue.js.
 - [Gridsome](https://github.com/gridsome/gridsome) - Build super fast, modern websites with Vue.js
 - [Servue](https://github.com/futureaus/servue) - Server-side rendering engine that renders vue files into html strings.
 
@@ -2538,7 +2540,7 @@ _Manage meta information in the document head_
 _Move a DOM node to a target DOM node_
 
 - [vue-dom-portal](https://github.com/calebroseland/vue-dom-portal) - An escape hatch for DOM Elements in Vue.js components.
-- [portal-vue](https://portal-vue.linusb.org/) - A Vue Plugin to render your component's template anywhere in the DOM (Works on the virtualDOM level, doesn't move nodes within the DOM)
+- [portal-vue](https://linusborg.github.io/portal-vue) - A Vue Plugin to render your component's template anywhere in the DOM (Works on the virtualDOM level, doesn't move nodes within the DOM)
 
 #### Filters
 
