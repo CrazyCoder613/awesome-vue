@@ -1759,7 +1759,8 @@ _Display non-editable events in a Calendar_
 - [vuesence-book](https://github.com/altrusl/vuesence-book) - Documentation/help system component.
 - [vue-turnjs](https://github.com/Reidond/vue-turnjs) - A component libary to add book experience to your app.
 - [vuesence-sliding-header](https://github.com/altrusl/vuesence-sliding-header) - Sliding header(s) for top navigation bar(s).
-- [Particles.vue](https://github.com/matteobruni/tsparticles/blob/master/components/vue/README.md) - Vue.js component for particles background, based on tsParticles
+- [Particles.vue](https://github.com/matteobruni/tsparticles/blob/master/components/vue/README.md) - Vue.js 2.x component for particles background, based on tsParticles
+- [Particles.vue3](https://github.com/matteobruni/tsparticles/blob/master/components/vue3/README.md) - Vue.js 3.x component for particles background, based on tsParticles
 
 #### Tabs
 
@@ -2542,7 +2543,7 @@ _Manage meta information in the document head_
 _Move a DOM node to a target DOM node_
 
 - [vue-dom-portal](https://github.com/calebroseland/vue-dom-portal) - An escape hatch for DOM Elements in Vue.js components.
-- [portal-vue](https://linusborg.github.io/portal-vue) - A Vue Plugin to render your component's template anywhere in the DOM (Works on the virtualDOM level, doesn't move nodes within the DOM)
+- [portal-vue](https://portal-vue.linusb.org/) - A Vue Plugin to render your component's template anywhere in the DOM (Works on the virtualDOM level, doesn't move nodes within the DOM)
 
 #### Filters
 
