@@ -1759,7 +1759,7 @@ _Display non-editable events in a Calendar_
 - [vuesence-book](https://github.com/altrusl/vuesence-book) - Documentation/help system component.
 - [vue-turnjs](https://github.com/Reidond/vue-turnjs) - A component libary to add book experience to your app.
 - [vuesence-sliding-header](https://github.com/altrusl/vuesence-sliding-header) - Sliding header(s) for top navigation bar(s).
-- [tsParticles](https://github.com/matteobruni/tsparticles) - A lightweight Javascript library to easily create highly configurable and interactive particle animations
+- [Particles.vue](https://github.com/matteobruni/tsparticles/blob/master/components/vue/README.md) - Vue.js component for particles background, based on tsParticles
 
 #### Tabs
 
@@ -2662,6 +2662,7 @@ _Retrieve data over HTTP_
 - [vue-api-query](https://github.com/robsontenorio/vue-api-query) - Elegant and simple way to build requests for REST API.
 - [vue-chimera](https://github.com/SasanFarrokh/vue-chimera) - A full-featured RESTful resource based client, compatible with Nuxt.js and allows server side fetch.
 - [vue-apis](https://github.com/ChangedenCZD/vue-apis) - A vue plug-in integrated with axios that chain-builds API instances. Available from the context of a vue instance (eg: this.\$apis.apiName()).
+- [rexios](https://github.com/Scrum/rexios) - Utils normalize url, data, params for axios when using rest api request.
 
 #### i18n
 
