@@ -9,6 +9,7 @@
 
 > A curated list of awesome things related to Vue.js
 
+- [Awesome Vue.js ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-vuejs-img-srchttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvg-altawesome)
 - [Resources](#resources)
   - [Official Resources](#official-resources)
   - [External Resources](#external-resources)
@@ -199,7 +200,6 @@
 - [Vue.js DEV Community](https://dev.to/t/vue) - Official tag for the Vue.js JavaScript Framework on DEV.to
 - [Vue.js Online Courses Directory](https://classpert.com/vuejs) - Vue.js courses from top e-learning platforms curated by Classpert, a online course search engine.
 - [WebTechSurvey.com](https://webtechsurvey.com/technology/vue.js) - An extensive list of websites created with the Vue.js Javascript framework.
-- [Vue Mastery](https://www.vuemastery.com/) - The ultimate learning resource for Vue developers
 
 ### Job Portal
 
@@ -1753,6 +1753,8 @@ _Display non-editable events in a Calendar_
 - [vue-turnjs](https://github.com/Reidond/vue-turnjs) - A component libary to add book experience to your app.
 - [vuesence-sliding-header](https://github.com/altrusl/vuesence-sliding-header) - Sliding header(s) for top navigation bar(s).
 - [tsParticles](https://github.com/matteobruni/tsparticles) - A lightweight Javascript library to easily create highly configurable and interactive particle animations
+- [@bananajs/vue3-book-component](https://github.com/bananajs-is-already-taken/vue3-book-component) - Book component for Vue 3. It provides easy, flexible API and great customizability.
+- [@bananajs/vue2-book-component](https://github.com/bananajs-is-already-taken/vue2-book-component) - Book component for Vue 2. It provides easy, flexible API and great customizability.
 
 #### Tabs
 
