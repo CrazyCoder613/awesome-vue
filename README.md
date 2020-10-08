@@ -144,7 +144,7 @@
       - [Paypal](#paypal)
       - [Plaid](#plaid)
   - [Integrations](#integrations)
-    - [Vue CLI Plugins](#vue-cli-plugins)
+    - [Vue CLI 3 Plugins](#vue-cli-3-plugins)
       - [Google Analytics](#google-analytics)
       - [Yandex Metrika](#yandex-metrika)
   - [Dev Tools](#dev-tools)
@@ -1561,7 +1561,6 @@ _Display non-editable events in a Calendar_
 - [vue-player](https://github.com/algoz098/vue-player) - A simple html5 video player with img placeholder for Vue 2.x.
 - [vue-audio-better](https://github.com/forijk/vue-audio-better) - Easy to create custom audio player components for Vue 2.x. A progress bar with soul.
 - [vue-sounds](https://github.com/redcodemohammed/vue-sounds) - Easy to add sounds to your components.
-- [vue-soundcloud-player](https://github.com/matswainson/vue-soundcloud-player) - A custom Soundcloud player supporting single tracks & playlists
 
 #### Infinite Scroll
 
@@ -2108,7 +2107,6 @@ _Display images_
 ##### Comment System
 
 - [vue-comment-grid](https://github.com/TugayYaldiz/vue-comment-grid) - 💬 Responsive Vue.js comment system plugin that built with CSS Grid and Firebase REST API + Authentication.
-- [fastcomments-vue](https://github.com/fastcomments/fastcomments-vue) - 💬 A Vue component for FastComments, a live commenting system.
 
 #### Canvas
 
@@ -3011,6 +3009,7 @@ _Integrate with services or other frameworks_
 - [vue-postgrest](https://github.com/technowledgy/vue-postgrest) - Vue.js integration for postgREST: flexible, powerful and easy to use.
 - [Vuecket](https://github.com/OrienteerBAP/vuecket) - WebFramework where power of Vue.JS married with magic of [Apache Wicket](https://wicket.apache.org/)
 - [vue-ld](https://github.com/dashhudson/vue-ld) - Vue LaunchDarkly plugin and routing utilities
+- [Prisma](https://github.com/sherl0g/prisma) - Logs visualization client for @sherlog/cli
 
 #### Vue CLI Plugins
 
