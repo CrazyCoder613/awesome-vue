@@ -287,6 +287,7 @@
 
 ### Tutorials
 
+- [Learn Vue 3 for Beginners - Full 2020 Tutorial Course](https://www.youtube.com/watch?v=ZqgiuPt5QZo&ab_channel=TheEarthisSquare) on Youtube
 - [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step) on Laracasts
 - [Vuejs 2 Authentication Tutorial](https://auth0.com/blog/vuejs2-authentication-tutorial/) on Auth0 blog
 - [Create a GitHub File Explorer Using Vue.js](https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js) on Scotch.io
@@ -2198,7 +2199,7 @@ _Set of components + responsive layout system_
 - [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - An enterprise-class UI components based on Ant Design and Vue 2.5.0
 - [heyui](https://github.com/heyui/heyui) - (https://www.heyui.top/en) - A Vue.js 2.0 UI Toolkit for Web.
 - [Carvue.js](https://carvuejs.github.io/) - IBM's Carbon Design System for Vue.js
-- [BalmUI](https://github.com/balmjs/balm-ui) - A modular and customizable UI library based on Material Design and Vue 3.0
+- [BalmUI](https://material.balmjs.com/) - Next Generation Material UI for Vue.js
 - [Osiris UI](https://osiris-ui.github.io/osiris) - :art: A Vue.js 2.0 universal responsive UI component library
 - [N3-components](https://github.com/N3-components/N3-components) - Beautiful Web Components built with Vue 2
 - [Shards Vue](https://github.com/designrevision/shards-vue) - ✨ Sleek & UI Components Library based on the Bootstrap 4 Framework.
