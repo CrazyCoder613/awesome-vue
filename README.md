@@ -201,7 +201,6 @@
 - [WebTechSurvey.com](https://webtechsurvey.com/technology/vue.js) - An extensive list of websites created with the Vue.js Javascript framework.
 - [Vue Mastery](https://www.vuemastery.com/) - The ultimate learning resource for Vue developers
 - [**Vue 3 Video Playlist**](https://www.youtube.com/playlist?list=PLMLZt4pr7Aq6AfC_ynfeDbEk2hbMFGpHO) - Amazing Vue 3 tutorials and experiments
-- [Vue.js Workshops](https://public.vuejsworkshops.com) - Learn Vue 2, in browser, by building 3 applications: Landing page, Todos App and Podcasts aggregator.( Vue.js, Vue-Router, Vuex, Vue-Axios, Vue-Apollo )
 
 ### Job Portal
 
@@ -449,7 +448,6 @@
 - [Can we use Python with Vue.js or Vue and Django or Flask?](https://vue-view.com/can-we-use-python-with-vue-js-or-vue-and-django-or-flask/)
 - [MDN - Vue tutorials](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks#Vue_tutorials)
 - [Learn Vue 3 for Beginners - Full 2020 Tutorial Course](https://www.youtube.com/watch?v=ZqgiuPt5QZo&ab_channel=TheEarthisSquare) on Youtube
-
 
 ### Examples
 
@@ -839,6 +837,7 @@
 - [Greenpress Blog-Front](https://github.com/greenpress/blog-front) - The frontend application service of Greenpress, a fully-operative open-source for creating blogs and content websites.
 - [Movie Paradise](https://github.com/wwwenjie/Movie-Paradise) - A responsive movie preview web app built by Vue and Vuetify
 - [Pathfinding Visualizer ThreeJS](https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS) - A visualizer for pathfinding algorithms in 3D with maze generation and first-person view
+- [Agile Visitors](https://github.com/itsalb3rt/agile-visitors) - Application for registering employee entries with the possibility of generating reports, validating and storing users with minimal effort.
 
 ### Commercial Products
 
@@ -1776,6 +1775,7 @@ _Display non-editable events in a Calendar_
 - [vue-tiny-tabs](https://github.com/mevinoth/vue-tiny-tabs) - A minimalistic tabs component as tinytabs Vuejs wrapper (size < 3.1kb)
 - [vue-lumino](https://github.com/tupilabs/vue-lumino) - A component to use Vue.js with Jupyter Lumino (PhosphorJS), integrating DOM & VDOM through event listeners and Vue reactivity system.
 - [vue-router-tab](https://github.com/bhuh12/vue-router-tab) - Vue.js tab components, based on Vue Router.
+- [vue3-tabs](https://github.com/HJ29/vue3-tabs) - A touch swipeable tabs for vue 3
 
 #### Form
 
