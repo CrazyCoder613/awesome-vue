@@ -2654,7 +2654,6 @@ _Utilities not directly related to the UI_
 - [vue-use-switch-map](https://github.com/jfet97/vue-use-switch-map) - 👽 The power of the RxJS switchMap operator injected into the Vue composition world.
 - [vue-use-infinite-scroll](https://github.com/jfet97/vue-use-infinite-scroll) - ♾️ A Vue composition function that makes infinite scroll a breeze.
 - [vue-with-wrapper](https://github.com/zWingz/vue-with-wrapper) - A object deconstruction used in `template`
-- [vesselize](https://github.com/vesselize/vesselize) - ⛵ A JavaScript IoC container that works seamlessly with Vue.js.
 
 #### Typescript
 
@@ -2750,6 +2749,7 @@ _LocalStorage etc._
 - [vue2-storage](https://github.com/yarkovaleksei/vue2-storage) Browser storage for Vue.js app
 - [vue-warehouse](https://github.com/bazzite/vue-warehouse) A Cross-browser storage for Vue.js and Nuxt.js, with plugins support and easy extensibility based on Store.js.
 - [vue-storage-watcher](https://github.com/dreambo8563/vue-storage-watcher) - A reactive localStorage/sessionStorage plugin for Vue.js with strong typed.
+- [vue-use-local-storage](https://github.com/HJ29/vue-use-local-storage) - A composition api to persist and rehydrate reactive data to local storage for vue 3.
 
 #### State Management
 
