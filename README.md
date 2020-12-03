@@ -1188,6 +1188,7 @@ _Tables / data grids_
 - [vue-js-datatable](https://github.com/Parthfaladu/vue-js-datatable) - VueJS light weight wrapper datatable component for [datatables.net](https://datatables.net)
 - [bee-grid-table](https://github.com/jiahengaa/BeeGridTable) -BeeGridTable , is a Highly Customizable Table UI component library based on Vue.js. Rich functions、More efficient、Easy to use!
 - [vue-datagrid](https://github.com/revolist/vue-datagrid) - Vue grid wrapper for powerful webcomponent revo-grid with excel like rich edit and behavior.
+- [element-ui-sticky-table](https://github.com/iendeavor/element-ui-sticky-table) - Sticky for element-ui table
 
 #### Notification
 
@@ -2777,7 +2778,6 @@ _LocalStorage etc._
 - [universal-model-vue](https://github.com/universal-model/universal-model-vue) - Unified state management for Vue (and also for Angular/React/Svelte)
 - [vue-states](https://github.com/sumcumo/vue-states) - State management system for Vue with same API as Vue components
 - [v-bucket](https://github.com/mediv0/v-bucket) - 📦 Fast, Simple, and Lightweight State Management for Vue 3.0 built with composition API, inspired by Vuex.
-- [VueFort](https://github.com/SeregPie/VueFort) - Data modeling for Vue. Works for Vue 2 & 3.
 
 ##### Redux
 
