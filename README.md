@@ -1072,6 +1072,7 @@
 - [Pexies](https://github.com/canersevince/Pexies) - Pexies is a personal photo gallery built on pexels api. You can see curated/randomized pictures, and add them to your favourites.
 - [Wammes Gifts](https://www.wammes-gifts.nl) - Wammes Gifts helps you find the perfect gift.
 - [Back Home/回家](https://flights.vincentc.us/) - A flight searching engine for the flights from oversea to China Mainland (and China to oversea) that still fly during COVID-19.
+- [Deadlines](https://deadlines.vercel.app) - An offline, simple deadline tracker made with Vue.js and localForage.
 
 ### Interactive Experiences
 
@@ -1436,6 +1437,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-snap](https://github.com/bartdominiak/vue-snap) - Lightweight Carousel based on Scroll Snap CSS
 - [vuerollr](https://github.com/japick/vuerollr) - Mouseover gallery plugin for Vue.js. Supports image and video.
 - [vue-splide](https://github.com/Splidejs/vue-splide) - Splide is a free lightweight but powerful slider and carousel, written in pure JavaScript without any dependencies. It supports a thumbnail slider, nested slide.
+- [swiper](https://github.com/nolimits4web/swiper) - Swiper 6 added official support for Vue.js (only 3.x).
 
 #### Charts
 
