@@ -244,6 +244,7 @@
 - [VueJS CZ/SK - Discord group](https://discord.gg/mDr2z8V)
 - [VueJS DOM - WhatsApp group](https://chat.whatsapp.com/L5rFQpme22IHmmyOMI1MWA)
 - [VueJS DOM - Facebook group](https://www.facebook.com/groups/2022974857757366/)
+- [VueJS Uzbekistan - Telegram Group [Uzbek]](https://t.me/vuejsuzbekcommunity)
 
 ### Conferences
 
@@ -2797,7 +2798,6 @@ _LocalStorage etc._
 - [vue-states](https://github.com/sumcumo/vue-states) - State management system for Vue with same API as Vue components
 - [v-bucket](https://github.com/mediv0/v-bucket) - 📦 Fast, Simple, and Lightweight State Management for Vue 3.0 built with composition API, inspired by Vuex.
 - [VueFort](https://github.com/SeregPie/VueFort) - Data modeling for Vue. Works for Vue 2 & 3.
-- [@korijn/vue-store](https://github.com/Korijn/vue-store) - Lightweight Vue 3 composition API-compatible store pattern library with undo/redo.
 
 ##### Redux
 
