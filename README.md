@@ -868,6 +868,7 @@
 - [Time Door](https://timedoor.io) - A time series analysis API
 - [vREST NG](https://ng.vrest.io) - An enterprise application for Automated API Testing, built with VueJS and Element UI.
 - [ScaleChamp](https://www.scalechamp.com) - multi-cloud managed databases provider with Hetzner, AWS, Linode, IBM, Azure, Scaleway, Alibaba Cloud, DigitalOcean, GCP and UpCloud support
+- [Coloban](https://www.coloban.com) - Save hours per week on Project Management. One app includes: Chats, Calls, Screenshare, Kanban, Gantt, Eisenhower Matrix, Burnup chart, Calendar and many more!
 
 ### Apps/Websites
 
@@ -2349,6 +2350,7 @@ _Set of admin template_
 - [V-Craft](https://github.com/yoychen/v-craft) - A toolset for building extensible page builders with Vue.js.
 - [Vue-Low-Code](https://github.com/KlausSchaefers/vue-low-code) - Low Code toolkit that can generate VUE apps from Quant-UX prototypes
 - [Figma-Low-Code](https://github.com/KlausSchaefers/figma-low-code) - Turns your Figma design into VUE applications.
+- [vue-notion](https://github.com/janniks/vue-notion) - An unofficial Notion renderer – Use Notion as a CMS for Vue (e.g. Nuxt)
 
 ### UI Utilities
 
@@ -2798,6 +2800,7 @@ _LocalStorage etc._
 - [vue-states](https://github.com/sumcumo/vue-states) - State management system for Vue with same API as Vue components
 - [v-bucket](https://github.com/mediv0/v-bucket) - 📦 Fast, Simple, and Lightweight State Management for Vue 3.0 built with composition API, inspired by Vuex.
 - [VueFort](https://github.com/SeregPie/VueFort) - Data modeling for Vue. Works for Vue 2 & 3.
+- [@korijn/vue-store](https://github.com/Korijn/vue-store) - Lightweight Vue 3 composition API-compatible store pattern library with undo/redo.
 
 ##### Redux
 
