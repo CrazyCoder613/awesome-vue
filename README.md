@@ -1385,6 +1385,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-hero-icons](https://github.com/matschik/vue-hero-icons) - A set of high-quality SVG icons, sourced from [@refactoringui/heroicons](https://github.com/refactoringui/heroicons), as Vue functional components.
 - [vue-heroicons](https://github.com/Kholid060/vue-heroicons) - Vue component for 104 premium [Heroicons UI](https://github.com/sschoger/heroicons-ui) svg icons
 - [vue-tabler-icons](https://github.com/alex-oleshkevich/vue-tabler-icons) - Vue components for [Tabler Icons](https://github.com/tabler/tabler-icons) SVG icons.
+- [oh-vue-icons](https://github.com/Renovamen/oh-vue-icons) - A Vue component for including inline SVG icons from different popular iconpacks easily.
 
 #### Marquee
 
@@ -2276,9 +2277,6 @@ _Set of components + responsive layout system_
 
 _UI frameworks for mobile_
 
-- [Ionic](https://github.com/ionic-team/ionic-framework) -  Mobile app development framework
-- [Native script](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications using NativeScript
-- [Vue Native](https://github.com/GeekyAnts/vue-native-core) - Build cross platform native mobile apps using JavaScript
 - [Framework7-Vue](https://github.com/framework7io/framework7) - Build full-featured iOS & Android apps using Framework7 & Vue.
 - [vux](https://github.com/airyland/vux) - [Chinese] Vue UI Components based on WeUI.
 - [vue-onsenui](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
