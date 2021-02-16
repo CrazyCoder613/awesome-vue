@@ -1385,6 +1385,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-hero-icons](https://github.com/matschik/vue-hero-icons) - A set of high-quality SVG icons, sourced from [@refactoringui/heroicons](https://github.com/refactoringui/heroicons), as Vue functional components.
 - [vue-heroicons](https://github.com/Kholid060/vue-heroicons) - Vue component for 104 premium [Heroicons UI](https://github.com/sschoger/heroicons-ui) svg icons
 - [vue-tabler-icons](https://github.com/alex-oleshkevich/vue-tabler-icons) - Vue components for [Tabler Icons](https://github.com/tabler/tabler-icons) SVG icons.
+- [oh-vue-icons](https://github.com/Renovamen/oh-vue-icons) - A Vue component for including inline SVG icons from different popular iconpacks easily.
 
 #### Marquee
 
@@ -1888,6 +1889,7 @@ _Date / datetime / time Picker_
 - [vue-business-hours](https://github.com/sbarry50/vue-business-hours) - Vue component for selecting business hours in an administration panel or dashboard.
 - [material-vue-daterange-picker](https://github.com/ly525/material-vue-daterange-picker) - a daterange picker of Material Design style for Vuejs 2.x, which is compatible with vuetify and friendly for mobile.
 - [vue-datepicker](https://github.com/mathieustan/vue-datepicker) - A clean & responsive datepicker with Material Design style for Vuejs 2.x. (date/month/quarter && date range picker) :new:
+- [@alireza-ab/vue-persian-date-picker](https://github.com/alireza-ab/vue-persian-datepicker) - A datepicker component for select persian date. **(single and range selection, select date and time, select with keyboard, customizable style, localization)**
 
 ##### Select
 
