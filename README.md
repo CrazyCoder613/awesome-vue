@@ -1857,7 +1857,7 @@ _Let the user create & edit data_
 - [vue-form-builder](https://github.com/openfext/vue-form-builder) - Build powerful vue form with JSON schema and composition api, popular ui frameworks such as Element UI, View UI, Ant Design Vue are supported. [Online Demo](https://openfext.github.io/vue-form-builder)
 - [vue-dynamic-inputs](https://github.com/taverasady/vue-dynamic-inputs) - Create dynamic forms with buefy from json [Online Demo](https://codepen.io/taverasady/pen/LYVzevo)
 - [Vue Flow Form](https://github.com/ditdot-dev/vue-flow-form) - Create conversational conditional-logic forms with Vue.js. [Online Demo](https://www.ditdot.hr/demo/vff/questionnaire/)
-- [vue-dd-form](https://github.com/marekmensa/vue-dd-form) - 📋 Build forms only by describing data nodes - without programming! [Online Demo](https://marekmensa.github.io/vue-dd-form/)
+- [Vue Described Data Form](https://github.com/marekmensa/vue-dd-form) - 📋 Build forms only by describing data nodes - without programming! [Online Demo](https://marekmensa.github.io/vue-dd-form/)
 
 ###### Date Picker
 
@@ -2566,6 +2566,7 @@ _Seamless scrolling_
 - [vue-paginatron](https://github.com/sbaidon/vue-paginatron) - Pagination component built with scoped-slot props for maximum flexibility.
 - [vue-ads-pagination](https://github.com/arnedesmedt/vue-ads-pagination) - A vue pagination component build with the css framework `tailwindcss`
 - [v-pagy](https://github.com/trandaison/v-pagy) - A lightweight and customizeable Bootstrap Pagination for Vue.
+- [v-paginator](https://github.com/Sitronik/v-paginator) - Simple page-by-page navigation for Vue.js based on your html templates with ssr support.
 
 #### Animation
 
