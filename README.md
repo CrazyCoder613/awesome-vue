@@ -858,6 +858,7 @@
 - [Realtime quiz framework](https://github.com/ably-labs/realtime-quiz-framework) - A starter kit built with NodeJS, VueJS and Ably providing the scalable base networking framework to host a live quiz
 - [LogChimp](https://github.com/logchimp/logchimp) - Open-source software to track your customer's feedback to build better products.
 - [Trooveo](https://github.com/joek85/trooveo) - Search, listen to YouTube videos (Audio Only), No YouTube Api.
+- [Yacht](https://github.com/Selfhostedpro/Yacht) - A Docker container management webui using Vuetify for a hassle free way of managing docker containers and projects.
 ### Commercial Products
 
 - [Wijmo](http://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
@@ -1562,6 +1563,7 @@ _Display non-editable events in a Calendar_
 - [vue-spring-calendar](https://github.com/boussadjra/vue-spring-calendar) - It's a Vue based component which provides the functionality of a full-calendar that shows daily events. the [`demo`](https://boussadjra.github.io/vue-spring-calendar/).
 - [vue-jquery-calendar](https://github.com/Parthfaladu/vue-jquery-calendar) - VueJS light weight wrapper component for [jquery ui datepicker](https://jqueryui.com/datepicker)
 - [vue-schedule-board](https://github.com/jinfang134/vue-schedule-board) - A easy-to-use component to show somebody's schedule list to help interview arrangement or visit arrangement.
+- [vue-lunar-calendar-pro](https://github.com/wangdaodao/vue-lunar-calendar-pro) - A vue component for lunar calendar. Uses [calendar.js](https://github.com/jjonline/calendar.js) for date operations.
 
 #### Map
 
@@ -2460,6 +2462,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [vue-form-container](https://github.com/VitorLuizC/vue-form-container) - A `Provider Component` that encapsulate your forms and handle their states and validations.
 - [ps-validation](https://github.com/PrimitiveSocial/ps-validation) - A Vue plugin that provides out-of-the-box data validation rules, very much inspired from Laravel validation system.
 - [vue-laravel-errors](https://github.com/Sohaib-Sherif/vue-laravel-errors) - A Vue.JS plugin that adds a global mixin which can be used to fill an errors variable from a laravel error response and display it as an object or array, can also be used as a local mixin.
+- [vue-input-validator](https://github.com/mediv0/vue-input-validator) - 🛡️ Highly extensible & customizable input validator for Vue 2
 
 #### Resize
 
