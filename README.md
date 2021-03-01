@@ -1278,7 +1278,6 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 - [vue-splash](https://github.com/MehdiKhoshnevisz/vue-splash) - A simple and cool splash plugin for vue.js 💦
 - [vue-ultimate-skeleton-cards](https://github.com/neelansh15/vue-ultimate-skeleton-cards) - The Ultimate, fully-customizable Skeleton Card plugin for Vue 🚀
 - [vue-wait-for](https://github.com/MeForma/vue-wait-for) - A loader manager for Vue.js 3 with reactive method
-- [vue-content-loader](https://github.com/egoist/vue-content-loader) - SVG component to create placeholder loading, like Facebook cards loading
 
 ##### Progress Bar
 
@@ -1607,6 +1606,7 @@ _Display non-editable events in a Calendar_
 - [vue-sounds](https://github.com/redcodemohammed/vue-sounds) - Easy to add sounds to your components.
 - [vue-soundcloud-player](https://github.com/matswainson/vue-soundcloud-player) - A custom Soundcloud player supporting single tracks & playlists
 - [vue-use-sound](https://github.com/Tahul/vue-use-sound) - A Vue Hook for playing sound effects.
+- [vue-flv-player](https://github.com/wangdaodao/vue-flv-player) - A Vue 2.x video player component based on flv.js.
 
 #### Infinite Scroll
 
