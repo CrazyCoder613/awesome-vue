@@ -3110,6 +3110,7 @@ _Integrate with services or other frameworks_
 - [Vuecket](https://github.com/OrienteerBAP/vuecket) - WebFramework where power of Vue.JS married with magic of [Apache Wicket](https://wicket.apache.org/)
 - [vue-ld](https://github.com/dashhudson/vue-ld) - Vue LaunchDarkly plugin and routing utilities
 - [Prisma](https://github.com/sherl0g/prisma) - Logs visualization client for @sherlog/cli
+- [vuetube](https://github.com/webistomin/vuetube) - 🚀 A fast, lightweight, lazyload vue component acting as a thin layer over the YouTube Iframe Player API which renders fast
 
 #### Vue CLI Plugins
 
@@ -3126,6 +3127,7 @@ _Integrate with services or other frameworks_
 - [vue-cli-plugin-clean](https://github.com/DevTony101/vue-cli-plugin-clean) - Vue CLI Plugin to help you clean and quickly set up your Vue app by adding some common tools and patterns
 - [vue-cli-plugin-mock](https://github.com/xuxihai123/vue-cli-plugin-mock) - Vue CLI Plugin to mock http request
 - [vue-cli-plugin-ci](https://github.com/P0ppoff/vue-cli-plugin-ci) - Vue CLI Plugin to generate CI agent config file to start project with CI
+- [vue-cli-plugin-capacitor](https://github.com/capacitor-community/vue-cli-plugin-capacitor) - A Vue CLI 3 Plugin for Capacitor
 
 ##### Google Analytics
 
