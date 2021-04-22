@@ -203,6 +203,8 @@
 - [Vue 3 Video Playlist](https://www.youtube.com/playlist?list=PLMLZt4pr7Aq6AfC_ynfeDbEk2hbMFGpHO) - Amazing Vue 3 tutorials and experiments
 - [Vue.js Workshops](https://public.vuejsworkshops.com) - Learn Vue 2, in browser, by building 3 applications: Landing page, Todos App and Podcasts aggregator.( Vue.js, Vue-Router, Vuex, Vue-Axios, Vue-Apollo )
  - [Vue.js Articles](https://thewebdev.info/category/javascript/vue/) - Assorted Vue 2 and 3 tutorials and articles.
+ - [Best vue.js Courses On YouTube](https://www.nbshare.io/blog/best-vue-js-courses-on-youtube/) - Handpicked list of best Vue.js tutorials on YouTube
+
 
 ### Job Portal
 
@@ -2927,6 +2929,7 @@ _LocalStorage etc._
 - [vuex-hooks](https://github.com/Goldziher/vuex-hooks) - Typescript enabled vuex composition-api hooks.
 - [vuex-composition-helpers](https://github.com/greenpress/vuex-composition-helpers) - A util package to use Vuex with Composition API easily.
 - [vuex-ts-enhance](https://github.com/zWingz/vuex-ts-enhance) - A tool to enhance `mapXXX` and `dispatch` methods hint
+- [vuex-masked-modules](https://github.com/Silksofthesoul/vuex-masked-modules) - A Vuex plugin put data structure of the module in localStorage, with the ability to mask or encrypt the data to make it difficult to explore. Designed for Vue 3 and Vuex 4.
 
 ###### Sync Between Tabs
 
