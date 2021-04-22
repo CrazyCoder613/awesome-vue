@@ -2475,7 +2475,6 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [laravel-vue-validator](https://github.com/val-bubbleflat/laravel-vue-validator) - Display errors from laravel validation rules
 - [vue-daval](https://github.com/deulos/vue-daval) - Super vue data validator. Easiness, simplicity, accurate.
 - [willvalidate](https://github.com/gustavoSoriano/willvalidate) - Validation Forms for Vue.js.
-- [vue-m-validator](https://github.com/silksofthesoul/vue-m-validator) - Model data validation library, for VueJs.
 - [vue-isyourpasswordsafe](https://github.com/Pitu/vue-isyourpasswordsafe) - A small utility written in Vue that checks if the given password has been leaked against the Have I Been Pwned API.
 - [vue-form-send](https://github.com/AlekseyPleshkov/vue-form-send) - A Vue.js directive for sending data from form and primitive validation
 - [FormVuelar](https://github.com/janiskelemen/formvuelar) - Vue form components with server-side validation in mind
@@ -2929,7 +2928,6 @@ _LocalStorage etc._
 - [vuex-hooks](https://github.com/Goldziher/vuex-hooks) - Typescript enabled vuex composition-api hooks.
 - [vuex-composition-helpers](https://github.com/greenpress/vuex-composition-helpers) - A util package to use Vuex with Composition API easily.
 - [vuex-ts-enhance](https://github.com/zWingz/vuex-ts-enhance) - A tool to enhance `mapXXX` and `dispatch` methods hint
-- [vuex-masked-modules](https://github.com/Silksofthesoul/vuex-masked-modules) - A Vuex plugin put data structure of the module in localStorage, with the ability to mask or encrypt the data to make it difficult to explore. Designed for Vue 3 and Vuex 4.
 
 ###### Sync Between Tabs
 
