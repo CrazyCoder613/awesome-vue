@@ -609,7 +609,6 @@
 - [Vuetify Swipeout](https://github.com/davidgaroro/vuetify-swipeout) - A swipe out example built with Vue 2 + Vuetify + Swiper.
 - [Vuetify Todo PWA](https://github.com/davidgaroro/vuetify-todo-pwa) - A simple Todo PWA built with Vue 2 + Vuex + Vuetify.
 - [Vue Todo PWA](https://github.com/davidgaroro/vue-todo-pwa) - A simple Todo PWA built with Vue 3 + Vuex + Bootstrap 5.
-- [Coinchartsvue is a cryptocurrency price chart based off Coinbase's original price chart](https://github.com/okandas/coinchartsvue) and  [Demo](http://coinchartsvuedeploy.vercel.app)
 
 ### Books
 
@@ -1829,6 +1828,7 @@ _Display non-editable events in a Calendar_
 - [vue-copy-to-clipboard](https://github.com/meforma/vue-copy-to-clipboard) - Vue.js 3 plugin to copy text to clipboard (Vue 3)
 - [vue-advanced-chat](https://github.com/antoine92190/vue-advanced-chat) - Feature-rich and fully customisable chat rooms component. Support files, images, videos, audio, emojis, customised actions, etc.
 - [vue-visual-filter](https://github.com/obadakhalili/vue-visual-filter) - 🕵️‍♂️ An unopinionated advanced visual filtering component for Vue 2 and 3.
+- [vue-easter-egg-trigger](https://github.com/webdevnerdstuff/vue-easter-egg-trigger) - This packages makes it nice and easy to add Easter Egg triggers to your Vue site.
 
 #### Tabs
 
