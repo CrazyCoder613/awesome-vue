@@ -2257,6 +2257,7 @@ _Layout for the overall / main view_
 - [vue-responsive-dash](https://github.com/bensladden/vue-responsive-dash) - A Responsive, Draggable & Resizable Dashboard (grid) made with vue and typescript.
 - [vue-masonry-wall](https://github.com/fuxingloh/vue-masonry-wall) - A pure vue responsive masonry layout without direct dom manipulation, ssr friendly and lazy loading.
 - [vue-horizontal-list](https://github.com/fuxingloh/vue-horizontal-list) - A pure vue responsive horizontal list layout with ssr support, mobile and touch friendly.
+- [vue-layout-system](https://github.com/leeboyin/vue-layout-system) - Vue components that solve daily layout problems.
 
 ### Frameworks
 
@@ -2536,7 +2537,6 @@ _Detect when components enter viewport_
 - [vue2-scrollspy](https://github.com/ibufu/vue2-scrollspy) - A scrollspy plugin and animated scroll-to.
 - [vue-trip-wire](https://github.com/lorrenrules/vue-trip-wire) - A custom directive for firing functions when an element reaches a designated point in the viewport, with option to import module with globally accessible functions.
 - [v-intersect](https://github.com/kholid060/v-intersect) - A Vue directive and component that detect element when it's visible or hidden on viewport
-- [vue-scrollama](https://github.com/vgshenoy/vue-scrollama) - A Vue component to easily setup scroll-driven interactions (aka scrollytelling).
 
 _Customize the scroll behavior_
 
