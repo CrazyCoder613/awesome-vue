@@ -87,7 +87,6 @@
     - [Canvas](#canvas)
     - [Link Preview](#link-preview)
     - [Tour](#tour)
-    - [Data Masking](#data-masking)
   - [UI Layout](#ui-layout)
   - [Frameworks](#frameworks)
     - [Responsive](#responsive)
@@ -1923,6 +1922,7 @@ _Date / datetime / time Picker_
 - [material-vue-daterange-picker](https://github.com/ly525/material-vue-daterange-picker) - a daterange picker of Material Design style for Vuejs 2.x, which is compatible with vuetify and friendly for mobile.
 - [vue-datepicker](https://github.com/mathieustan/vue-datepicker) - A clean & responsive datepicker with Material Design style for Vuejs 2.x. (date/month/quarter && date range picker) :new:
 - [@alireza-ab/vue-persian-datepicker](https://github.com/alireza-ab/vue-persian-datepicker) - A datepicker component for select persian date. **(single and range selection, select date and time, select with keyboard, customizable style, localization)**
+- [vue-easy-range-date-picker](https://github.com/HC200ok/vue-easy-range-date-picker) - A simple and easy VueJS (2.x) component for date range selection
 
 ##### Select
 
@@ -2220,10 +2220,6 @@ _Display images_
 
 - [vue-tour](https://github.com/pulsardev/vue-tour) - Lightweight and customizable tour plugin
 - [vue-page-guide](https://github.com/sschandi/vue-page-guide) - Page tour / guide plugin with directive
-
-#### Data Masking
-
-- [vue-manual-data-masking](https://github.com/HC200ok/vue-manual-data-masking) - A VueJS (2.x) component for manual data masking
 
 ### UI Layout
 
