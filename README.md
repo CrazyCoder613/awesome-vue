@@ -1111,6 +1111,7 @@
 - [Back Home/回家](https://flights.vincentc.us/) - A flight searching engine for the flights from oversea to China Mainland (and China to oversea) that still fly during COVID-19.
 - [Deadlines](https://deadlines.vercel.app) - An offline, simple deadline tracker made with Vue.js and localForage.
 - [Scraperbox](https://scraperbox.com) - Undetectable web scraping API. Built with Laravel and Vue.
+- [Darwin Analytics](https://www.darwin.so) - Tool for measuring and optimizing your site. Built with Vue3 and Vite.
 
 ### Interactive Experiences
 
@@ -2830,6 +2831,7 @@ _Internationalization / L10n / localization / translation_
 - [v-intl](https://github.com/vinayakkulkarni/v-intl) - Global Intl wrapper for your awesome Vue 3 app 🔉
 - [excel-vue-i18n](https://github.com/grafikri/excel-vue-i18n) - A plugin transforms excel file to i18n json format for translations.
 - [vue-i18n-lite](https://github.com/FrontLabsOfficial/vue-i18n-lite) - A super lightweight and minimal plugin that introduces internationalization into your Vue.js app with a simple API.
+- [v-google-translate](https://github.com/i7eo/v-google-translate) - A plugin that use google translate to internationalize your Vue.js app.
 
 #### Custom Events
 
