@@ -877,7 +877,6 @@
 - [Mythic table](https://gitlab.com/mythicteam/mythictable/) - A Free and Open Source virtual table top for playing Role Playing Games.
 - [GrandNode 2.0](https://github.com/grandnode/grandnode2/) - Open Source Cross Platform E-Commerce Solution based on .NET Core 5.0 and MongoDB / Azure CosmosDB / Amazon DocumentDB / VueJS
 - [Aimeos](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
-- [XIV ToDo](https://github.com/bourgeoisor/xivtodo) - Dashboards, completion trackers, tailored weekly and daily checklists and tools for Final Fantasy XIV.
 
 ### Commercial Products
 
@@ -1609,7 +1608,7 @@ _Display non-editable events in a Calendar_
 - [vue-googlemaps](https://github.com/Akryum/vue-googlemaps) - Vue 2.x components to integrate Google Maps.
 - [vue-static-map](https://github.com/eperedo/vue-static-map) - Vue 2.x simple component to generate an static google map
 - [vue-mapbox](https://github.com/soal/vue-mapbox) - Vue 2.x wrapper around Mapbox GL JS library that provides vueish-way to interact with the map.
-- [vue-cesium](https://github.com/zouyaoji/vue-cesium) - Vue 2.x & Vue 3.x components for Cesium.
+- [vue-cesium](https://github.com/zouyaoji/vue-cesium) - Vue 2.x components for Cesium.
 - [vue-async-gmaps](https://github.com/vanderb/vue-async-gmaps) - Let users decide to load google-maps script for better privacy
 - [@geospoc/v-mapbox](https://github.com/geospoc/v-mapbox) - Combine powers of Vue.js and Mapbox GL JS (Maintained fork of soal's vue-mapbox)
 - [@geospoc/v-mapbox-geocoder](https://github.com/geospoc/v-mapbox-geocoder) - Geocoder control for your awesome Mapbox library
@@ -2519,6 +2518,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [vue-laravel-errors](https://github.com/Sohaib-Sherif/vue-laravel-errors) - A Vue.JS plugin that adds a global mixin which can be used to fill an errors variable from a laravel error response and display it as an object or array, can also be used as a local mixin.
 - [vue-input-validator](https://github.com/mediv0/vue-input-validator) - 🛡️ Highly extensible & customizable input validator for Vue 2
 - [@vuito/vue](https://github.com/mathix420/vuito) - Simple, lightweight, isomorphic, and template-based validation library.
+- [vue-tiny-validate](https://github.com/FrontLabsOfficial/vue-tiny-validate) - Tiny (2.5KB minified) Vue Validate Composition.
 
 #### Resize
 
