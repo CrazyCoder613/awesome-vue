@@ -8,6 +8,7 @@
 ## Awesome Vue.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/vuejs/awesome-vue)
 
 > A curated list of awesome things related to Vue.js
+
 - [Resources](#resources)
   - [Official Resources](#official-resources)
   - [External Resources](#external-resources)
@@ -739,7 +740,7 @@
 - [Goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI built with VueJS, Golang, and Bulma CSS
 - [promptie](https://github.com/alicin/promptie) - A framework written in Vue.js for creating command-line like interfaces in web browsers.
 - [Hare](https://github.com/clarkdo/hare) - 🐇 Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js
-- [Paper-Dashboard](https://github.com/cristijora/vue-paper-dashboard) -Creative Tim Paper Dashboard made for Vue
+- [Paper-Dashboard](https://github.com/creativetimofficial/vue-paper-dashboard) -Creative Tim Paper Dashboard made for Vue
 - [AdminLTE-VueJS2](https://github.com/otezz/AdminLTE-VueJS2) - An open source project that implements VueJS (v2.x) on AdminLTE.
 - [Material Dashboard](https://github.com/lucduong/vue-material-dashboard) - Creative Tim Material Dashboard made for Vue
 - [Explore-Github](https://github.com/mazipan/explore-github) - VueJS 2 Github Explorer Using API v3
@@ -1569,8 +1570,7 @@ _Display time / date / age_
 - [v-idle](https://github.com/malekim/v-idle) - A Vue.js plugin to detect idle/non-active users.
 - [v-digital-time-picker](https://github.com/runyasak/v-digital-time-picker) - Digital Time Picker for Vuetify.
 - [vue-horizontal-timeline](https://github.com/guastallaigor/vue-horizontal-timeline) - Just a simple horizontal timeline component made with Vue.js.
-- [vue-timer-hook](https://github.com/riderx/vue-timer-hook) - Vue 3 Timer module inspired by react-timer-hook
- 
+
 #### Calendar
 
 _Display non-editable events in a Calendar_
@@ -2293,6 +2293,7 @@ _Layout for the overall / main view_
 - [vue-masonry-wall](https://github.com/fuxingloh/vue-masonry-wall) - A pure vue responsive masonry layout without direct dom manipulation, ssr friendly and lazy loading.
 - [vue-horizontal-list](https://github.com/fuxingloh/vue-horizontal-list) - A pure vue responsive horizontal list layout with ssr support, mobile and touch friendly.
 - [vue-layout-system](https://github.com/leeboyin/vue-layout-system) - Vue components that solve daily layout problems.
+- [simple-vue-grid](https://github.com/harmyderoman/simple-vue-grid) - Simple grid containers that will help you to build layouts for your app.
 
 ### Frameworks
 
