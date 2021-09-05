@@ -885,7 +885,6 @@
 - [Aimeos](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
 - [XIV ToDo](https://github.com/bourgeoisor/xivtodo) - Dashboards, completion trackers, tailored weekly and daily checklists and tools for Final Fantasy XIV.
 - [QuickTok](https://github.com/statickidz/quicktok) - TikTok popular trends viewer.
-- [Interface X](https://github.com/empathyco/x) - UI Search&Discovery components to rapidly build beautiful search experiences
 
 ### Commercial Products
 
@@ -2400,6 +2399,7 @@ _Set of components without layout system_
 - [Equal UI](https://github.com/quatrochan/Equal) - Vue UI kit based on TypeScript 🧬
 - [slim-ui](https://github.com/mevinoth/slim-ui) - Minimal UI components based on Vue.js
 - [Vue Component Development Kit](https://github.com/christiankienle/cdk) - Unstyled, highly tested and flexible Vue components/mixins/plugins.
+- [element-pro-components](https://github.com/tolking/element-pro-components) A component library for Vue 3 base on element-plus
 
 #### Admin Template
 
