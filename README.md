@@ -1335,6 +1335,7 @@ _A slim progress bar at the top of the page_
 - [vue-twitter-counter](https://github.com/LucasLeandro1204/vue-twitter-counter) - Counter component inspired in Twitter with Vue
 - [vue-ins-progress-bar](https://github.com/meloalright/vue-ins-progress-bar) - A Vue component of ins-style progress bar 一款 ins 风格的 vue 进度条组件
 - [vue-next-progressbar](https://github.com/jambonn/vue-next-progressbar) - Slim progress bars(1KB gzipped) for Vue 3.
+- [vue3-progress](https://github.com/marcoschulte/vue3-progress) - Fully customizable vue3 plugin to display a progress bar while waiting for something, e.g. http requests
 
 #### Tooltip
 
@@ -3225,6 +3226,7 @@ _Integrate with services or other frameworks_
 - [vue-cli-plugin-mock](https://github.com/xuxihai123/vue-cli-plugin-mock) - Vue CLI Plugin to mock http request
 - [vue-cli-plugin-ci](https://github.com/P0ppoff/vue-cli-plugin-ci) - Vue CLI Plugin to generate CI agent config file to start project with CI
 - [vue-cli-plugin-capacitor](https://github.com/capacitor-community/vue-cli-plugin-capacitor) - A Vue CLI 3 Plugin for Capacitor
+- [vue-cli-plugin-chrome-extension-cli](https://github.com/sanyu1225/vue-cli-plugin-chrome-extension-cli) - Vue CLI Plugin generat chrome extension template
 
 ##### Google Analytics
 
