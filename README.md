@@ -1335,6 +1335,7 @@ _A slim progress bar at the top of the page_
 - [vue-twitter-counter](https://github.com/LucasLeandro1204/vue-twitter-counter) - Counter component inspired in Twitter with Vue
 - [vue-ins-progress-bar](https://github.com/meloalright/vue-ins-progress-bar) - A Vue component of ins-style progress bar 一款 ins 风格的 vue 进度条组件
 - [vue-next-progressbar](https://github.com/jambonn/vue-next-progressbar) - Slim progress bars(1KB gzipped) for Vue 3.
+- [vue3-progress](https://github.com/marcoschulte/vue3-progress) - Fully customizable vue3 plugin to display a progress bar while waiting for something, e.g. http requests
 
 #### Tooltip
 
@@ -3104,6 +3105,7 @@ _Utilities for building / compiling / bundling / loading assets_
 - [vue-live](https://github.com/vue-styleguidist/vue-live) - A component to demo components, inspired by react-live.
 - [vue-safe-html](https://github.com/ecosia/vue-safe-html) - Vue.js directive which renders sanitised HTML dynamically.
 - [v-fetch](https://github.com/shaynekasai/v-fetch) - Vue.js directive to make AJAX requests.
+- [vue-use-model-helpers](https://github.com/sergiocarracedo/vue-use-model-helpers) - Helper to map properties to local Ref using Composition API for Vue 2.x and 3
 
 #### Web Workers
 
