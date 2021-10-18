@@ -253,7 +253,6 @@
 - [VueJS Turkey - Telegram Group](https://t.me/vuejsTR)
 - [Vue Turkey - Twitter Account](https://twitter.com/Vue_Turkey)
 - [Vue Türkiye - Kommunity Page](https://kommunity.com/vue-turkey)
-- [VueJS Singapore - Telegram Group](https://t.me/vuejssg)
 
 
 ### Conferences
@@ -1421,7 +1420,6 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-icon-font](https://github.com/ganl/vue-icon-font) - A iconfont plugin for Vuejs (support Font-class and Symbol).
 - [vue-ionicons](https://github.com/mazipan/vue-ionicons) - Vue Icon Set Components from Ionic Team.
 - [vue-ico](https://github.com/paulcollett/vue-ico) - Dead easy icons for Vue with drop-in browser support & selective bundling
-- [vue-icomoon](https://github.com/aykutkardas/vue-icomoon) - With vue-icomoon you can easily use the icons you have selected or created in icomoon.
 - [mdi-vue](https://github.com/therufa/mdi-vue) - Material Design Icon components for Vuejs
 - [vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome) - Font Awesome 5 Vue component
 - [g-icon](https://github.com/nash403/g-icon) - Simple icon component for your svg icons (compatible with Font Awesome-like font toolkits)
@@ -1641,6 +1639,7 @@ _Display non-editable events in a Calendar_
 - [x5-gmaps](https://github.com/xon52/x5-gmaps) - lightweight Google Maps plugin for Vue 2.x
 - [vue2-gmap-custom-marker](https://github.com/eregnier/vue2-gmap-custom-marker) - vue google map custom marker component
 - [vue3-openlayers](https://github.com/MelihAltintas/vue3-openlayers) - Vue 3 components to work with OpenLayers.
+- [vue-mars3d](https://github.com/marsgis/mars3d-vue-template) - Vue 2.x 3D earth visualization JS development platform.
 
 #### Audio / Video
 
