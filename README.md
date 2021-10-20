@@ -626,6 +626,7 @@
 - [Maxim Web Chat](https://github.com/maxim-top/maxim-web) - A chat demo using [MaximTop](https://www.maximtop.com)'s IM SDK (floo), 使用美信拓扑 IM SDK 实现的聊天App 示例.
 - [vue-cli-3-tailwind-axios-starter](https://github.com/Ted2xmen/vue-cli-3-tailwind-axios-starter) - A boilerplate using Tailwind, Axios-ready, Vuex and Router
 - [vue-cli-3-wave-ui-starter](https://github.com/Ted2xmen/vue-cli-3-wave-ui-starter) - A boilerplate using Wave UI + Vuex and Router
+- [CVue-Awesome](https://github.com/coskuncayemre/CVue-Awesome) Auto Resume Builder by [Emre Coşkunçay](https://github.com/coskuncayemre)
 
 ### Books
 
@@ -1354,6 +1355,7 @@ Tooltips / popovers
 - [k-pop](https://github.com/ChristianKienle/k-pop) - Simple popover component based on [popper.js](https://popper.js.org/). Highly customizable. Comes with themes. Supports custom triggers and can listen to any event.
 - [@adamdehaven/vue-custom-tooltip](https://github.com/adamdehaven/vue-custom-tooltip) - Vue 2 & 3 :tada: customizable, reactive, and reusable tooltip component that supports plugin options, props, and multiple use-cases. Also works with SSR (e.g. VuePress, Nuxt) and includes TypeScript types. (Vue 3 is available on `next` branch/npm tag)
 - [vue-use-popperjs](https://github.com/iendeavor/vue-use-popperjs) - Vue 2 & 3 popper hook powered by @popperjs
+- [vue-follow-tooltip](https://github.com/gVguy/vue-follow-tooltip) - Tiny tooltip directive for Vue 3.
 
 #### Overlay
 
@@ -1641,6 +1643,7 @@ _Display non-editable events in a Calendar_
 - [x5-gmaps](https://github.com/xon52/x5-gmaps) - lightweight Google Maps plugin for Vue 2.x
 - [vue2-gmap-custom-marker](https://github.com/eregnier/vue2-gmap-custom-marker) - vue google map custom marker component
 - [vue3-openlayers](https://github.com/MelihAltintas/vue3-openlayers) - Vue 3 components to work with OpenLayers.
+- [vue-mars3d](https://github.com/marsgis/mars3d-vue-template) - Vue 2.x 3D earth visualization JS development platform.
 
 #### Audio / Video
 
