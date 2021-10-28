@@ -628,6 +628,7 @@
 - [vue-cli-3-tailwind-axios-starter](https://github.com/Ted2xmen/vue-cli-3-tailwind-axios-starter) - A boilerplate using Tailwind, Axios-ready, Vuex and Router
 - [vue-cli-3-wave-ui-starter](https://github.com/Ted2xmen/vue-cli-3-wave-ui-starter) - A boilerplate using Wave UI + Vuex and Router
 - [CVue-Awesome](https://github.com/coskuncayemre/CVue-Awesome) Auto Resume Builder by [Emre Coşkunçay](https://github.com/coskuncayemre)
+- [Vue 3 TypeScript Library Template](https://github.com/TinkoLiu/vue3-ts-lib-template) A simple but complete library template for Vue 3, supports generating `.vue.d.ts` 
 
 ### Books
 
@@ -2968,6 +2969,7 @@ _LocalStorage etc._
 - [pinia-shared-state](https://github.com/wobsoriano/pinia-shared-state) - A lightweight plugin to sync your pinia state across browser tabs.
 - [pinia-undo](https://github.com/wobsoriano/pinia-undo) - Undo/Redo plugin for pinia.
 - [pinia-xstate](https://github.com/wobsoriano/pinia-xstate) - Put your xstate state machines into a global pinia store.
+- [pinia-persistedstate](https://github.com/JD-Wang/pinia-persistedstate) - Persist Vuex state with localStorage, like vuex-persistedstate.
 
 ##### Authentication/Authorization
 
