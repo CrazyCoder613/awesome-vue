@@ -1257,6 +1257,7 @@ _Tables / data grids_
 - [vue-datagrid](https://github.com/revolist/vue-datagrid) - Vue grid wrapper for powerful webcomponent revo-grid with excel like rich edit and behavior.
 - [element-ui-sticky-table](https://github.com/iendeavor/element-ui-sticky-table) - Sticky for element-ui table
 - [vue-dataset](https://github.com/kouts/vue-dataset) - A set of Vue.js components to display datasets with filtering, paging, and sorting capabilities!
+- [jz-gantt](https://github.com/jeremyjone/jz-gantt) - A high-performance Vue gantt component, which includes highly customizable table columns, dynamic update data, freely drag the progress bar, switch header, etc.
 
 #### Notification
 
@@ -2376,6 +2377,7 @@ _Set of components + responsive layout system_
 - [vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - A Vue.js 3.0 UI customizable UI Framework.
 - [Qui-max](https://github.com/Qvant-lab/qui-max) - A Vue 3.x Design System for Web
 - [Naive UI](https://github.com/TuSimple/naive-ui) - A Vue 3 Component Library Fairly Complete, Customizable Themes, Uses TypeScript, Not Too Slow Kinda Interesting
+- [Element Plus](https://github.com/element-plus/element-plus) - A Vue 3 UI Framework.
 
 
 #### Mobile
@@ -3172,6 +3174,7 @@ Payment utilities.
 - [vue-stripe-checkout](https://github.com/jofftiquez/vue-stripe-checkout) - A simple vue plugin for Stripe checkout.
 - [vue-stripe-payment](https://github.com/samturrell/vue-stripe-payment) - Vue wrapper for jquery.payment by Stripe.
 - [vue-stripe-elements](https://github.com/ectoflow/vue-stripe-elements) - Vue component collection for Stripe.js
+- [vue-stripe-js](https://github.com/ectoflow/vue-stripe-js) - Vue 3 components for Stripe.js
 
 ##### Paypal
 
