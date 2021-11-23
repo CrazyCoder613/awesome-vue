@@ -1138,6 +1138,7 @@
 - [Scraperbox](https://scraperbox.com) - Undetectable web scraping API. Built with Laravel and Vue.
 - [Darwin Analytics](https://www.darwin.so) - Tool for measuring and optimizing your site. Built with Vue3 and Vite.
 - [Pinterest video downloader](https://www.pinterestdownloder.video/) - Tool for Downloading pinterest videos in HD
+- [Scrumfast](https://www.scrumfast.com) - Extremely intuitive project management scrum tool.
 
 ### Interactive Experiences
 
@@ -3445,7 +3446,6 @@ _Render Vue application in the browser only_
 - [vue-webpack-chrome-extension-template](https://github.com/ALiangLiang/vue-webpack-chrome-extension-template) - Template for quick creation of Chrome extension on Vuejs hot reloading when developing.
 - [**vue-auth-boilerplate**](https://github.com/VPetar/vue-auth-boilerplate) - Vue SPA boilerplate with Router/Vuex/CLI3 and auth functions (cool looking register and login). Works with minimal setup out of the box with [**laravel-api-boilerplate-jwt**](https://github.com/VPetar/laravel-api-boilerplate-jwt).
 - [**vue-atomic-design**](https://github.com/alexander-elgin/vue-atomic-design) - Vue front-end boilerplate based on atomic design methodology.
-- [vue3-compact-template](https://github.com/upupming/vue3-compact-template) - ⚡️ A simple and compact vue 3 template with current cutting edge front end technologies.
 
 #### Universal
 
