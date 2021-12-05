@@ -706,6 +706,7 @@
 
 ### Open Source
 
+- [KodaDot](https://github.com/kodadot/nft-gallery) - NFT Marketplace on Polkadot funded as public good, written in Vue.js
 - [PageKit](https://github.com/pagekit/pagekit) - Modular and lightweight CMS built with Symfony components and Vue.js.
 - [npmcharts.com](https://github.com/cheapsteak/npmcharts.com) - Compare npm packages and spot download trends.
 - [Koel](https://github.com/phanan/koel) - A personal music streaming server that works.
@@ -2902,7 +2903,6 @@ _Internationalization / L10n / localization / translation_
 - [vue-i18n-lite](https://github.com/FrontLabsOfficial/vue-i18n-lite) - A super lightweight and minimal plugin that introduces internationalization into your Vue.js app with a simple API.
 - [v-google-translate](https://github.com/i7eo/v-google-translate) - A component that use google translate to internationalize your Vue.js app.
 - [fluent-vue](https://github.com/Demivan/fluent-vue) - Internationalization plugin for Vue.js (2 and 3). Vue.js integration for Fluent.js - JavaScript implementation of Project Fluent
-- [localize-vue-2x](https://github.com/uiwebkit/localize-vue-2x) - Uni Localization Vue 2 integration example, with the fully customizable Language Menu widget and the custom translations. Built with Custom Elements and Web Components. Powered by UiWebKit.
 
 #### Custom Events
 
