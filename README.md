@@ -2815,7 +2815,7 @@ _Utilities not directly related to the UI_
 - [vue-underscore](https://github.com/HKskn/vue-underscore) - simple vue plugin to implement underscore
 - [vue-lazy-calc](https://github.com/dreambo8563/vue-lazy-calc) - A simple calculation plugin in lazy && chaining way with strong typed.
 - [vue-loadable](https://github.com/VitorLuizC/vue-loadable) - A plugin to improve loading state control with pretty simple methods, decorators and helpers.
-- [vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition API utils works for Vue 2.x and 3.x.
+- [vueuse](https://github.com/antfu/vueuse) - Collection of essential Vue Composition API utils works for Vue 2.x and 3.x.
 - [vue-composable](https://github.com/pikax/vue-composable) - Vue composition-api composable components. i18n, validation, pagination, fetch, etc. +30 variable composable functions.
 - [vue-condition-watcher](https://github.com/runkids/vue-condition-watcher) - 🕶 Vue Composition API for automatic fetch data when condition has been changed.
 - [vue-use](https://github.com/openfext/vue-use) - Use magic Vue Composition APIs to provide a lot of reusable logic, such as form, table and loading, etc.
@@ -2902,6 +2902,7 @@ _Internationalization / L10n / localization / translation_
 - [vue-i18n-lite](https://github.com/FrontLabsOfficial/vue-i18n-lite) - A super lightweight and minimal plugin that introduces internationalization into your Vue.js app with a simple API.
 - [v-google-translate](https://github.com/i7eo/v-google-translate) - A component that use google translate to internationalize your Vue.js app.
 - [fluent-vue](https://github.com/Demivan/fluent-vue) - Internationalization plugin for Vue.js (2 and 3). Vue.js integration for Fluent.js - JavaScript implementation of Project Fluent
+- [localize-vue-2x](https://github.com/uiwebkit/localize-vue-2x) - Uni Localization Vue 2 integration example with the fully customizable Language Menu widget and the custom translations built with Custom Elements and Web Components.
 
 #### Custom Events
 
@@ -2931,7 +2932,7 @@ _LocalStorage etc._
 - [vue-universal-cookies](https://github.com/S64/vue-universal-cookies) Isomorphic cookies plugin for Vue.js / Nuxt.js supports Browser, Express, http (node).
 - [vue2-storage](https://github.com/yarkovaleksei/vue2-storage) Browser storage for Vue.js app
 - [vue-warehouse](https://github.com/bazzite/vue-warehouse) A Cross-browser storage for Vue.js and Nuxt.js, with plugins support and easy extensibility based on Store.js.
-- [vue-storage-watcher](https://github.com/dreambo8563/vue-storage-watcher) / [Vue 3 version](https://github.com/dreambo8563/next-vue-storage-watcher) - A reactive localStorage/sessionStorage plugin for Vue.js with strong typed for Vue 2 / Vue 3.
+- [vue-storage-watcher](https://github.com/dreambo8563/vue-storage-watcher) - A reactive localStorage/sessionStorage plugin for Vue.js with strong typed.
 - [vue-use-local-storage](https://github.com/HJ29/vue-use-local-storage) - A composition api to persist and rehydrate reactive data to local storage for vue 3.
 
 #### State Management
