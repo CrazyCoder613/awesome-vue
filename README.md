@@ -903,6 +903,7 @@
 - [Balancer](https://github.com/balancer-labs/frontend-v2) - A Decentralized Finance app that runs on Ethereum. 
 - [Materio Free Vuetify VueJS Laravel Admin Template](https://github.com/themeselection/materio-vuetify-vuejs-laravel-admin-template-free) - Open-source & easy to use Vuetify Vuejs Laravel Admin Template with Elegant Design & Unique Layout.
 - [NuxTube](https://github.com/joek85/NuxTube) - YouTube app for privacy, made with NuxtJs.
+- [Dashy](https://github.com/lissy93/dashy) - A self-hosted startpage, with an easy to use visual editor, status checking, themes, widgets and tons more
 
 ### Commercial Products
 
@@ -1636,6 +1637,7 @@ _Display non-editable events in a Calendar_
 - [vue-lunar-calendar-pro](https://github.com/wangdaodao/vue-lunar-calendar-pro) - A vue component for lunar calendar. Uses calendar.js for date operations.
 - [vue-sweet-calendar](https://github.com/maryayi/vue-sweet-calendar) - A simple and sweet vue.js calendar
 - [vue-datepicker-ui](https://github.com/edisdev/vue-datepicker-ui) - A datepicker component for vue.js
+- [vue-datepicker-next](https://github.com/mengxiong10/vue-datepicker-next) - Vue 3.x component for datepicker / timepicker / datetimepicker / calendar
 
 #### Map
 
@@ -1987,6 +1989,7 @@ _Date / datetime / time Picker_
 - [@alireza-ab/vue-persian-datepicker](https://github.com/alireza-ab/vue-persian-datepicker) - A datepicker component for select persian date. **(single and range selection, select date and time, select with keyboard, customizable style, localization)**
 - [vue-easy-range-date-picker](https://github.com/HC200ok/vue-easy-range-date-picker) - A simple and easy VueJS (2.x) component for date range selection
 - [vue3-date-time-picker](https://github.com/Vuepic/vue3-date-time-picker) - The most complete date picker solution for Vue 3
+- [vue-datepicker-next](https://github.com/mengxiong10/vue-datepicker-next) - Vue 3.x component for datepicker / timepicker / datetimepicker / calendar
 
 ##### Select
 
@@ -2906,6 +2909,7 @@ _Internationalization / L10n / localization / translation_
 - [v-google-translate](https://github.com/i7eo/v-google-translate) - A component that use google translate to internationalize your Vue.js app.
 - [fluent-vue](https://github.com/Demivan/fluent-vue) - Internationalization plugin for Vue.js (2 and 3). Vue.js integration for Fluent.js - JavaScript implementation of Project Fluent
 - [localize-vue-2x](https://github.com/uiwebkit/localize-vue-2x) - Uni Localization Vue 2 integration example. Customizable Language Menu widget built with Web Components.
+- [localize-vue-3x](https://github.com/uiwebkit/localize-vue-3x) - Uni Localization Vue 3 integration example. Customizable Language Menu widget built with Web Components.
 
 #### Custom Events
 
