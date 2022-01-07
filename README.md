@@ -2391,7 +2391,7 @@ _Set of components + responsive layout system_
 - [Qui-max](https://github.com/Qvant-lab/qui-max) - A Vue 3.x Design System for Web
 - [Naive UI](https://github.com/TuSimple/naive-ui) - A Vue 3 Component Library Fairly Complete, Customizable Themes, Uses TypeScript, Not Too Slow Kinda Interesting
 - [Element Plus](https://github.com/element-plus/element-plus) - A Vue 3 UI Framework.
-- [AgnosticUI](https://www.agnosticui.com/ ) - Accessible Vue 3 Component Primitives that also work with React, Svelte, and Angular!
+
 
 #### Mobile
 
@@ -2585,6 +2585,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [vue-input-validator](https://github.com/mediv0/vue-input-validator) - 🛡️ Highly extensible & customizable input validator for Vue 2
 - [@vuito/vue](https://github.com/mathix420/vuito) - Simple, lightweight, isomorphic, and template-based validation library.
 - [vue-tiny-validate](https://github.com/FrontLabsOfficial/vue-tiny-validate) - Tiny (2.5KB minified) Vue Validate Composition.
+- [vest](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
 
 #### Resize
 
