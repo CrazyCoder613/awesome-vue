@@ -1743,6 +1743,7 @@ _Display non-editable events in a Calendar_
 - [vue-pipeline](https://github.com/jinfang134/vue-pipeline) - A easy-to-use component to show beautiful responsive pipeline like jenkins blue ocean plugin.
 - [vnodes](https://github.com/txlabs/vnodes) - General purpose components to create svg interactive graphs, diagrams or node based visual tools.
 - [v-network-graph](https://github.com/dash14/v-network-graph) - An interactive SVG based network-graph visualization component for Vue 3.
+- [coya](https://github.com/AlexanderMykulych/coya) - Diagram drawing library (vue3 only)
 
 #### Social Sharing
 
@@ -2394,7 +2395,7 @@ _Set of components + responsive layout system_
 - [Naive UI](https://github.com/TuSimple/naive-ui) - A Vue 3 Component Library Fairly Complete, Customizable Themes, Uses TypeScript, Not Too Slow Kinda Interesting
 - [Element Plus](https://github.com/element-plus/element-plus) - A Vue 3 UI Framework.
 - [AgnosticUI](https://www.agnosticui.com/ ) - Accessible Vue 3 Component Primitives that also work with React, Svelte, and Angular!
-
+- [Unge UI](https://github.com/UngeUI/ungeui) - A Vue 3.x Component Library. Complete documentation support and both Chinese and English.
 #### Mobile
 
 _UI frameworks for mobile_
