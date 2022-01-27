@@ -1490,6 +1490,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-file-toolbar-menu](https://github.com/motla/vue-file-toolbar-menu) - UI file/toolbar menus for Vue apps
 - [v-dropdown-menu](https://github.com/RadKod/v-dropdown-menu) - Customizable dropdown menu plugin for vuejs. SSR supported.
 - [vue-bottom-sheet](https://github.com/webzlodimir/vue-bottom-sheet) - A swipeable bottom sheet component for Vue.js created with Hammer.js
+- [SDropdown](https://github.com/storinka/dropdown) - Highly customizable, simple and modern Vue 3 dropdown component.
 
 #### Minus Plus Input
 
@@ -2374,7 +2375,7 @@ _Set of components + responsive layout system_
 - [Fundamental Vue](https://github.com/SAP/fundamental-vue) - Components based on SAP Fiori Fundamentals.
 - [Framevuerk](https://github.com/framevuerk/framevuerk) - 🚀 Fast, Responsive, Without Dependencies, Both Direction Support and Configurable UI Framework based on Vue.js.
 - [@Carbon/vue](https://github.com/carbon-design-system/carbon-components-vue) - Carbon Design System components from the @carbon team.
-- [Inkline](https://github.com/inkline/inkline/) - Inkline is a modern UI/UX Framework for Vue.js designed for creating flawless responsive web applications.
+- [Inkline](https://github.com/inkline/inkline/) - Inkline is the intuitive UI Components library that gives you a developer-friendly foundation for building Vue.js 3 Design Systems.
 - [vue-awesome-mui](https://github.com/Wscats/vue-awesome-mui) - A Vue.js 2.0 MUI Component for Web
 - [MDBootstrap](https://github.com/mdbootstrap/Vue-Bootstrap-with-Material-Design) - Powerful UI toolkit based on the latest Bootstrap 4 and Vue 2.6.10, providing a set of slick, responsive page templates, layouts, components and widgets to rapidly build responsive, mobile-first websites and apps.
 - [vue-material-adapter](https://github.com/pgbross/vue-material-adapter) - Integration of Material Components for Vue.js which follows the best practices recommended by Google: Using Foundations and Adapters
