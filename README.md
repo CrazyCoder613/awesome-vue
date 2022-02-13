@@ -1422,7 +1422,6 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-it-bigger](https://github.com/haiafara/vue-it-bigger) - A simple image / (YouTube) video lightbox component for Vue.js.
 - [v3confirm](https://github.com/malekim/v3confirm) - A plugin dedicated for vue3 to show confirm dialog modal.
 - [vue3-promise-dialog](https://github.com/rlemaigre/vue3-promise-dialog) - Let's you create promise based dialogs in Vue 3 (Composition or Options API) with ease !
-- [vue3-side-panel](https://github.com/headmandev/vue3-side-panel) - 🔥 Easy to use and flexible modal sidebar component for Vue3.
 
 #### Parallax
 
@@ -1775,6 +1774,7 @@ _Display non-editable events in a Calendar_
 - [reactivesearch-vue](https://github.com/appbaseio/reactivesearch) - UI components for building data-driven apps with Elasticsearch
 - [vue-search-panel](https://github.com/TheoXiong/vue-search-panel) - A Vue component for searching with suggestions
 - [vue-json-search](https://github.com/Uninen/vue-json-search) - Headless Vue 3.x component for easy and simple json-based search
+- [vue-search-input](https://github.com/kouts/vue-search-input) - A Vue 3 search input component, inspired by the global search input of Storybook and GitHub.
 
 #### Miscellaneous
 
