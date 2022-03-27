@@ -3324,7 +3324,6 @@ _Integrate with services or other frameworks_
 - [codesandbox](https://codesandbox.io/s/vue-vue) - An online IDE and prototyping tool for rapid Vue development.
 - [vue-dom-hints](https://github.com/privatenumber/vue-dom-hints) - 💡 Get hints in the DOM. Minimal Vue devtool alternative.
 - [components-helper](https://github.com/tolking/components-helper) - Based on the documents to provide code prompt files for vue component library.
-- [vue-unicorn-log](https://github.com/webdevnerdstuff/vue-unicorn-log) - A magical 🦄 plugin to make coloring the console output easier and more flexible.
 
 #### Inspect
 
@@ -3469,6 +3468,7 @@ _Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generato
 - [vue-composable-starter](https://github.com/Tahul/vue-composable-starter) - 🪝 Minimalist starting point for your next Vue composable.
 - [Vuetify-tailwind-animate-starter](https://github.com/GoodManWEN/vuetify-tailwind-animate-starter) - A vue-cli starter template for vuetify + tailwindcss + animate.css.
 - [vuejs-vuetify-structured-template boilerplate](https://github.com/huogerac/crud-vuetify-structured-template) - A vue-cli template for a full-featured Vuejs + Vuetify + Great structure + API Ready
+- [vue-component-starter](https://github.com/peterroe/vue-component-starter) - A template to help you create vue3.x component.
 #### Client
 
 _Render Vue application in the browser only_
