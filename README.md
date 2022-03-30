@@ -1338,6 +1338,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 - [vue-wait-for](https://github.com/MeForma/vue-wait-for) - A loader manager for Vue.js 3 with reactive method
 - [vue-content-loader](https://github.com/egoist/vue-content-loader) - SVG component to create placeholder loading, like Facebook cards loading
 - [vue3-circle-progress](https://github.com/delowardev/vue3-circle-progress) - Highly customizable Vue.js 3 circular progressbar component.
+- [uspin](https://github.com/peterroe/uspin) - A vue3 component that adds a spin mask at load time.🔄
 
 ##### Progress Bar
 
@@ -2063,6 +2064,7 @@ _Date / datetime / time Picker_
 - [vue-card-swipe](https://github.com/eshengsky/vue-card-swipe) - A touch slider for vue.js, support sliding in any direction to switch cards, compatible with PC and mobile.
 - [vue-drag-n-drop](https://github.com/smaharj1/vue-drag-and-drop-kanban) - A simple kanban board where the items can be dragged and dropped from the list on to the board.
 - [vue-card-stack](https://github.com/rodleviton/vue-card-stack) - Stackable, swipeable, tweakable Vue card component.
+- [vue-drag-drop-snap](https://github.com/mrfade/vue-drag-drop-snap) - A dependency-free Vue component for drag and drop with snapping.
 
 ##### Autocomplete
 
@@ -2197,6 +2199,7 @@ _Display images_
 - [vue-cosha](https://github.com/kn0wn/vue-cosha) - 🎨 An easy to use vue directive that places a colourful shadow behind any image
 - [vue-image-kit](https://github.com/guastallaigor/vue-image-kit) - Vue.js Image Kit Component with Lazy Load built in and Responsive Images.
 - [vue-preview-imgs](https://github.com/hzpeng57/vue-preview-imgs) - A picture preview plugin for Vue3
+- [awesome-image](https://github.com/newbeea/awesome-image) - An universal image component for Vue2 / Vue3 / Nuxt with Lazyload / Responsive / Progressive / Auto-WebP / WebGL Filter / WebGL Transition supported.
 
 ##### Video Manipulation
 
@@ -2485,6 +2488,7 @@ _Set of admin template_
 - [Vue-Admin-Template](https://github.com/Mani1124/vue-admin-template) - A beautiful free vuejs admin template, designed using vuetify and apexcharts. [Live Demo](https://mani1124.github.io)
 - [Admin One Vue 3 Tailwind dashboard](https://github.com/justboil/admin-one-vue-tailwind) - Vue.js 3 Tailwind CSS admin template with dark mode.
 - [Mosaic - Vue Admin TailwindCSS template](https://github.com/cruip/vuejs-admin-dashboard-template) - The All-in-one Tailwind CSS Admin Dashboard Template.
+- [vue-admin-box](https://github.com/cmdparkour/vue-admin-box) - The admin template based on vue3 and element-plus. [Live demo](https://cmdparkour.github.io/vue-admin-box/dist/)
 
 #### Server-side rendering
 
