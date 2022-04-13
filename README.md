@@ -206,6 +206,7 @@
 - [Vue.js Workshops](https://public.vuejsworkshops.com) - Learn Vue 2, in browser, by building 3 applications: Landing page, Todos App and Podcasts aggregator.( Vue.js, Vue-Router, Vuex, Vue-Axios, Vue-Apollo )
 - [Vue.js Articles](https://thewebdev.info/category/javascript/vue/) - Assorted Vue 2 and 3 tutorials and articles.
 - [Best vue.js Courses On YouTube](https://www.nbshare.io/blog/best-vue-js-courses-on-youtube/) - Handpicked list of best Vue.js tutorials on YouTube
+- [Notes on Vue](https://notes-on-vue.ackzell.dev/) - A personal guide to Vue development.
 
 
 ### Job Portal
@@ -285,6 +286,9 @@
 - [Cynical Developer #99 (10-15-2018)](https://cynicaldeveloper.com/podcast/99/)
 - [Syntax #130 (03-27-2019)](https://syntax.fm/show/130/the-vuejs-show-scott-teaches-wes)
 - [Enjoy the Vue: The new Vue.js podcast](https://enjoythevue.io/)
+- [¿Qué es Pinia? con @posva](https://www.mytypeof.dev/1190693/9610327-que-es-pinia-con-posva)
+- [Evolución de Vue - Parte I](https://www.mytypeof.dev/1190693/7055926-evolucion-de-vue-parte-i)
+- [React vs Vue - las comunidades](https://www.mytypeof.dev/1190693/6151663-react-vs-vue-las-comunidades)
 
 ### Youtube Channels
 
@@ -474,6 +478,7 @@
 - [Add a prebuilt video chat widget to any Vue app with daily-js](https://www.daily.co/blog/build-a-video-chat-app-with-vue-and-daily-prebuilt/) by Jess Mitchell, via Daily (August 2021)
 - [Build a custom video chat app with daily-js and Vue](https://www.daily.co/blog/custom-video-chat-app-with-daily-and-vue/) by Jess Mitchell, via Daily (November 2021)
 - [Vue Pwa: Build a Progressive Web Application With Nuxt](https://snipcart.com/blog/vue-pwa-development) on Snipcart
+- [Introducción a Vue](https://scrimba.com/playlist/pDzVxUd) Scrimba mini-course in Spanish.
 
 ### Examples
 
@@ -2007,7 +2012,7 @@ _Date / datetime / time Picker_
 - [vue-datepicker](https://github.com/mathieustan/vue-datepicker) - A clean & responsive datepicker with Material Design style for Vuejs 2.x. (date/month/quarter && date range picker) :new:
 - [@alireza-ab/vue-persian-datepicker](https://github.com/alireza-ab/vue-persian-datepicker) - A datepicker component for select persian date. **(single and range selection, select date and time, select with keyboard, customizable style, localization)**
 - [vue-easy-range-date-picker](https://github.com/HC200ok/vue-easy-range-date-picker) - A simple and easy VueJS (2.x) component for date range selection
-- [vue3-date-time-picker](https://github.com/Vuepic/vue3-date-time-picker) - The most complete date picker solution for Vue 3
+- [@vuepic/vue-datepicker](https://github.com/Vuepic/vue-datepicker) - The most complete date picker solution for Vue 3
 - [vue-datepicker-next](https://github.com/mengxiong10/vue-datepicker-next) - Vue 3.x component for datepicker / timepicker / datetimepicker / calendar
 
 ##### Select
@@ -2757,6 +2762,7 @@ _Seamless scrolling_
 - [vue-digital-transform](https://github.com/DakerHub/vue-digital-transform) A vue component for better digital transform animation
 - [vue-typical](https://github.com/Turkyden/vue-typical) 🐡 Vue Animated typing in ~400 bytes of JavaScript.
 - [vue3-lottie](https://github.com/megasanjay/vue3-lottie) A component for importing and displaying Lottie animations in Vue 3
+- [@morev/vue-transitions](https://github.com/morevm/vue-transitions) Transitions library for Vue 2 and 3 with no CSS needed
 
 #### Meta Tags
 
