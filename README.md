@@ -2075,7 +2075,7 @@ _Date / datetime / time Picker_
 - [vue-drag-n-drop](https://github.com/smaharj1/vue-drag-and-drop-kanban) - A simple kanban board where the items can be dragged and dropped from the list on to the board.
 - [vue-card-stack](https://github.com/rodleviton/vue-card-stack) - Stackable, swipeable, tweakable Vue card component.
 - [vue-drag-drop-snap](https://github.com/mrfade/vue-drag-drop-snap) - A dependency-free Vue component for drag and drop with snapping.
-- [vue3-dnd](https://github.com/hcg1023/vue3-dnd) - React DnD vue3 implementation, Use the Composition API for sortable and free draggable.
+- [vue3-dnd](https://github.com/hcg1023/vue3-dnd) - React DnD in Composition API implementation, Use the Composition API for sortable and free draggable, Supported Vue2, Vue3.
 
 ##### Autocomplete
 
@@ -2693,6 +2693,7 @@ _Seamless scrolling_
 - [vue-router-compositions](https://github.com/greenpress/vue-router-compositions) - A util package for Vue-Router and Vue Composition API.
 - [vue-middleware](https://github.com/grafikri/vue-middleware) - Middleware for Vue.
 - [vue-router-webcache](https://github.com/Kolobok12309/vue-router-webcache) - Enable spa routing while in google/yandex/etc webcache.
+- [v-route-generate](https://github.com/weiquanju/v-route-generate) - A tool to generate routes for vue-router 4.x.
 
 #### Lazy Load
 
